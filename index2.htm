@@ -1,0 +1,3997 @@
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+	<title>DataTables example - Bootstrap 3</title>
+	<link rel="shortcut icon" type="image/png" href="/media/images/favicon.png">
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.datatables.net/rss.xml">
+	<link rel="stylesheet" type="text/css" href="/media/css/site-examples.css?_=19472395a2969da78c8a4c707e72123a">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap.min.css">
+	<style type="text/css" class="init">
+	
+	</style>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/js/site.js?_=5e8f232afab336abc1a1b65046a73460"></script>
+	<script type="text/javascript" src="/media/js/dynamic.php?comments-page=examples%2Fstyling%2Fbootstrap.html" async=""></script>
+	<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap.min.js"></script>
+	<script type="text/javascript" language="javascript" src="../resources/demo.js"></script>
+	<script type="text/javascript" class="init">
+	
+$(document).ready(function() {
+	$('#example').DataTable( {
+		"lengthMenu": [[10, ], [10]],
+		"language": {
+            "lengthMenu": "Mostrando _MENU_ registros por página",
+            "zeroRecords": "No hay ningún resultado",
+            "info": "Mostrando página _PAGE_ de _PAGES_",
+            "infoEmpty": "No hay ningún resultado",
+            "search":         "Buscar:",
+            "infoFiltered": "(Filtrado de _MAX_ registros)",
+            "paginate": {
+        "first":      "Primera",
+        "last":       "Última",
+        "next":       "Siguiente",
+        "previous":   "Previa"
+    }
+        }
+        
+
+	});
+} );
+
+	</script>
+</head>
+<table id="example" class="table table-striped table-bordered" style="width:100%">
+<thead><tr><th title="Field #1">Grado</th>
+<th title="Field #2">Univ</th>
+<th title="Field #3">PAU y FP</th>
+<th title="Field #4">Más de 25</th>
+<th title="Field #5">Titulados</th>
+<th title="Field #6">Más de 45</th>
+</tr></thead>
+<tbody><tr>
+<td>Física / Matemáticas</td>
+<td>UAB</td>
+<td>13,318</td>
+<td>5</td>
+<td>9,32</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Física / Matemáticas</td>
+<td>UB</td>
+<td>13,25</td>
+<td>6,75</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Medicina</td>
+<td>UB</td>
+<td>12,824</td>
+<td>6,625</td>
+<td>9,35</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Física</td>
+<td>UPC</td>
+<td>12,732</td>
+<td>5</td>
+<td>8,43</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Filosofía, Política Y Economía</td>
+<td>UPF / UAB</td>
+<td>12,71</td>
+<td>7,5</td>
+<td>7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Medicina</td>
+<td>UPF / UAB</td>
+<td>12,704</td>
+<td>6,25</td>
+<td>9,309</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Matemáticas</td>
+<td>UPC</td>
+<td>12,684</td>
+<td>5</td>
+<td>6,55</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios Globales</td>
+<td>UPF</td>
+<td>12,674</td>
+<td>7,063</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Medicina</td>
+<td>UB</td>
+<td>12,641</td>
+<td>6,25</td>
+<td>9,28</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Bioquímica y Biología Molecular / Biotecnología</td>
+<td>URV</td>
+<td>12,63</td>
+<td>5</td>
+<td>8,73</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Física / Química</td>
+<td>UAB</td>
+<td>12,54</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería en Tecnologías Aeroespaciales</td>
+<td>UPC</td>
+<td>12,39</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Medicina</td>
+<td>URV</td>
+<td>12,362</td>
+<td>5,438</td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Medicina</td>
+<td>UAB</td>
+<td>12,334</td>
+<td>5,375</td>
+<td>9,058</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Biomédica</td>
+<td>UB</td>
+<td>12,288</td>
+<td>5</td>
+<td>6,413</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Medicina</td>
+<td>UdL</td>
+<td>12,264</td>
+<td>5,063</td>
+<td>9,03</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Medicina</td>
+<td>UdG</td>
+<td>12,258</td>
+<td>6,75</td>
+<td>9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios Internacionales de Economía y Empresa - International Business Economics</td>
+<td>UPF</td>
+<td>12,25</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática / Matemáticas</td>
+<td>UB</td>
+<td>12,25</td>
+<td>5</td>
+<td>8,1</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Biomédicas</td>
+<td>UAB</td>
+<td>12,244</td>
+<td>5,5</td>
+<td>8,68</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Tecnologías Industriales y Análisis Económico (Docencia en Inglés)</td>
+<td>UPC / UPF</td>
+<td>12,102</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Biomédicas</td>
+<td>UB</td>
+<td>12,07</td>
+<td>5,375</td>
+<td>8,09</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencia e Ingeniería De Datos</td>
+<td>UPC</td>
+<td>12,018</td>
+<td>5</td>
+<td>6,91</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Biomédica</td>
+<td>UPF</td>
+<td>12,002</td>
+<td>5</td>
+<td>7,386</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biología Humana</td>
+<td>UPF</td>
+<td>11,976</td>
+<td>5,438</td>
+<td>8,46</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho / Administración y Dirección de Empresas - Economía</td>
+<td>UPF</td>
+<td>11,96</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Medicina</td>
+<td>UVic</td>
+<td>11,914</td>
+<td>5,938</td>
+<td>8,74</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Farmacia / Nutrición Humana y Dietética</td>
+<td>UB</td>
+<td>11,828</td>
+<td>6,438</td>
+<td>7,87</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería en Vehículos Aeroespaciales</td>
+<td>UPC</td>
+<td>11,822</td>
+<td>5</td>
+<td>6,26</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Bioquímica</td>
+<td>UB</td>
+<td>11,776</td>
+<td>5</td>
+<td>7,8</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>Periodismo</td>
+<td>UPF</td>
+<td>11,762</td>
+<td>7,188</td>
+<td>7,49</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Biomédicas</td>
+<td>UdL</td>
+<td>11,76</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Genética</td>
+<td>UAB</td>
+<td>11,754</td>
+<td>5</td>
+<td>7,7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Física</td>
+<td>UAB</td>
+<td>11,73</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biotecnología</td>
+<td>UB</td>
+<td>11,668</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Programa de Grado Abierto</td>
+<td>UPF</td>
+<td>11,645</td>
+<td>5</td>
+<td>8,02</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Odontología</td>
+<td>UB</td>
+<td>11,615</td>
+<td>5,969</td>
+<td>8,47</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Veterinaria</td>
+<td>UAB</td>
+<td>11,546</td>
+<td>6</td>
+<td>8,46</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia / Enfermería</td>
+<td>UdL</td>
+<td>11,522</td>
+<td>5,313</td>
+<td>7,57</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>UB</td>
+<td>11,508</td>
+<td>6,563</td>
+<td>8,43</td>
+<td>6,167</td>
+</tr>
+<tr>
+<td>Publicidad y Relaciones Públicas</td>
+<td>UPF</td>
+<td>11,49</td>
+<td>6,313</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biología / Biotecnología</td>
+<td>UdG</td>
+<td>11,452</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Física</td>
+<td>UB</td>
+<td>11,446</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Matemáticas</td>
+<td>UB</td>
+<td>11,436</td>
+<td>5</td>
+<td>6,37</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Relaciones Internacionales</td>
+<td>UAB</td>
+<td>11,377</td>
+<td>7,688</td>
+<td>6,03</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Bioquímica</td>
+<td>UAB</td>
+<td>11,338</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Comunicación Audiovisual</td>
+<td>UPF</td>
+<td>11,338</td>
+<td>6,625</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Bioquímica y Biología Molecular</td>
+<td>URV</td>
+<td>11,336</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencia Política y Gestión Pública / Derecho</td>
+<td>UAB</td>
+<td>11,316</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Matemáticas</td>
+<td>UB</td>
+<td>11,304</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Biomédica</td>
+<td>UPC</td>
+<td>11,254</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biotecnología</td>
+<td>UAB</td>
+<td>11,254</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Criminología y Políticas Públicas de Prevención / Derecho</td>
+<td>UPF</td>
+<td>11,248</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Matemáticas</td>
+<td>UAB</td>
+<td>11,224</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencia Política y Gestión Pública / Sociología</td>
+<td>UAB</td>
+<td>11,04</td>
+<td>5</td>
+<td>5</td>
+<td>7,167</td>
+</tr>
+<tr>
+<td>Educación Infantil / Educación Primaria</td>
+<td>UB</td>
+<td>11,018</td>
+<td>5</td>
+<td>6,74</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Microbiología</td>
+<td>UAB</td>
+<td>10,99</td>
+<td>6,125</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Matemática en Ciencia de Datos</td>
+<td>UPF</td>
+<td>10,958</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencia y Producción Animal / Veterinaria</td>
+<td>UdL</td>
+<td>10,848</td>
+<td>5,438</td>
+<td>8,31</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte / Fisioterapia</td>
+<td>UdL</td>
+<td>10,816</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>UPF</td>
+<td>10,811</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biología</td>
+<td>UB</td>
+<td>10,79</td>
+<td>5</td>
+<td>6,689</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biología</td>
+<td>UAB</td>
+<td>10,76</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Publicidad y Relaciones Públicas</td>
+<td>UAB</td>
+<td>10,737</td>
+<td>5,438</td>
+<td>5</td>
+<td>7,667</td>
+</tr>
+<tr>
+<td>Nanociencia y Nanotecnología</td>
+<td>UAB</td>
+<td>10,678</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biología Ambiental</td>
+<td>UAB</td>
+<td>10,644</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biotecnología</td>
+<td>URV</td>
+<td>10,626</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biotecnología / Ingeniería Informática</td>
+<td>URV</td>
+<td>10,621</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Criminología / Derecho</td>
+<td>UB</td>
+<td>10,591</td>
+<td>6,375</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Criminología / Derecho</td>
+<td>UAB</td>
+<td>10,57</td>
+<td>5,75</td>
+<td>7,8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Políticas y de la Administración / Derecho</td>
+<td>UB</td>
+<td>10,566</td>
+<td>5,063</td>
+<td>8,88</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>UAB</td>
+<td>10,534</td>
+<td>6,625</td>
+<td>8,679</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Ciencias Empresariales - Management</td>
+<td>UPF</td>
+<td>10,534</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil / Educación Primaria</td>
+<td>UAB</td>
+<td>10,484</td>
+<td>5</td>
+<td>7,33</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Diseño Industrial y Desarrollo del Producto</td>
+<td>UPC</td>
+<td>10,382</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería De Sistemas Aeroespaciales / Ingeniería De Sistemas De Telecomunicación - Ingeniería Telemática</td>
+<td>UPC</td>
+<td>10,378</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Empresa Internacional (Inglés)</td>
+<td>UB</td>
+<td>10,372</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Derecho</td>
+<td>UB</td>
+<td>10,366</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho</td>
+<td>UPF</td>
+<td>10,352</td>
+<td>5,125</td>
+<td>7,17</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Economía</td>
+<td>UPF</td>
+<td>10,34</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biotecnología</td>
+<td>UdG</td>
+<td>10,286</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>UB</td>
+<td>10,258</td>
+<td>6,407</td>
+<td>7,53</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Comunicación Audiovisual</td>
+<td>UAB</td>
+<td>10,16</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Matemática Computacional y Analítica de Datos</td>
+<td>UAB</td>
+<td>10,134</td>
+<td>5</td>
+<td>6,06</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Farmacia</td>
+<td>UB</td>
+<td>10,108</td>
+<td>5</td>
+<td>6,91</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Ingeniería Informática</td>
+<td>UdL</td>
+<td>10,086</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia / Nutrición Humana y Dietética</td>
+<td>UdL</td>
+<td>10,084</td>
+<td>6,125</td>
+<td>8,04</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biología / Ciencias Ambientales</td>
+<td>UdG</td>
+<td>10,084</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia</td>
+<td>UAB</td>
+<td>10,06</td>
+<td>7,875</td>
+<td>8,44</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Biomédica</td>
+<td>URV</td>
+<td>9,982</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño</td>
+<td>UB</td>
+<td>9,964</td>
+<td>5,188</td>
+<td>7,12</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biotecnología</td>
+<td>UdL</td>
+<td>9,904</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Criminología / Derecho</td>
+<td>UdG</td>
+<td>9,9</td>
+<td>8</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Comunicación Audiovisual</td>
+<td>UB</td>
+<td>9,884</td>
+<td>6,313</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Economía / Estadística</td>
+<td>UB / UPC</td>
+<td>9,876</td>
+<td>5</td>
+<td>6,46</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>UdL</td>
+<td>9,856</td>
+<td>5</td>
+<td>7,36</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios Ingleses / Lenguas Aplicadas y Traducción</td>
+<td>UdL</td>
+<td>9,854</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Del Mar</td>
+<td>UB</td>
+<td>9,828</td>
+<td>5,125</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Nutrición Humana y Dietética</td>
+<td>UB</td>
+<td>9,8</td>
+<td>6,25</td>
+<td>8,02</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia</td>
+<td>UdL</td>
+<td>9,791</td>
+<td>5,188</td>
+<td>9,03</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>URV</td>
+<td>9,782</td>
+<td>6</td>
+<td>7,42</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Ingeniería En Tecnologías Industriales</td>
+<td>UPC</td>
+<td>9,766</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios De Asia Oriental -Japonès-</td>
+<td>UAB</td>
+<td>9,743</td>
+<td>7,625</td>
+<td>7,67</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Periodismo</td>
+<td>UAB</td>
+<td>9,732</td>
+<td>5,125</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Electrónica De Telecomunicación</td>
+<td>UPC</td>
+<td>9,732</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil / Educación Primaria</td>
+<td>UdG</td>
+<td>9,645</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biología</td>
+<td>UdG</td>
+<td>9,644</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Comunicación Audiovisual / Información Y Documentación</td>
+<td>UB</td>
+<td>9,494</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Química</td>
+<td>UB</td>
+<td>9,482</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>9,464</td>
+<td>5,875</td>
+<td>8,048</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte</td>
+<td>UB</td>
+<td>9,454</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Negocios y Marketing Internacionales &quot;ESCI&quot;</td>
+<td>UPF</td>
+<td>9,414</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática</td>
+<td>UPC</td>
+<td>9,406</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>UdG</td>
+<td>9,38</td>
+<td>6</td>
+<td>6,93</td>
+<td>5,167</td>
+</tr>
+<tr>
+<td>Ciencias Políticas y de la Administración / Derecho</td>
+<td>UdG</td>
+<td>9,355</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Publicidad Y Relaciones Públicas</td>
+<td>URV</td>
+<td>9,31</td>
+<td>5,625</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Finanzas y Contabilidad</td>
+<td>URV</td>
+<td>9,294</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Social</td>
+<td>UAB</td>
+<td>9,284</td>
+<td>5,813</td>
+<td>6,22</td>
+<td>5,833</td>
+</tr>
+<tr>
+<td>Cinematografía &quot;Escac&quot;</td>
+<td>UB</td>
+<td>9,264</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Derecho</td>
+<td>UdG</td>
+<td>9,232</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>UdL</td>
+<td>9,208</td>
+<td>5,625</td>
+<td>7,3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Periodismo</td>
+<td>URV</td>
+<td>9,2</td>
+<td>8,688</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Sistemas Aeroespaciales</td>
+<td>UPC</td>
+<td>9,192</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>URV</td>
+<td>9,186</td>
+<td>6,5</td>
+<td>7,21</td>
+<td>5,333</td>
+</tr>
+<tr>
+<td>Educación Primaria</td>
+<td>UAB</td>
+<td>9,172</td>
+<td>5</td>
+<td>6,81</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia</td>
+<td>URV</td>
+<td>9,13</td>
+<td>5,063</td>
+<td>7,53</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño, Animación y Arte Digital &quot;CITM&quot;</td>
+<td>UPC</td>
+<td>9,104</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>URV</td>
+<td>9,102</td>
+<td>5,5</td>
+<td>7,228</td>
+<td>5,5</td>
+</tr>
+<tr>
+<td>Ciencia y Tecnología de los Alimentos</td>
+<td>UAB</td>
+<td>9,062</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería De Automoción</td>
+<td>UPC</td>
+<td>9,032</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Química</td>
+<td>UB</td>
+<td>8,97</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Ambientales</td>
+<td>UB</td>
+<td>8,964</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencia Política y Gestión Pública</td>
+<td>UAB</td>
+<td>8,958</td>
+<td>5</td>
+<td>5</td>
+<td>5,5</td>
+</tr>
+<tr>
+<td>Ciencias Políticas y de la Administración</td>
+<td>UPF</td>
+<td>8,956</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Sistemas de Telecomunicación / Ingeniería Informática</td>
+<td>UAB</td>
+<td>8,936</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Derecho</td>
+<td>UAB</td>
+<td>8,904</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios de Género</td>
+<td>UAB</td>
+<td>8,878</td>
+<td>7,313</td>
+<td>8,01</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería &quot;San Pablo&quot;</td>
+<td>UAB</td>
+<td>8,874</td>
+<td>5,875</td>
+<td>7,3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Ambientales / Geología</td>
+<td>UAB</td>
+<td>8,874</td>
+<td>6,032</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Comunicación Audiovisual</td>
+<td>URV</td>
+<td>8,852</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Ambientales</td>
+<td>UAB</td>
+<td>8,852</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Social</td>
+<td>UB</td>
+<td>8,814</td>
+<td>6,438</td>
+<td>5</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Química</td>
+<td>UAB</td>
+<td>8,814</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Publicidad y Relaciones Públicas</td>
+<td>UdG</td>
+<td>8,812</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño y Desarrollo de Videojuegos (Docencia en Inglés)</td>
+<td>UPC</td>
+<td>8,806</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Electrónica Industrial y Automática</td>
+<td>UPC</td>
+<td>8,78</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática</td>
+<td>UB</td>
+<td>8,728</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Comunicación e Industrias Culturales</td>
+<td>UB</td>
+<td>8,654</td>
+<td>5</td>
+<td>5</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Ingeniería en Tecnologías Industriales</td>
+<td>UdG</td>
+<td>8,652</td>
+<td>5</td>
+<td>8,216</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>UAB</td>
+<td>8,65</td>
+<td>5</td>
+<td>5</td>
+<td>5,167</td>
+</tr>
+<tr>
+<td>Educación Infantil</td>
+<td>UAB</td>
+<td>8,626</td>
+<td>5</td>
+<td>5,51</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería &quot;San Juan De Dios&quot;</td>
+<td>UB</td>
+<td>8,606</td>
+<td>6</td>
+<td>7,28</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Economía (Docencia En Inglés)</td>
+<td>UAB</td>
+<td>8,592</td>
+<td>6,938</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Economía</td>
+<td>UdG</td>
+<td>8,544</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios de Asia Oriental -Chino-</td>
+<td>UAB</td>
+<td>8,532</td>
+<td>8,688</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Publicidad y Relaciones Públicas</td>
+<td>UB</td>
+<td>8,52</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática</td>
+<td>UPF</td>
+<td>8,518</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Social</td>
+<td>UdG</td>
+<td>8,469</td>
+<td>6,5</td>
+<td>5</td>
+<td>6,5</td>
+</tr>
+<tr>
+<td>Criminología</td>
+<td>UAB</td>
+<td>8,454</td>
+<td>5,875</td>
+<td>6,07</td>
+<td>7,167</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>UAB</td>
+<td>8,412</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería &quot;Escuela Superior De Enfermería Del Mar&quot;</td>
+<td>UPF</td>
+<td>8,41</td>
+<td>5,5</td>
+<td>7,08</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Primaria</td>
+<td>UdG</td>
+<td>8,388</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Criminología y Políticas Públicas de Prevención</td>
+<td>UPF</td>
+<td>8,386</td>
+<td>6,938</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño y Desarrollo de Videojuegos</td>
+<td>UdG</td>
+<td>8,373</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho</td>
+<td>UB</td>
+<td>8,366</td>
+<td>5,188</td>
+<td>7,2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Psicología</td>
+<td>UB</td>
+<td>8,358</td>
+<td>5,438</td>
+<td>7,3</td>
+<td>5,5</td>
+</tr>
+<tr>
+<td>Derecho / Gestión y Administración Pública</td>
+<td>UB</td>
+<td>8,352</td>
+<td>5,063</td>
+<td>5,617</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte</td>
+<td>UdL</td>
+<td>8,309</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Social</td>
+<td>URV</td>
+<td>8,288</td>
+<td>6,875</td>
+<td>5</td>
+<td>7,167</td>
+</tr>
+<tr>
+<td>Pedagogía</td>
+<td>UAB</td>
+<td>8,273</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencia y Tecnología de los Alimentos</td>
+<td>UB</td>
+<td>8,216</td>
+<td>5</td>
+<td>5,93</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Psicología</td>
+<td>UAB</td>
+<td>8,2</td>
+<td>5,063</td>
+<td>6,77</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Psicología</td>
+<td>UdG</td>
+<td>8,189</td>
+<td>6,438</td>
+<td>7,29</td>
+<td>6,333</td>
+</tr>
+<tr>
+<td>Ingeniería De Datos</td>
+<td>UAB</td>
+<td>8,17</td>
+<td>5</td>
+<td>7,179</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Derecho</td>
+<td>URV</td>
+<td>8,162</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Arquitectura, Estudios De</td>
+<td>UPC</td>
+<td>8,144</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho</td>
+<td>UAB</td>
+<td>8,134</td>
+<td>5,625</td>
+<td>6,95</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Primaria</td>
+<td>UB</td>
+<td>8,124</td>
+<td>5</td>
+<td>6,86</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Criminología</td>
+<td>UB</td>
+<td>8,089</td>
+<td>6,125</td>
+<td>6,64</td>
+<td>5,667</td>
+</tr>
+<tr>
+<td>Estudios Literarios</td>
+<td>UB</td>
+<td>8,068</td>
+<td>7,063</td>
+<td>7,22</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>8,064</td>
+<td>5,438</td>
+<td>7,2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Pedagogía</td>
+<td>URV</td>
+<td>8,02</td>
+<td>8,375</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Civil (Docencia En Inglés)</td>
+<td>UPC</td>
+<td>8</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Psicología</td>
+<td>UdL</td>
+<td>7,974</td>
+<td>5,063</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Primaria (Docencia En Inglés)</td>
+<td>UAB</td>
+<td>7,964</td>
+<td>5</td>
+<td>7,02</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración de Empresas y Gestión de la Innovación / Marketing y Comunidades Digitales &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>7,948</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Políticas y de la Administración</td>
+<td>UB</td>
+<td>7,934</td>
+<td>6,5</td>
+<td>6,6</td>
+<td>5,667</td>
+</tr>
+<tr>
+<td>Educación Infantil</td>
+<td>UB</td>
+<td>7,896</td>
+<td>5</td>
+<td>6,3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil / Educación Primaria</td>
+<td>URV</td>
+<td>7,891</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil / Educación Primaria</td>
+<td>UdL</td>
+<td>7,878</td>
+<td>5</td>
+<td>6,8</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Comunicación Audiovisual y Multimedia &quot;ERAM&quot;</td>
+<td>UdG</td>
+<td>7,874</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Primaria</td>
+<td>URV</td>
+<td>7,854</td>
+<td>5</td>
+<td>5,92</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Nutrición Humana y Dietética</td>
+<td>UdL</td>
+<td>7,822</td>
+<td>5</td>
+<td>6,05</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Química</td>
+<td>URV</td>
+<td>7,82</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estadística</td>
+<td>UB / UPC</td>
+<td>7,794</td>
+<td>5</td>
+<td>6,9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho / Relaciones Laborales</td>
+<td>UAB</td>
+<td>7,79</td>
+<td>5</td>
+<td>6,65</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Trabajo Social</td>
+<td>UB</td>
+<td>7,79</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Mecánica</td>
+<td>UPC</td>
+<td>7,778</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte / Fisioterapia &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>7,755</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Pedagogía</td>
+<td>UB</td>
+<td>7,714</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Bellas Artes</td>
+<td>UB</td>
+<td>7,68</td>
+<td>5</td>
+<td>6,59</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho / Relaciones Laborales</td>
+<td>UB</td>
+<td>7,664</td>
+<td>6,188</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Psicología</td>
+<td>URV</td>
+<td>7,66</td>
+<td>5</td>
+<td>6,48</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Comunicación y Periodismo Audiovisuales</td>
+<td>UdL</td>
+<td>7,644</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte / Educación Primaria</td>
+<td>UdL</td>
+<td>7,642</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Trabajo Social</td>
+<td>UdG</td>
+<td>7,628</td>
+<td>5</td>
+<td>8,39</td>
+<td>6,333</td>
+</tr>
+<tr>
+<td>Educación Infantil</td>
+<td>UdG</td>
+<td>7,571</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño y Desarrollo de Videojuegos</td>
+<td>UPC</td>
+<td>7,548</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Podología</td>
+<td>UB</td>
+<td>7,516</td>
+<td>6,25</td>
+<td>7,475</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>7,516</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Pedagogía</td>
+<td>UdG</td>
+<td>7,51</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Traducción E Interpretación -Inglés-</td>
+<td>UPF</td>
+<td>7,5</td>
+<td>5,375</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Logopedia</td>
+<td>UAB</td>
+<td>7,498</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Social</td>
+<td>UdL</td>
+<td>7,496</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>UB</td>
+<td>7,472</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática</td>
+<td>UAB</td>
+<td>7,412</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño &quot;Bau&quot;</td>
+<td>UVic</td>
+<td>7,382</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Eléctrica / Ingeniería Electrónica Industrial Y Automática</td>
+<td>URV</td>
+<td>7,372</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Criminología</td>
+<td>UdG</td>
+<td>7,367</td>
+<td>7,313</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Traducción E Interpretación -Inglés-</td>
+<td>UAB</td>
+<td>7,324</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería En Sistemas Audiovisuales</td>
+<td>UPF</td>
+<td>7,32</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería De La Energía</td>
+<td>UPC</td>
+<td>7,232</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios Ingleses</td>
+<td>UAB</td>
+<td>7,182</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Seguridad</td>
+<td>UB</td>
+<td>7,154</td>
+<td>6,25</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>UdG</td>
+<td>7,154</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia</td>
+<td>UdG</td>
+<td>7,067</td>
+<td>5</td>
+<td>7,23</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Empresa y Tecnología</td>
+<td>UAB</td>
+<td>7,06</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Economía</td>
+<td>UB</td>
+<td>7,056</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Electrónica de Telecomunicación / Ingeniería Informática</td>
+<td>UAB</td>
+<td>7,042</td>
+<td>5</td>
+<td>7,27</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil</td>
+<td>URV</td>
+<td>6,96</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería &quot;Cruz Roja&quot; EUIT de Terrassa</td>
+<td>UAB</td>
+<td>6,933</td>
+<td>5</td>
+<td>6,863</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Economía</td>
+<td>UAB</td>
+<td>6,922</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Tecnologías y Servicios de Telecomunicación</td>
+<td>UPC</td>
+<td>6,916</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática</td>
+<td>UPC</td>
+<td>6,902</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Trabajo Social</td>
+<td>URV</td>
+<td>6,881</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Marketing y Comunidades Digitales &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>6,856</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho</td>
+<td>URV</td>
+<td>6,852</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Antropología Social y Cultural</td>
+<td>UAB</td>
+<td>6,844</td>
+<td>5</td>
+<td>5</td>
+<td>7,667</td>
+</tr>
+<tr>
+<td>Nutrición Humana y Dietética</td>
+<td>URV</td>
+<td>6,826</td>
+<td>5</td>
+<td>6,35</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho / Relaciones Laborales y Empleo</td>
+<td>URV</td>
+<td>6,776</td>
+<td>7,125</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lenguas Aplicadas / Traducción e Interpretación -inglés-</td>
+<td>UPF</td>
+<td>6,756</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte / Fisioterapia</td>
+<td>UdG</td>
+<td>6,741</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Sociología</td>
+<td>UAB</td>
+<td>6,726</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Electrónica de Telecomunicación</td>
+<td>UB</td>
+<td>6,704</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Multimedia</td>
+<td>UPC</td>
+<td>6,676</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Química</td>
+<td>UdG</td>
+<td>6,667</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería De La Automoción</td>
+<td>UVic</td>
+<td>6,614</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo / Marketing &quot;Mediterráneo&quot;</td>
+<td>UdG</td>
+<td>6,584</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Química</td>
+<td>URV</td>
+<td>6,542</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Gestión Aeronáutica</td>
+<td>UAB</td>
+<td>6,534</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho</td>
+<td>UdG</td>
+<td>6,5</td>
+<td>5</td>
+<td>6,21</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Náutica y Transporte Marítimo</td>
+<td>UPC</td>
+<td>6,469</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Historia del Arte y Gestión del Patrimonio Artístico</td>
+<td>UdL</td>
+<td>6,434</td>
+<td>7,188</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Sociología</td>
+<td>UB</td>
+<td>6,41</td>
+<td>5,02</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Relaciones Laborales</td>
+<td>UAB</td>
+<td>6,386</td>
+<td>5,75</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Química</td>
+<td>UAB</td>
+<td>6,384</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño y Producción de Videojuegos / Ingeniería Informática de Gestión y Sistemas de Información &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>6,328</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Derecho</td>
+<td>UdL</td>
+<td>6,28</td>
+<td>5</td>
+<td>6,51</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño y Producción de Videojuegos &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>6,265</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Logística y Negocios Marítimos &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>6,25</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Economía</td>
+<td>UdG</td>
+<td>6,248</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Economía / Filosofía</td>
+<td>UdG</td>
+<td>6,204</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Biomédica</td>
+<td>UdG</td>
+<td>6,19</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Tecnología y Diseño Textil / Ingeniería Eléctrica / Ingeniería Electrónica Industrial y Automática / Ingeniería Mecánica / Ingeniería Química</td>
+<td>UPC</td>
+<td>6,186</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho</td>
+<td>UdL</td>
+<td>6,172</td>
+<td>5,063</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte</td>
+<td>UVic</td>
+<td>6,16</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Primaria</td>
+<td>UdL</td>
+<td>6,138</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Trabajo Social</td>
+<td>UdL</td>
+<td>6,124</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia</td>
+<td>UVic</td>
+<td>6,105</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas / Turismo</td>
+<td>UdL</td>
+<td>6,094</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Relaciones Laborales</td>
+<td>UB</td>
+<td>6,078</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Relaciones Laborales</td>
+<td>UPF</td>
+<td>6,052</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Gestión Y Administración Pública</td>
+<td>UB</td>
+<td>5,971</td>
+<td>5</td>
+<td>6,4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Marketing y Comunicación Digital &quot;EAE&quot;</td>
+<td>UPC</td>
+<td>5,97</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Inglés</td>
+<td>URV</td>
+<td>5,97</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración de Empresas y Gestión de la Innovación &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>5,944</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Artes Escénicas</td>
+<td>UdG</td>
+<td>5,928</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Contabilidad Y Finanzas</td>
+<td>UAB</td>
+<td>5,868</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración de Empresas y Gestión de la Innovación &quot;Tecnocampus&quot; (Docencia en inglés)</td>
+<td>UPF</td>
+<td>5,798</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Eléctrica</td>
+<td>UPC</td>
+<td>5,77</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Antropología Social Y Cultural</td>
+<td>UB</td>
+<td>5,734</td>
+<td>5</td>
+<td>5</td>
+<td>5,833</td>
+</tr>
+<tr>
+<td>Medios Audiovisuales &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>5,714</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Psicología</td>
+<td>UVic</td>
+<td>5,68</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia</td>
+<td>UVic</td>
+<td>5,64</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Diseño Industrial y Desarrollo del Producto</td>
+<td>UPC</td>
+<td>5,566</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Química</td>
+<td>URV</td>
+<td>5,558</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Filología Hispánica</td>
+<td>UdL</td>
+<td>5,53</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte</td>
+<td>UdG</td>
+<td>5,512</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática</td>
+<td>UdL</td>
+<td>5,51</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia (Docencia En Inglés)</td>
+<td>UdG / UB</td>
+<td>5,5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática</td>
+<td>UdG</td>
+<td>5,436</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Piloto de Aviación Comercial y Operaciones Aéreas</td>
+<td>URV</td>
+<td>5,432</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería De Sistemas Biológicos</td>
+<td>UPC</td>
+<td>5,4</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Filosofía</td>
+<td>UAB</td>
+<td>5,39</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Técnicas de Interacción Digital y Computación</td>
+<td>UdL</td>
+<td>5,352</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Primaria</td>
+<td>URV</td>
+<td>5,322</td>
+<td>6,47</td>
+<td>6,9</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios de Arquitectura</td>
+<td>UPC</td>
+<td>5,288</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Comunicación Cultural</td>
+<td>UdG</td>
+<td>5,276</td>
+<td>5</td>
+<td>5</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Ciencias Ambientales</td>
+<td>UdG</td>
+<td>5,24</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración de Empresas y Gestión de la Innovación / Turismo y Gestión del Ocio &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>5,232</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Publicidad y Relaciones Públicas</td>
+<td>UVic</td>
+<td>5,23</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios Ingleses (Docencia en Inglés)</td>
+<td>UB</td>
+<td>5,204</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería De Sistemas Tic</td>
+<td>UPC</td>
+<td>5,2</td>
+<td>5</td>
+<td>7,19</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Musicología</td>
+<td>UAB</td>
+<td>5,16</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Redes de Telecomunicación</td>
+<td>UPF</td>
+<td>5,132</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios de Inglés y Español</td>
+<td>UAB</td>
+<td>5,128</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Traducción e Interpretación -Francès-</td>
+<td>UAB</td>
+<td>5,125</td>
+<td>5,313</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Artes y Diseño &quot;Massana&quot;</td>
+<td>UAB</td>
+<td>5,102</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>URV</td>
+<td>5,097</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias Políticas y de la Administración</td>
+<td>UdG</td>
+<td>5,088</td>
+<td>5</td>
+<td>5</td>
+<td>5,667</td>
+</tr>
+<tr>
+<td>Estudios de Inglés y Francés</td>
+<td>UAB</td>
+<td>5,086</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería &quot;Gimbernat&quot;</td>
+<td>UAB</td>
+<td>5,05</td>
+<td>5</td>
+<td>6,48</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas &quot;EUNCET&quot;</td>
+<td>UPC</td>
+<td>5,026</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Química</td>
+<td>UPC</td>
+<td>5,026</td>
+<td>5</td>
+<td>5,82</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia (Docencia en Inglés)</td>
+<td>UdG / UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Marketing y Comunicación Digital &quot;EUNCET&quot;</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Mecánica</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería en Sistemas y Tecnología Naval</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas &quot;Centro Universitario EAE&quot;</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas &quot;EUNCET&quot;</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Antropología y Evolución Humana</td>
+<td>URV / UOC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Arqueología</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Arqueología</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Arquitectura</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Arquitectura Técnica Y Edificación</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Arquitectura Técnica Y Edificación</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Arquitectura Técnica Y Edificación</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios de Arquitectura</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Bioinformática &quot;ESCI&quot; (Docencia en Inglés)</td>
+<td>UPF / UB / UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biología</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Biotecnología</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencia y Tecnología de los Alimentos</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5,333</td>
+</tr>
+<tr>
+<td>Ciencias Culinarias y Gastronómicas</td>
+<td>UB / UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Actividad Física y del Deporte / Fisioterapia</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Contabilidad y Finanzas</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Comunicación Audiovisual</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Conservación - Restauración de Bienes Culturales</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Conservación de la Naturaleza / Ingeniería Forestal</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Contenidos Digitales Interactivos</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Creación Artística para Videojuegos y Juegos Aplicados</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Dirección Hotelera</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño &quot;Eina&quot;</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño &quot;Elisava&quot;</td>
+<td>UPF</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diseño &quot;UniBA&quot; (Modalidad a distancia)</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Economía</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Infantil / Educación Primaria (Mención en Inglés)</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Primaria</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Educación Social</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Agraria y Alimentaria</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Agroalimentaria</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Alimentaria</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Biomédica</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Civil (Ámbito de Caminos, Canales y Puertos)</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Diseño Industrial &quot;Elisava&quot;</td>
+<td>UPF</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Materiales</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Materiales</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Sistemas Audiovisuales</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Sistemas de Telecomunicación / Ingeniería Electrónica de Telecomunicación</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Sistemas de Telecomunicación / Ingeniería Telemática</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Obras Públicas</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Eléctrica &quot;EU Salesiana de Sarrià&quot;</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Eléctrica</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>6,667</td>
+</tr>
+<tr>
+<td>Ingeniería Eléctrica</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Eléctrica / Ingeniería Electrónica Industrial y Automática</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Eléctrica / Ingeniería Electrónica Industrial y Automática / Ingeniería Mecánica</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Electrónica Industrial y Automática &quot;EU Salesiana de Sarrià&quot;</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Electrónica Industrial y Automática</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Electrónica Industrial y Automática</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Electrónica Industrial y Automática / Ingeniería Mecánica &quot;EU Salesiana de Sarrià&quot;</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Electrónica Industrial y Automática / Ingeniería Mecánica / Ingeniería Química</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería en Geoinformación y Geomática</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería en Organización Industrial &quot;EU Salesiana de Sarrià&quot;</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería en Tecnologías Industriales</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería en Tecnologías Industriales</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Forestal</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Informática de Gestión y Sistemas de Información &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Mecánica &quot;EU Salesiana de Sarrià&quot;</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Mecánica</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Mecatrónica</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Minera</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Química</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enología</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estadística Aplicada</td>
+<td>UAB / UVic</td>
+<td>5</td>
+<td>5</td>
+<td>6,44</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estadística Aplicada / Sociología</td>
+<td>UAB / UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios Ingleses</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios Árabes y Hebreos</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios de Inglés y Catalán</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios de Inglés y de Clásicas</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>6,29</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios de Catalán y Español</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>7,88</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Estudios Franceses</td>
+<td>UAB / UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Filología Catalana</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>6,667</td>
+</tr>
+<tr>
+<td>Filología Catalana y Estudios Occitans</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>6,74</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>Filología Catalana y Estudios Occitanos / Lenguas Aplicadas y Traducción</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Filología Clásica</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Filología Hispánica</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Filología Hispánica / Lenguas Aplicadas y Traducción</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Filosofía</td>
+<td>UB</td>
+<td>5</td>
+<td>5,938</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Filosofía</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Finanzas y Contabilidad</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia &quot;Gimbernat&quot;</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Fisioterapia</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>7,06</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Geografía</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>8,333</td>
+</tr>
+<tr>
+<td>Geografía</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Geografía, Análisis Territorial y Sostenibilidad</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Geografía, Ordenación del Territorio y Gestión del Medio Ambiente</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Geología</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Geología</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Gestión de Empresas en Comercio y Distribución &quot;ESCODI&quot;</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Gestión Hotelera y Turística</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Historia</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Historia</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Historia</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>7,833</td>
+</tr>
+<tr>
+<td>Historia</td>
+<td>UdL</td>
+<td>5</td>
+<td>5,625</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Historia del Arte</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>6,24</td>
+<td>8,333</td>
+</tr>
+<tr>
+<td>Historia del Arte</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Historia del Arte</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>7,09</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Humanidades</td>
+<td>UPF</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Humanidades</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>7,667</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Enfermería</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Información y Documentación</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Informática y Servicios</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Innovación y Seguridad Alimentaria</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lingüística</td>
+<td>UB</td>
+<td>5</td>
+<td>7,875</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lengua y Literatura Catalanas</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>7,11</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lengua y Literatura Catalanas</td>
+<td>UdG</td>
+<td>5</td>
+<td>5,25</td>
+<td>7,21</td>
+<td>8,333</td>
+</tr>
+<tr>
+<td>Lengua y Literatura Catalanas / Lengua y Literatura Hispánicas</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lengua y Literatura Españolas</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lengua y Literatura Españolas</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lenguas Aplicadas</td>
+<td>UPF</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lenguas y Literaturas Modernas</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Lenguas Románicas y sus Literaturas</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Marketing &quot;ESIC&quot;</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Marketing &quot;Mediterráneo&quot;</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Marketing y Comunicación Digital &quot;EUNCET&quot;</td>
+<td>UPC</td>
+<td>5</td>
+<td>6,188</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Marketing y Comunicación Empresarial</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Multimedia. Aplicaciones y Videojuegos</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Nutrición Humana y Dietética</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>6,2</td>
+<td>6,5</td>
+</tr>
+<tr>
+<td>Óptica y Optometría</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Periodismo</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Podología</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>6,201</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Prevención y Seguridad Integral</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Prevención y Seguridad Integral</td>
+<td>UAB</td>
+<td>5</td>
+<td>7,75</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Relaciones Laborales y Empleo</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Relaciones Laborales y Recursos Humanos</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Tecnologías Marinas</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Terapia Ocupacional &quot;Cruz Roja&quot; EUIT de Terrassa</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>terapia Ocupacional</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Traducción e Interpretación -Alemany-</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Traducción e Interpretación -Alemán / Francés / Lengua de Signos Catalana-</td>
+<td>UPF</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo &quot;CETT&quot;</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo &quot;CETT&quot; (Docencia en Inglés)</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo &quot;Euroaula&quot;</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo &quot;Formàtic Barna&quot;</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo &quot;Mediterráneo&quot;</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo (Docencia en Inglés)</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo</td>
+<td>UdG</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas &quot;EUNCET&quot; / Marketing y Comunicación Digital &quot;EUNCET&quot;</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Administración y Dirección de Empresas &quot;IGEMA&quot;</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias de la Antigüedad</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias y Tecnologías Aplicadas al Deporte y al Fitnes</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ciencias y Tecnologías del Mar</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Criminología &quot;ESERP&quot;</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Derecho &quot;ESERP&quot;</td>
+<td>UVic</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Bioprocesos Alimentarios / Técnicas de Bioprocesos Alimentarios</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Ciencias Agronómicas</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>6,5</td>
+</tr>
+<tr>
+<td>Ingeniería de la Energía y Sostenibilidad / Ingeniería en Electrónica Industrial y Automática / Ingeniería Mecánica</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Sistemas de Telecomunicación / Ingeniería Telemática (Febrero)</td>
+<td>UPC</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Sistemas y Servicios de Telecomunicaciones</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería de Organización Industrial / Ingeniería Electrónica Industrial y Automática / Ingeniería Mecánica &quot;Tecnocampus&quot;</td>
+<td>UPF</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería en Organización Industrial y Logística / Ingeniería Química</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Ingeniería Geológica y Ambiental</td>
+<td>UPC / UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Geografía, Medio Ambiente y Planificación Territorial</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Gestión de Ciudades Inteligentes y Sostenibles</td>
+<td>UAB</td>
+<td>5</td>
+<td>5</td>
+<td>7,2</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Gestión en Turismo y Hotelería</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Historia / Historia del Arte y Arqueología</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Investigación Privada</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Producción de Música y Sonido para la Industria del Entretenimiento</td>
+<td>UB</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Técnicas de Desarrollo de Aplicaciones Web y Móviles</td>
+<td>URV</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Turismo y Ocio &quot;OSTELEA&quot;</td>
+<td>UdL</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+</tbody></table>
