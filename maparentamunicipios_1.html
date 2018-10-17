@@ -135,7 +135,7 @@ function getColor(d) {
 		geojson = L.geoJson(data, {
 			style: style,
 			onEachFeature: function( feature, layer ){
-      		layer.bindPopup( "<span>" + feature.properties.municipio + "</span><br/>" + feature.properties.right_renta_bruta_media + " €") 
+      		layer.bindPopup( "<span>" + feature.properties.municipio + "</span><br/>" + feature.properties.renta_bruta_media + " €") 
     		}
 		}).addTo(map);
 
