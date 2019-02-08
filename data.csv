@@ -1,125 +1,125 @@
-ID,Piel,Edad,OjoColor,FAltura,PeloColor2,Persona,Categoria,Año
-1,Blanco,10 a 20,Marrón,"De 1,61 a 1,65",Castaño,Anna Paquin,Mejor Actriz de Reparto,1993
-1,Blanco,20 a 29,Azul,"De 1,71 a 1,75",Castaño,Jennifer Lawrence,Mejor Actriz,2012
-1,Blanco,20 a 29,Azul,"De 1,66 a 1,70",Rubio,Angelina Jolie,Mejor Actriz de Reparto,1999
-1,Blanco,20 a 29,Marrón,"De 1,66 a 1,70",Castaño,Hilary Swank,Mejor Actriz,1999
-1,Negro,20 a 29,Marrón,"De 1,71 a 1,75",Castaño,Jennifer Hudson,Mejor Actriz de Reparto,2006
-1,Blanco,20 a 29,Azul,"De 1,5 a 1,60",Rubio,Jodie Foster,Mejor Actriz,1988
-1,Blanco,20 a 29,Azul,"De 1,71 a 1,75",Rubio,Gwyneth Paltrow,Mejor Actriz,1998
-1,Blanco,20 a 29,Marrón,"De 1,66 a 1,70",Castaño,Brie Larson,Mejor Actriz,2015
-1,Blanco,20 a 29,Marrón,"De 1,66 a 1,70",Rubio,Alicia Vikander,Mejor Actriz de Reparto,2015
-1,Blanco,20 a 29,Marrón,"De 1,61 a 1,65",Castaño,Marisa Tomei,Mejor Actriz de Reparto,1992
-1,Blanco,20 a 29,Azul,"De 1,76 a 1,80",Rubio,Mira Sorvino,Mejor Actriz de Reparto,1995
-1,Negro,20 a 29,Marrón,"De 1,76 a 1,80",Calvo,"Cuba Gooding, Jr.",Mejor Actor de Reparto,1996
-1,Blanco,20 a 29,Azul,"De 1,76 a 1,80",Rubio,Charlize Theron,Mejor Actriz,2003
-1,Blanco,20 a 29,Azul,"De 1,66 a 1,70",Pelirrojo,Emma Stone,Mejor Actriz,2016
-1,Blanco,20 a 29,Azul,"De 1,5 a 1,60",Castaño,Jodie Foster,Mejor Actriz,1991
-1,Blanco,20 a 29,Marrón,"De 1,81 a 1,85",Castaño,Adrien Brody,Mejor Actor,2002
-1,Blanco,20 a 29,Azul,"De 1,5 a 1,60",Castaño,Reese Witherspoon,Mejor Actriz,2005
-1,Blanco,20 a 29,Marrón,"De 1,81 a 1,85",Rubio,Heath Ledger,Mejor Actor de Reparto,2008
-1,Blanco,20 a 29,Marrón,"De 1,5 a 1,60",Castaño,Natalie Portman,Mejor Actriz,2010
-1,Blanco,30 a 39,Marrón,"De 1,66 a 1,70",Castaño,Hilary Swank,Mejor Actriz,2004
-1,Blanco,30 a 39,Marrón,"De 1,71 a 1,75",Castaño,Anne Hathaway,Mejor Actriz de Reparto,2012
-1,Negro,30 a 39,Marrón,"De 1,61 a 1,65",Negro,Lupita Nyong'o,Mejor Actriz de Reparto,2013
-1,Blanco,30 a 39,Azul,"De 1,81 a 1,85",Castaño,Nicolas Cage,Mejor Actor,1995
-1,Blanco,30 a 39,Azul,"De 1,66 a 1,70",Castaño,Jennifer Connelly,Mejor Actriz de Reparto,2001
-1,Blanco,30 a 39,Marrón,"De 1,81 a 1,85",Castaño,Geena Davis,Mejor Actriz de Reparto,1988
-1,Blanco,30 a 39,Verde,"De 1,85 a 1,90",Castaño,Daniel Day Lewis,Mejor Actor,1989
-1,Blanco,30 a 39,Marrón,"De 1,66 a 1,70",Castaño,Juliette Binoche,Mejor Actriz de Reparto,1996
-1,Blanco,30 a 39,Azul,"De 1,66 a 1,70",Castaño,Marion Cotillard,Mejor Actriz,2007
-1,Blanco,30 a 39,Verde,"De 1,81 a 1,85",Castaño,Eddie Redmayne,Mejor Actor,2014
-1,Blanco,30 a 39,Azul,"De 1,71 a 1,75",Pelirrojo,Emma Thompson,Mejor Actriz,1992
-1,Blanco,30 a 39,Azul,"De 1,85 a 1,90",Castaño,Benicio del Toro,Mejor Actor de Reparto,2000
-1,Blanco,30 a 39,Marrón,"De 1,71 a 1,75",Rubio,Julia Roberts,Mejor Actriz,2000
-1,Blanco,30 a 39,Marrón,"De 1,66 a 1,70",Rubio,Renée Zellweger,Mejor Actriz de Reparto,2002
-1,Blanco,30 a 39,Azul,"De 1,66 a 1,70",Rubio,Kate Winslet,Mejor Actriz,2008
-1,Blanco,30 a 39,Marrón,"De 1,66 a 1,70",Castaño,Helen Hunt,Mejor Actriz,1997
-1,Blanco,30 a 39,Azul,"De 1,5 a 1,60",Rubio,Renée Zellweger,Mejor Actriz de Reparto,2003
-1,Blanco,30 a 39,Marrón,"De 1,66 a 1,70",Castaño,Penélope Cruz,Mejor Actriz de Reparto,2008
-1,Negro,30 a 39,Marrón,"De 1,81 a 1,85",Calvo,Denzel Washington,Mejor Actor de Reparto,1989
-1,Negro,30 a 39,Marrón,"De 1,61 a 1,65",Castaño,Whoopi Goldberg,Mejor Actriz de Reparto,1990
-1,Blanco,30 a 39,Marrón,"De 1,5 a 1,60",Castaño,Holly Hunter,Mejor Actriz,1993
-1,Negro,30 a 39,Marrón,"De 1,61 a 1,65",Castaño,Halle Berry,Mejor Actriz,2001
-1,Blanco,30 a 39,Azul,"De 1,76 a 1,80",Pelirrojo,Nicole Kidman,Mejor Actriz,2002
-1,Blanco,30 a 39,Azul,"De 1,71 a 1,75",Rubio,Cate Blanchett,Mejor Actriz de Reparto,2004
-1,Blanco,30 a 39,Marrón,"De 1,66 a 1,70",Castaño,Rachel Weisz,Mejor Actriz de Reparto,2005
-1,Blanco,30 a 39,Marrón,"De 1,76 a 1,80",Castaño,Kevin Spacey,Mejor Actor de Reparto,1995
-1,Blanco,30 a 39,Azul,"De 1,81 a 1,85",#N/A,Russell Crowe,Mejor Actor,2000
-1,Blanco,30 a 39,Azul,"De 1,81 a 1,85",Castaño,Christian Bale,Mejor Actor de Reparto,2010
-1,Blanco,30 a 39,Azul,"De 1,81 a 1,85",Castaño,Tom Hanks,Mejor Actor,1993
-1,Negro,30 a 39,Marrón,"De 1,71 a 1,75",#N/A,Jamie Foxx,Mejor Actor,2004
-1,Blanco,30 a 39,Azul,"De 1,81 a 1,85",Castaño,Tom Hanks,Mejor Actor,1994
-1,Blanco,30 a 39,Azul,"De 1,76 a 1,80",Rubio,Philip Seymour Hoffman,Mejor Actor,2005
-1,Blanco,30 a 39,Marrón,"De 1,81 a 1,85",Castaño,Javier Bardem,Mejor Actor de Reparto,2007
-1,Blanco,30 a 39,Azul,"De 1,61 a 1,65",Rubio,Frances McDormand,Mejor Actriz,1996
-1,Blanco,30 a 39,Marrón,"De 1,81 a 1,85",Castaño,Jean Dujardin,Mejor Actor,2011
-1,Negro,30 a 39,Marrón,"De 1,5 a 1,60",Negro,Octavia Spencer,Mejor Actriz de Reparto,2011
-1,Blanco,40 a 49,Marrón,"De 1,76 a 1,80",Castaño,Kevin Spacey,Mejor Actor,1999
-1,Blanco,40 a 49,Marrón,"De 1,71 a 1,75",Castaño,Cher,Mejor Actriz,1987
-1,Blanco,40 a 49,Marrón,"De 1,85 a 1,90",Castaño,Kevin Kline,Mejor Actor de Reparto,1988
-1,Blanco,40 a 49,Marrón,"De 1,61 a 1,65",Castaño,Marcia Gay Harden,Mejor Actriz de Reparto,2000
-1,Blanco,40 a 49,Azul,"De 1,81 a 1,85",Castaño,Leonardo DiCaprio,Mejor Actor,2015
-1,Blanco,40 a 49,Azul,"De 1,71 a 1,75",Castaño,Casey Affleck,Mejor Actor,2016
-1,Blanco,40 a 49,Azul,"De 1,5 a 1,60",Castaño,Kathy Bates,Mejor Actriz,1990
-1,Blanco,40 a 49,Marrón,"De 1,85 a 1,90",Gris,Jeremy Irons,Mejor Actor,1990
-1,Negro,40 a 49,Marrón,"De 1,71 a 1,75",Castaño,Mo'Nique,Mejor Actriz de Reparto,2009
-1,Blanco,40 a 49,Azul,"De 1,71 a 1,75",Castaño,Jared Leto,Mejor Actor de Reparto,2013
-1,Negro,40 a 49,Marrón,"De 1,85 a 1,90",Negro,Mahershala Ali,Mejor Actor de Reparto,2016
-1,Blanco,40 a 49,Azul,"De 1,76 a 1,80",Castaño,Michael Douglas,Mejor Actor,1987
-1,Blanco,40 a 49,Marrón,"De 1,76 a 1,80",Castaño,Mercedes Ruehl,Mejor Actriz de Reparto,1991
-1,Blanco,40 a 49,Verde,"De 1,71 a 1,75",Castaño,Sean Penn,Mejor Actor,2003
-1,Blanco,40 a 49,Azul,"De 1,71 a 1,75",Castaño,Brenda Fricker,Mejor Actriz de Reparto,1989
-1,Blanco,40 a 49,Azul,"De 1,71 a 1,75",Rubio,Kim Basinger,Mejor Actriz de Reparto,1997
-1,Blanco,40 a 49,Marrón,"De 1,76 a 1,80",Gris,George Clooney,Mejor Actor de Reparto,2005
-1,Blanco,40 a 49,Azul,"De 1,81 a 1,85",Castaño,Matthew McConaughey,Mejor Actor,2013
-1,Blanco,40 a 49,Azul,"De 1,71 a 1,75",Rubio,Cate Blanchett,Mejor Actriz,2013
-1,Blanco,40 a 49,Marrón,"De 1,71 a 1,75",Rubio,Jessica Lange,Mejor Actriz,1994
-1,Blanco,40 a 49,Azul,"De 1,81 a 1,85",Castaño,Geoffrey Rush,Mejor Actor,1996
-1,Negro,40 a 49,Marrón,"De 1,85 a 1,90",Negro,Forest Whitaker,Mejor Actor,2006
-1,Blanco,40 a 49,Marrón,"De 1,71 a 1,75",Rubio,Sandra Bullock,Mejor Actriz,2009
-1,Blanco,40 a 49,Marrón,"De 1,61 a 1,65",Castaño,Dianne Wiest,Mejor Actriz de Reparto,1994
-1,Blanco,40 a 49,Azul,"De 1,66 a 1,70",Castaño,Robin Williams,Mejor Actor de Reparto,1997
-1,Blanco,40 a 49,Marrón,"De 1,66 a 1,70",Castaño,Roberto Benigni,Mejor Actor,1998
-1,Blanco,40 a 49,Azul,"De 1,5 a 1,60",Rubio,Patricia Arquette,Mejor Actriz de Reparto,2014
-1,Blanco,40 a 49,Azul,"De 1,61 a 1,65",Castaño,Joe Pesci,Mejor Actor de Reparto,1990
-1,Blanco,40 a 49,Marrón,"De 1,81 a 1,85",Castaño,Tommy Lee Jones,Mejor Actor de Reparto,1993
-1,Negro,40 a 49,Marrón,"De 1,81 a 1,85",Negro,Denzel Washington,Mejor Actor,2001
-1,Blanco,40 a 49,Azul,"De 1,76 a 1,80",Castaño,Tilda Swinton,Mejor Actriz de Reparto,2007
-1,Blanco,40 a 49,Verde,"De 1,71 a 1,75",Castaño,Sean Penn,Mejor Actor,2008
-1,Blanco,40 a 49,Marrón,"De 1,66 a 1,70",Castaño,Susan Sarandon,Mejor Actriz,1995
-1,Blanco,40 a 49,Marrón,"De 1,71 a 1,75",Castaño,Sam Rockwell,Mejor Actor de Reparto,2017
-1,Blanco,50 a 59,Verde,"De 1,85 a 1,90",Castaño,Daniel day-Lewis,Mejor Actor,2007
-1,Blanco,50 a 59,Marrón,"De 1,85 a 1,90",Castaño,Colin Firth,Mejor Actor,2010
-1,Blanco,50 a 59,Marrón,"De 1,61 a 1,65",Rubio,Melissa Leo,Mejor Actriz de Reparto,2010
-1,Blanco,50 a 59,Marrón,"De 1,66 a 1,70",Castaño,Dustin Hoffman,Mejor Actor,1988
-1,Blanco,50 a 59,Azul,"De 1,76 a 1,80",Castaño,Chris Cooper,Mejor Actor de Reparto,2002
-1,Negro,50 a 59,Marrón,"De 1,61 a 1,65",Castaño,Viola Davis,Mejor Actriz de Reparto,2016
-1,Blanco,50 a 59,Marrón,"De 1,66 a 1,70",Castaño,Al Pacino,Mejor Actor,1992
-1,Blanco,50 a 59,Azul,"De 1,85 a 1,90",Gris,Jim Braodbent,Mejor Actor de Reparto,2001
-1,Blanco,50 a 59,Azul,"De 1,95 a 2",#N/A,Tim Robbins,Mejor Actor de Reparto,2003
-1,Blanco,50 a 59,Marrón,"De 1,66 a 1,70",Castaño,Christoph Waltz,Mejor Actor de Reparto,2009
-1,Blanco,50 a 59,Azul,"De 1,71 a 1,75",Castaño,Anthony Hopkins,Mejor Actor,1991
-1,Blanco,50 a 59,Verde,"De 1,5 a 1,60",Pelirrojo,Julianne Moore,Mejor Actriz,2014
-1,Blanco,50 a 59,Verde,"De 1,85 a 1,90",Gris,Daniel Day-Lewis,Mejor Actor,2012
-1,Blanco,50 a 59,Verde,"De 1,71 a 1,75",Castaño,Mark Rylance,Mejor Actor de Reparto,2015
-1,Blanco,50 a 59,Marrón,"De 1,5 a 1,60",Gris,Olympia Dukakis,Mejor Actriz de Reparto,1987
-1,Blanco,50 a 59,Marrón,"De 1,66 a 1,70",Gris,Christoph Waltz,Mejor Actor de Reparto,2012
-1,Blanco,50 a 59,Marrón,"De 1,85 a 1,90",Gris,Sean Connery,Mejor Actor de Reparto,1987
-1,Blanco,50 a 59,Azul,"De 1,81 a 1,85",Castaño,Allison Janney,Mejor Actriz de Reparto,2017
-1,Blanco,50 a 59,Azul,"De 1,76 a 1,80",Calvo,J.K. Simmons,Mejor Actor de Reparto,2014
-1,Blanco,50 a 59,Azul,"De 1,71 a 1,75",Gris,Gary Oldman,Mejor Actor,2017
-1,Blanco,60 a 69,Marrón,"De 1,76 a 1,80",Castaño,Jack Nicholson,Mejor Actor,1997
-1,Blanco,60 a 69,Marrón,"De 1,81 a 1,85",Gris,Jeff Bridges,Mejor Actor,2009
-1,Blanco,60 a 69,Azul,"De 1,61 a 1,65",Rubio,Frances McDormand,Mejor Actriz,2017
-1,Blanco,60 a 69,Azul,"De 1,61 a 1,65",Gris,Helen Mirren,Mejor Actriz,2006
-1,Blanco,60 a 69,Marrón,"De 1,85 a 1,90",Castaño,Gene Hackman,Mejor Actor de Reparto,1992
-1,Blanco,60 a 69,Azul,"De 1,66 a 1,70",Rubio,Meryl Streep,Mejor Actriz,2011
-1,Blanco,60 a 69,Azul,"De 1,5 a 1,60",Pelirrojo,Judi Dench,Mejor Actriz de Reparto,1998
-1,Blanco,60 a 69,Azul,"De 1,81 a 1,85",Gris,Martin Landau,Mejor Actor de Reparto,1994
-1,Blanco,60 a 69,Azul,"De 1,85 a 1,90",Gris,Michael Caine,Mejor Actor de Reparto,1999
-1,Negro,60 a 69,Marrón,"De 1,85 a 1,90",Gris,Morgan Freeman,Mejor Actor de Reparto,2004
-1,Blanco,70 a 79,Marrón,"De 1,85 a 1,90",Gris,James Coburn,Mejor Actor de Reparto,1998
-1,Blanco,70 a 79,Marrón,"Más de 1,90",Gris,Jack Palance,Mejor Actor de Reparto,1991
-1,Blanco,70 a 79,Marrón,"De 1,76 a 1,80",Calvo,Alan Arkin,Mejor Actor de Reparto,2006
-1,Blanco,70 a 79,Marrón,"De 1,61 a 1,65",Gris,Jessica Tandy,Mejor Actriz,1989
-1,Blanco,70 a 79,Azul,"De 1,76 a 1,80",Gris,Christopher Plummer,Mejor Actor de Reparto,2011
+Piel2,Piel,Edad,OjoColor,FAltura,PeloColor2,PASI
+1,BLANCA,10-20,MARRÓN,"1,50 a 1,65",CASTAÑO,CANADÁ
+1,BLANCA,20-29,AZUL,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,20-29,AZUL,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,30-39,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,20-29,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,NEGRA,30-39,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,NEGRA,30-39,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,NEGRA,50-59,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,50-59,MARRÓN,"1,50 a 1,65",GRIS,ESTADOS UNIDOS
+1,NEGRA,30-39,MARRÓN,"1,50 a 1,65",NEGRO,ESTADOS UNIDOS
+1,BLANCA,50-59,VERDE,"1,50 a 1,65",PELIRROJO,ESTADOS UNIDOS
+1,BLANCA,20-29,AZUL,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
+1,BLANCA,30-39,AZUL,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
+1,BLANCA,60-69,AZUL,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
+1,BLANCA,50-59,MARRÓN,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
+1,BLANCA,20-29,MARRÓN,"1,50 a 1,65",CASTAÑO,OTROS
+1,NEGRA,30-39,MARRÓN,"1,50 a 1,65",NEGRO,OTROS
+1,BLANCA,60-69,AZUL,"1,50 a 1,65",GRIS,REINO UNIDO
+1,BLANCA,70-79,MARRÓN,"1,50 a 1,65",GRIS,REINO UNIDO
+1,BLANCA,60-69,AZUL,"1,50 a 1,65",PELIRROJO,REINO UNIDO
+1,BLANCA,30-39,AZUL,"1,50 a 1,65",RUBIO,REINO UNIDO
+1,BLANCA,30-39,AZUL,"1,65 a 1,75",RUBIO,AUSTRALIA
+1,BLANCA,40-49,AZUL,"1,65 a 1,75",RUBIO,AUSTRALIA
+1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,ESPAÑA
+1,BLANCA,30-39,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,20-29,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,20-29,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,20-29,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,50-59,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,50-59,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,50-59,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,NEGRA,20-29,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,NEGRA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,VERDE,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,VERDE,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,50-59,MARRÓN,"1,65 a 1,75",GRIS,ESTADOS UNIDOS
+1,NEGRA,30-39,MARRÓN,"1,65 a 1,75",NEGRO,ESTADOS UNIDOS
+1,BLANCA,20-29,AZUL,"1,65 a 1,75",PELIRROJO,ESTADOS UNIDOS
+1,BLANCA,20-29,AZUL,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
+1,BLANCA,60-69,AZUL,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
+1,BLANCA,20-29,AZUL,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
+1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
+1,BLANCA,30-39,AZUL,"1,65 a 1,75",CASTAÑO,FRANCIA
+1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,FRANCIA
+1,BLANCA,40-49,AZUL,"1,65 a 1,75",CASTAÑO,OTROS
+1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,OTROS
+1,BLANCA,50-59,AZUL,"1,65 a 1,75",CASTAÑO,REINO UNIDO
+1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,REINO UNIDO
+1,BLANCA,50-59,VERDE,"1,65 a 1,75",CASTAÑO,REINO UNIDO
+1,BLANCA,50-59,AZUL,"1,65 a 1,75",GRIS,REINO UNIDO
+1,BLANCA,30-39,AZUL,"1,65 a 1,75",PELIRROJO,REINO UNIDO
+1,BLANCA,30-39,AZUL,"1,65 a 1,75",RUBIO,REINO UNIDO
+1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",RUBIO,REINO UNIDO
+1,BLANCA,20-29,MARRÓN,"1,65 a 1,75",RUBIO,OTROS
+1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,AUSTRALIA
+1,BLANCA,20-29,MARRÓN,"1,76 a 1,85",RUBIO,AUSTRALIA
+1,BLANCA,70-79,AZUL,"1,76 a 1,85",GRIS,CANADÁ
+1,BLANCA,30-39,MARRÓN,"1,76 a 1,85",CASTAÑO,ESPAÑA
+1,BLANCA,50-59,AZUL,"1,76 a 1,85",CALVO,ESTADOS UNIDOS
+1,NEGRA,20-29,MARRÓN,"1,76 a 1,85",CALVO,ESTADOS UNIDOS
+1,BLANCA,70-79,MARRÓN,"1,76 a 1,85",CALVO,ESTADOS UNIDOS
+1,NEGRA,30-39,MARRÓN,"1,76 a 1,85",CALVO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,50-59,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,50-59,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,30-39,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,60-69,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,20-29,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,30-39,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,60-69,AZUL,"1,76 a 1,85",GRIS,ESTADOS UNIDOS
+1,BLANCA,40-49,MARRÓN,"1,76 a 1,85",GRIS,ESTADOS UNIDOS
+1,BLANCA,60-69,MARRÓN,"1,76 a 1,85",GRIS,ESTADOS UNIDOS
+1,NEGRA,40-49,MARRÓN,"1,76 a 1,85",NEGRO,ESTADOS UNIDOS
+1,BLANCA,30-39,AZUL,"1,76 a 1,85",PELIRROJO,ESTADOS UNIDOS
+1,BLANCA,20-29,AZUL,"1,76 a 1,85",RUBIO,ESTADOS UNIDOS
+1,BLANCA,30-39,AZUL,"1,76 a 1,85",RUBIO,ESTADOS UNIDOS
+1,BLANCA,30-39,MARRÓN,"1,76 a 1,85",CASTAÑO,FRANCIA
+1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,OTROS
+1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,REINO UNIDO
+1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,REINO UNIDO
+1,BLANCA,30-39,VERDE,"1,76 a 1,85",CASTAÑO,REINO UNIDO
+1,BLANCA,20-29,AZUL,"1,76 a 1,85",RUBIO,OTROS
+1,BLANCA,40-49,MARRÓN,"Más de 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,60-69,MARRÓN,"Más de 1,85",CASTAÑO,ESTADOS UNIDOS
+1,BLANCA,50-59,AZUL,"Más de 1,85",GRIS,ESTADOS UNIDOS
+1,NEGRA,60-69,MARRÓN,"Más de 1,85",GRIS,ESTADOS UNIDOS
+1,BLANCA,70-79,MARRÓN,"Más de 1,85",GRIS,ESTADOS UNIDOS
+1,BLANCA,70-79,MARRÓN,"Más de 1,85",GRIS,ESTADOS UNIDOS
+1,NEGRA,40-49,MARRÓN,"Más de 1,85",NEGRO,ESTADOS UNIDOS
+1,NEGRA,40-49,MARRÓN,"Más de 1,85",NEGRO,ESTADOS UNIDOS
+1,BLANCA,30-39,AZUL,"Más de 1,85",CASTAÑO,OTROS
+1,BLANCA,50-59,MARRÓN,"Más de 1,85",CASTAÑO,REINO UNIDO
+1,BLANCA,30-39,VERDE,"Más de 1,85",CASTAÑO,REINO UNIDO
+1,BLANCA,50-59,VERDE,"Más de 1,85",CASTAÑO,REINO UNIDO
+1,BLANCA,50-59,AZUL,"Más de 1,85",GRIS,REINO UNIDO
+1,BLANCA,60-69,AZUL,"Más de 1,85",GRIS,REINO UNIDO
+1,BLANCA,40-49,MARRÓN,"Más de 1,85",GRIS,REINO UNIDO
+1,BLANCA,50-59,MARRÓN,"Más de 1,85",GRIS,REINO UNIDO
+1,BLANCA,50-59,VERDE,"Más de 1,85",GRIS,REINO UNIDO
