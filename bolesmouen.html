@@ -5,7 +5,7 @@
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <style>
   @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800');
-   body { 
+    body { 
       margin:0;
       position:fixed;
       top:0;
@@ -13,9 +13,6 @@
       bottom:0;
       left:0;
     	font-family: sans-serif;
-    }
-    .selected {
-      fill: none;
     }
     
     .button {
@@ -28,6 +25,7 @@
       border: 1px solid #323232;
       border-radius: 4px;
       background-color: white;
+
     }
 
     .button.active {
@@ -46,12 +44,27 @@
       color: #fff;
     }
 
+      .title {
+      font-family: Open Sans, Helvetica;
+      font-size: 1.5em;
+      font-color: #d6d6d6;
+      font-weight: 600;      
+
+    }
+
+    #toolbar {
+      margin: auto;
+      width: 100%;
+      display: block;
+      text-align: center;
+    }
+
 
   </style>
 </head>
 
 <body>
-  <div id="toolbar" style="width:100%">
+  <div id="toolbar" >
       <button id="Piel" class="button">Piel</button>
       <button id="Edad" class="button">Edad</button>
       <button id="OjoColor" class="button">Ojos</button>
@@ -60,7 +73,26 @@
     </div>
   <script>
     console.clear()
-    var w = 650, h = 655;
+  function responsivefy(svg) {
+    var container = d3.select(svg.node().parentNode),
+        width = parseInt(svg.style("width")),
+        height = parseInt(svg.style("height")),
+        aspect = width / height;
+
+        svg.attr("viewBox", "0 0 " + width + " " + height)
+        .attr("perserveAspectRatio", "xMinYMid")
+        .call(resize);
+
+            d3.select(window).on("resize." + container.attr("id"), resize);
+      function resize() {
+        var targetWidth = parseInt(container.style("width"));
+        svg.attr("width", targetWidth);
+        svg.attr("height", Math.round(targetWidth / aspect));
+    }
+}
+
+    
+    var w = 600, h = 600;
 
     var colors = ['#f4d442', '#64bbe3', '#ffcc00', '#ff7300', '#cf2030'];
     
@@ -72,6 +104,7 @@
     var svg = d3.select("body").append("svg")
       .attr("width", w)
       .attr("height", h)
+      .call(responsivefy);
 
     var simulation = d3.forceSimulation()
             .force("collide",d3.forceCollide( function(d){
@@ -149,7 +182,7 @@
           .style("fill", function(d, i){ return color(d.ID); })
       	
         d3.selectAll("circle.selected")
-          .style("fill", "none")
+          .style("fill", "#f4d442")
       	
       } 
       
@@ -196,7 +229,7 @@
           	.attr('class', 'title')
         	.merge(titles)
             .attr('x', function (d) { return scale(d); })
-            .attr('y', 40)
+            .attr('y', 250)
             .attr('text-anchor', 'middle')
             .text(function (d) { return ' ' + ' ' + d; });
         
