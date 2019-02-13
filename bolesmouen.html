@@ -21,9 +21,8 @@
       margin: 0.2px;
       cursor: pointer;
       text-align: center;
-      font-size: 1em;
+      font-size: 0.8em;
       border: 1px solid #323232;
-      border-radius: 4px;
       background-color: white;
 
     }
@@ -47,10 +46,10 @@
       .title {
       font-family: Open Sans, Helvetica;
       font-size: 1.5em;
-      font-color: #d6d6d6;
-      font-weight: 600;      
-
     }
+
+
+
 
     #toolbar {
       margin: auto;
@@ -65,11 +64,11 @@
 
 <body>
   <div id="toolbar" >
-      <button id="Piel" class="button">Piel</button>
-      <button id="Edad" class="button">Edad</button>
-      <button id="OjoColor" class="button">Ojos</button>
-      <button id="FAltura" class="button">Altura</button>
-      <button id="PeloColor2" class="button">Pelo</button>
+      <button id="Piel" class="button">PIEL</button>
+      <button id="Edad" class="button">EDAD</button>
+      <button id="OjoColor" class="button">OJOS</button>
+      <button id="FAltura" class="button">ALTURA</button>
+      <button id="PeloColor2" class="button">PELO</button>
     </div>
   <script>
     console.clear()
@@ -92,13 +91,14 @@
 }
 
     
-    var w = 600, h = 600;
+    var w = 655, h = 600;
 
     var colors = ['#f4d442', '#64bbe3', '#ffcc00', '#ff7300', '#cf2030'];
     
-    var radius = 10;
+    var radius = 8;
     var color = d3.scaleOrdinal(colors);
-    var centerScale = d3.scalePoint().padding(1).range([0, w]);
+    var centerScale = d3.scalePoint().padding(3).range([0, h]);
+    var centerScale2 = d3.scalePoint().padding(0.35).range([0, h]);
     var forceStrength = 0.25;
     
     var svg = d3.select("body").append("svg")
@@ -108,18 +108,18 @@
 
     var simulation = d3.forceSimulation()
             .force("collide",d3.forceCollide( function(d){
-              	return d.r + 3 }).iterations(200) 
+              	return d.r + 1 }).iterations(200) 
             )
             .force("charge", d3.forceManyBody())
             .force("y", d3.forceY().y(h / 2))
             .force("x", d3.forceX().x(w / 2))
     
-    d3.csv("https://rawcdn.githack.com/VangData/prova/f8ca83016e5f0204714e5d9cbfbcab1300735a09/data.csv", function(data){
+    d3.csv("https://rawcdn.githack.com/VangData/prova/63ed1ec41a4d5608ac17e5472d493cb4319721e0/data.csv", function(data){
       
       data.forEach(function(d){
         d.r = radius;
-        d.x = w / 10;
-        d.y = h / 10;
+        d.x = w / 20;
+        d.y = h / 20;
       })
       
       console.table(data); 
@@ -136,7 +136,8 @@
       	.style("fill", function(d, i){ return color(d.ID); })
       	.style("stroke", function(d, i){ return color(d.ID); })
       	.style("stroke-width", 2)
-      	.style("pointer-events", "all")
+        .style("opacity", 0.8)
+      	.style("pointer-events", "none")
       	.call(d3.drag()
                 .on("start", dragstarted)
                 .on("drag", dragged)
@@ -145,8 +146,6 @@
       circles = circles.merge(circlesEnter)
       
       function ticked() {
-        //console.log("tick")
-        //console.log(data.map(function(d){ return d.x; }));
         circles
             .attr("cx", function(d){ return d.x; })
             .attr("cy", function(d){ return d.y; });
@@ -190,7 +189,7 @@
         hideTitles();
 
         // @v4 Reset the 'x' force to draw the bubbles to the center.
-        simulation.force('x', d3.forceX().strength(forceStrength).x(w / 2));
+        simulation.force('x', d3.forceX().strength(forceStrength).y(h / 2));
 
         // @v4 We can reset the alpha value and restart the simulation
         simulation.alpha(1).restart();
@@ -199,15 +198,16 @@
       function splitBubbles(byVar) {
         
         centerScale.domain(data.map(function(d){ return d[byVar]; }));
+        centerScale2.domain(data.map(function(d){ return d[byVar]; }));
         
         if(byVar == "Piel"){
-          showTitles(byVar, centerScale)
+          showTitles(byVar, centerScale2)
         } else {
-	        showTitles(byVar, centerScale);
+	        showTitles(byVar, centerScale2);
         }
         
         // @v4 Reset the 'x' force to draw the bubbles to their year centers
-        simulation.force('x', d3.forceX().strength(forceStrength).x(function(d){ 
+        simulation.force('y', d3.forceY().strength(forceStrength).y(function(d){ 
         	return centerScale(d[byVar]);
         }));
 
@@ -219,22 +219,30 @@
         svg.selectAll('.title').remove();
       }
 
-      function showTitles(byVar, scale) {
+      function showTitles(byVar, scale2) {
         // Another way to do this would be to create
         // the year texts once and then just hide them.
        	var titles = svg.selectAll('.title')
-          .data(scale.domain());
+          .data(scale2.domain());
         
         titles.enter().append('text')
+
           	.attr('class', 'title')
-        	.merge(titles)
-            .attr('x', function (d) { return scale(d); })
-            .attr('y', 250)
-            .attr('text-anchor', 'middle')
-            .text(function (d) { return ' ' + ' ' + d; });
+        	  .merge(titles)
+            .attr('y', function (d) { return scale2(d); })
+            .attr('x', 300)
+            .attr('text-anchor', 'center')
+            .style("fill", '#323232')
+            .style("font-weight", 800)
+            .style("max-width", 2)
+            .text(function (d) { return d; });
         
         titles.exit().remove() 
       }
+
+       
+
+
       
       function setupButtons() {
         d3.selectAll('.button')
