@@ -1,125 +1,125 @@
-Piel2,Piel,Edad,OjoColor,FAltura,PeloColor2,PASI
-1,Blanca,10-20,MARRÓN,"1,50 a 1,65",CASTAÑO,CANADÁ
-1,BLANCA,20-29,AZUL,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,20-29,AZUL,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,30-39,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,20-29,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,NEGRA,30-39,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,NEGRA,30-39,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,NEGRA,50-59,MARRÓN,"1,50 a 1,65",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,50-59,MARRÓN,"1,50 a 1,65",GRIS,ESTADOS UNIDOS
-1,NEGRA,30-39,MARRÓN,"1,50 a 1,65",NEGRO,ESTADOS UNIDOS
-1,BLANCA,50-59,VERDE,"1,50 a 1,65",ROJO,ESTADOS UNIDOS
-1,BLANCA,20-29,AZUL,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
-1,BLANCA,30-39,AZUL,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
-1,BLANCA,60-69,AZUL,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
-1,BLANCA,50-59,MARRÓN,"1,50 a 1,65",RUBIO,ESTADOS UNIDOS
-1,BLANCA,20-29,MARRÓN,"1,50 a 1,65",CASTAÑO,OTROS
-1,NEGRA,30-39,MARRÓN,"1,50 a 1,65",NEGRO,OTROS
-1,BLANCA,60-69,AZUL,"1,50 a 1,65",GRIS,REINO UNIDO
-1,BLANCA,70-79,MARRÓN,"1,50 a 1,65",GRIS,REINO UNIDO
-1,BLANCA,60-69,AZUL,"1,50 a 1,65",ROJO,REINO UNIDO
-1,BLANCA,30-39,AZUL,"1,50 a 1,65",RUBIO,REINO UNIDO
-1,BLANCA,30-39,AZUL,"1,65 a 1,75",RUBIO,AUSTRALIA
-1,BLANCA,40-49,AZUL,"1,65 a 1,75",RUBIO,AUSTRALIA
-1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,ESPAÑA
-1,BLANCA,30-39,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,20-29,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,20-29,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,20-29,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,50-59,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,50-59,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,50-59,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,NEGRA,20-29,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,NEGRA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,VERDE,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,VERDE,"1,65 a 1,75",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,50-59,MARRÓN,"1,65 a 1,75",GRIS,ESTADOS UNIDOS
-1,NEGRA,30-39,MARRÓN,"1,65 a 1,75",NEGRO,ESTADOS UNIDOS
-1,BLANCA,20-29,AZUL,"1,65 a 1,75",ROJO,ESTADOS UNIDOS
-1,BLANCA,20-29,AZUL,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
-1,BLANCA,60-69,AZUL,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
-1,BLANCA,20-29,AZUL,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
-1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",RUBIO,ESTADOS UNIDOS
-1,BLANCA,30-39,AZUL,"1,65 a 1,75",CASTAÑO,FRANCIA
-1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,FRANCIA
-1,BLANCA,40-49,AZUL,"1,65 a 1,75",CASTAÑO,OTROS
-1,BLANCA,40-49,MARRÓN,"1,65 a 1,75",CASTAÑO,OTROS
-1,BLANCA,50-59,AZUL,"1,65 a 1,75",CASTAÑO,REINO UNIDO
-1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",CASTAÑO,REINO UNIDO
-1,BLANCA,50-59,VERDE,"1,65 a 1,75",CASTAÑO,REINO UNIDO
-1,BLANCA,50-59,AZUL,"1,65 a 1,75",GRIS,REINO UNIDO
-1,BLANCA,30-39,AZUL,"1,65 a 1,75",ROJO,REINO UNIDO
-1,BLANCA,30-39,AZUL,"1,65 a 1,75",RUBIO,REINO UNIDO
-1,BLANCA,30-39,MARRÓN,"1,65 a 1,75",RUBIO,REINO UNIDO
-1,BLANCA,20-29,MARRÓN,"1,65 a 1,75",RUBIO,OTROS
-1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,AUSTRALIA
-1,BLANCA,20-29,MARRÓN,"1,76 a 1,85",RUBIO,AUSTRALIA
-1,BLANCA,70-79,AZUL,"1,76 a 1,85",GRIS,CANADÁ
-1,BLANCA,30-39,MARRÓN,"1,76 a 1,85",CASTAÑO,ESPAÑA
-1,BLANCA,50-59,AZUL,"1,76 a 1,85",CALVO,ESTADOS UNIDOS
-1,NEGRA,20-29,MARRÓN,"1,76 a 1,85",CALVO,ESTADOS UNIDOS
-1,BLANCA,70-79,MARRÓN,"1,76 a 1,85",CALVO,ESTADOS UNIDOS
-1,NEGRA,30-39,MARRÓN,"1,76 a 1,85",CALVO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,50-59,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,50-59,AZUL,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,30-39,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,60-69,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,20-29,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,30-39,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,76 a 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,60-69,AZUL,"1,76 a 1,85",GRIS,ESTADOS UNIDOS
-1,BLANCA,40-49,MARRÓN,"1,76 a 1,85",GRIS,ESTADOS UNIDOS
-1,BLANCA,60-69,MARRÓN,"1,76 a 1,85",GRIS,ESTADOS UNIDOS
-1,NEGRA,40-49,MARRÓN,"1,76 a 1,85",NEGRO,ESTADOS UNIDOS
-1,BLANCA,30-39,AZUL,"1,76 a 1,85",ROJO,ESTADOS UNIDOS
-1,BLANCA,20-29,AZUL,"1,76 a 1,85",RUBIO,ESTADOS UNIDOS
-1,BLANCA,30-39,AZUL,"1,76 a 1,85",RUBIO,ESTADOS UNIDOS
-1,BLANCA,30-39,MARRÓN,"1,76 a 1,85",CASTAÑO,FRANCIA
-1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,OTROS
-1,BLANCA,40-49,AZUL,"1,76 a 1,85",CASTAÑO,REINO UNIDO
-1,BLANCA,30-39,AZUL,"1,76 a 1,85",CASTAÑO,REINO UNIDO
-1,BLANCA,30-39,VERDE,"1,76 a 1,85",CASTAÑO,REINO UNIDO
-1,BLANCA,20-29,AZUL,"1,76 a 1,85",RUBIO,OTROS
-1,BLANCA,40-49,MARRÓN,"Más de 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,60-69,MARRÓN,"Más de 1,85",CASTAÑO,ESTADOS UNIDOS
-1,BLANCA,50-59,AZUL,"Más de 1,85",GRIS,ESTADOS UNIDOS
-1,NEGRA,60-69,MARRÓN,"Más de 1,85",GRIS,ESTADOS UNIDOS
-1,BLANCA,70-79,MARRÓN,"Más de 1,85",GRIS,ESTADOS UNIDOS
-1,BLANCA,70-79,MARRÓN,"Más de 1,85",GRIS,ESTADOS UNIDOS
-1,NEGRA,40-49,MARRÓN,"Más de 1,85",NEGRO,ESTADOS UNIDOS
-1,NEGRA,40-49,MARRÓN,"Más de 1,85",NEGRO,ESTADOS UNIDOS
-1,BLANCA,30-39,AZUL,"Más de 1,85",CASTAÑO,OTROS
-1,BLANCA,50-59,MARRÓN,"Más de 1,85",CASTAÑO,REINO UNIDO
-1,BLANCA,30-39,VERDE,"Más de 1,85",CASTAÑO,REINO UNIDO
-1,BLANCA,50-59,VERDE,"Más de 1,85",CASTAÑO,REINO UNIDO
-1,BLANCA,50-59,AZUL,"Más de 1,85",GRIS,REINO UNIDO
-1,BLANCA,60-69,AZUL,"Más de 1,85",GRIS,REINO UNIDO
-1,BLANCA,40-49,MARRÓN,"Más de 1,85",GRIS,REINO UNIDO
-1,BLANCA,50-59,MARRÓN,"Más de 1,85",GRIS,REINO UNIDO
-1,BLANCA,50-59,VERDE,"Más de 1,85",GRIS,REINO UNIDO
+Piel2,Piel,Edad,OjoColor,FAltura,PeloColor2
+1,Negra | 12%,20-29 | 16%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Otros | 12%
+1,Negra | 12%,30-39 | 29%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Otros | 12%
+1,Blanca | 88%,50-59 | 16%,Azul | 42%,"De 1,76 a 1,85 |  29%",Otros | 12%
+1,Blanca | 88%,70-79 | 4%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Otros | 12%
+1,Blanca | 88%,"10-20 | 0,8%",Marrón | 52%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,20-29 | 16%,Azul | 42%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,20-29 | 16%,Azul | 42%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,20-29 | 16%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,20-29 | 16%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,20-29 | 16%,Azul | 42%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,20-29 | 16%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,20-29 | 16%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Negra | 12%,20-29 | 16%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,20-29 | 16%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Negra | 12%,30-39 | 29%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Negra | 12%,30-39 | 29%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Verde | 6%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"Más de 1,85 |  14%",Castaño | 56%
+1,Blanca | 88%,30-39 | 29%,Verde | 6%,"Más de 1,85 |  14%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Negra | 12%,40-49 | 27%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Verde | 6%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Verde | 6%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"Más de 1,85 |  14%",Castaño | 56%
+1,Negra | 12%,50-59 | 16%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Castaño | 56%
+1,Blanca | 88%,50-59 | 16%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,50-59 | 16%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,50-59 | 16%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,50-59 | 16%,Azul | 42%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,50-59 | 16%,Verde | 6%,"De 1,65 a 1,75 |  36%",Castaño | 56%
+1,Blanca | 88%,50-59 | 16%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,50-59 | 16%,Azul | 42%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,50-59 | 16%,Marrón | 52%,"Más de 1,85 |  14%",Castaño | 56%
+1,Blanca | 88%,50-59 | 16%,Verde | 6%,"Más de 1,85 |  14%",Castaño | 56%
+1,Blanca | 88%,60-69 | 8%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Castaño | 56%
+1,Blanca | 88%,60-69 | 8%,Marrón | 52%,"Más de 1,85 |  14%",Castaño | 56%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Gris | 14%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"Más de 1,85 |  14%",Gris | 14%
+1,Blanca | 88%,50-59 | 16%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Gris | 14%
+1,Blanca | 88%,50-59 | 16%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Gris | 14%
+1,Blanca | 88%,50-59 | 16%,Azul | 42%,"De 1,65 a 1,75 |  36%",Gris | 14%
+1,Blanca | 88%,50-59 | 16%,Azul | 42%,"Más de 1,85 |  14%",Gris | 14%
+1,Blanca | 88%,50-59 | 16%,Azul | 42%,"Más de 1,85 |  14%",Gris | 14%
+1,Blanca | 88%,50-59 | 16%,Marrón | 52%,"Más de 1,85 |  14%",Gris | 14%
+1,Blanca | 88%,50-59 | 16%,Verde | 6%,"Más de 1,85 |  14%",Gris | 14%
+1,Blanca | 88%,60-69 | 8%,Azul | 42%,"De 1,50 a 1,65 | 21%",Gris | 14%
+1,Blanca | 88%,60-69 | 8%,Azul | 42%,"De 1,76 a 1,85 |  29%",Gris | 14%
+1,Blanca | 88%,60-69 | 8%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Gris | 14%
+1,Negra | 12%,60-69 | 8%,Marrón | 52%,"Más de 1,85 |  14%",Gris | 14%
+1,Blanca | 88%,60-69 | 8%,Azul | 42%,"Más de 1,85 |  14%",Gris | 14%
+1,Blanca | 88%,70-79 | 4%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Gris | 14%
+1,Blanca | 88%,70-79 | 4%,Azul | 42%,"De 1,76 a 1,85 |  29%",Gris | 14%
+1,Blanca | 88%,70-79 | 4%,Marrón | 52%,"Más de 1,85 |  14%",Gris | 14%
+1,Blanca | 88%,70-79 | 4%,Marrón | 52%,"Más de 1,85 |  14%",Gris | 14%
+1,Negra | 12%,30-39 | 29%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Otros | 12%
+1,Negra | 12%,30-39 | 29%,Marrón | 52%,"De 1,50 a 1,65 | 21%",Otros | 12%
+1,Negra | 12%,30-39 | 29%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Otros | 12%
+1,Negra | 12%,40-49 | 27%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Otros | 12%
+1,Negra | 12%,40-49 | 27%,Marrón | 52%,"Más de 1,85 |  14%",Otros | 12%
+1,Negra | 12%,40-49 | 27%,Marrón | 52%,"Más de 1,85 |  14%",Otros | 12%
+1,Blanca | 88%,20-29 | 16%,Azul | 42%,"De 1,65 a 1,75 |  36%",Otros | 12%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"De 1,65 a 1,75 |  36%",Otros | 12%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"De 1,76 a 1,85 |  29%",Otros | 12%
+1,Blanca | 88%,50-59 | 16%,Verde | 6%,"De 1,50 a 1,65 | 21%",Otros | 12%
+1,Blanca | 88%,60-69 | 8%,Azul | 42%,"De 1,50 a 1,65 | 21%",Otros | 12%
+1,Blanca | 88%,20-29 | 16%,Azul | 42%,"De 1,50 a 1,65 | 21%",Rubio | 18%
+1,Blanca | 88%,20-29 | 16%,Azul | 42%,"De 1,65 a 1,75 |  36%",Rubio | 18%
+1,Blanca | 88%,20-29 | 16%,Azul | 42%,"De 1,65 a 1,75 |  36%",Rubio | 18%
+1,Blanca | 88%,20-29 | 16%,Marrón | 52%,"De 1,65 a 1,75 |  36%",Rubio | 18%
+1,Blanca | 88%,20-29 | 16%,Marrón | 52%,"De 1,76 a 1,85 |  29%",Rubio | 18%
+1,Blanca | 88%,20-29 | 16%,Azul | 42%,"De 1,76 a 1,85 |  29%",Rubio | 18%
+1,Blanca | 88%,20-29 | 16%,Azul | 42%,"De 1,76 a 1,85 |  29%",Rubio | 18%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"1,50 a 1,65",Rubio | 18%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"1,50 a 1,65",Rubio | 18%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"1,65 a 1,75",Rubio | 18%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"1,65 a 1,75",Rubio | 18%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"1,65 a 1,75",Rubio | 18%
+1,Blanca | 88%,30-39 | 29%,Marrón | 52%,"1,65 a 1,75",Rubio | 18%
+1,Blanca | 88%,30-39 | 29%,Azul | 42%,"1,76 a 1,85",Rubio | 18%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"1,50 a 1,65",Rubio | 18%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"1,65 a 1,75",Rubio | 18%
+1,Blanca | 88%,40-49 | 27%,Azul | 42%,"1,65 a 1,75",Rubio | 18%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"1,65 a 1,75",Rubio | 18%
+1,Blanca | 88%,40-49 | 27%,Marrón | 52%,"1,65 a 1,75",Rubio | 18%
+1,Blanca | 88%,50-59 | 16%,Marrón | 52%,"1,50 a 1,65",Rubio | 18%
+1,Blanca | 88%,60-69 | 8%,Azul | 42%,"1,50 a 1,65",Rubio | 18%
+1,Blanca | 88%,60-69 | 8%,Azul | 42%,"1,65 a 1,75",Rubio | 18%
