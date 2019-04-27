@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Buscador candidatos</title>
+<style>
+     @import url('https://fonts.googleapis.com/css?family=Open+Sans:200,400,600,700,800');
+    *{margin: 0; padding: 0;}
+#map {
+    width: 100%;
+    height: 550px;
+
+}
+
+
+
+.legend {
+  background-color: #ffffff;
+    border-radius: 3px;
+    bottom: 10px;
+    padding: 7px;
+    position: absolute;
+    right: 10px;
+    z-index: 1;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
+}
+
+.legend clearfix {
+    background-color: #ffffff;
+    border-radius: 3px;
+    bottom: 10px;
+    padding: 7px 10px 8px 5px;
+    position: absolute;
+    right: 0px;
+    z-index: 1;
+    width: 200px;
+    text-align: left;
+    box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
+}
+.legend h1 {
+    font-size: 10px;
+    font-family: OpenSans-Semibold, Open Sans;
+    font-weight: 600;
+    fill: #aeaeaf;
+    margin: 0px 0 -11px 0;
+    text-transform: uppercase;
+    text-align: left;
+}
+.legend span {
+    float: left;
+    height: 10px;
+    width: 15.9%;
+    font-size: 9px;
+    color: #aeaeaf;
+    margin-bottom: 5px;
+}
+
+.legend label {
+    font-size: 10px;
+    font-family: OpenSans-Semibold, Open Sans;
+    fill: #aeaeaf;
+    padding: 0 5px;
+    text-align: left;
+
+
+}
+</style>
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.js'></script>
+<script type="text/javascript" src="https://rawcdn.githack.com/VangData/prova/303a4dd5dd7d718c2ecab4b40035ce5baa53e662/junto_cartodb_1_mergeb.js"></script>
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.0.0/mapbox-gl-geocoder.min.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.0.0/mapbox-gl-geocoder.css' type='text/css' />
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.css' rel='stylesheet' />
+<body>
+
+<div id='map'>
+<div id='legend'>
+
+  <nav class='legend clearfix'>
+<h1>Porcentaje de voto a Podemos</h1></br>
+    <span style='background:#c40068;opacity:0.05;'></span>
+    <span style='background:#c40068;opacity:0.2;'></span>
+    <span style='background:#c40068;opacity:0.4;'></span>
+    <span style='background:#c40068;opacity:0.6;'></span>
+    <span style='background:#c40068;opacity:0.8;'></span>
+    <span style='background:#c40068;opacity:1;'></span>
+    <label>0</label>
+    <label>10%</label>
+    <label>20%</label>
+    <label>30%</label>
+    <label>40%</label>
+    <label>50%+</label>
+</nav></div></div>
+<div id='geocoder' class='geocoder'></div>
+
+
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibGF1cjA1IiwiYSI6ImNpbmtmM2FjazAwODF2eG0yNjhteTcxdHIifQ.l7uzjVe2b1L8dHh_Z9JjoQ';
+var map = new mapboxgl.Map({
+container: 'map', // container id
+style: 'mapbox://styles/laur05/cjuvi3xkc8dik1fmtpwe3xjhh', 
+center:  [-4.0222, 39.5], // starting position [lng, lat]
+zoom: 4.7,// starting zoom
+minZoom: 2,
+maxZoom: 10,
+attributionControl: false,
+maxBounds: [[-12.5,33],[4.5,45] ]
+});
+var hoveredStateId =  null;
+var searched_lngLat = null;
+
+
+map.on('load', function () {
+// Add a layer showing the state polygons.
+
+
+map.addSource("resultados", {
+    type: 'vector',
+    url: 'mapbox://laur05.0wa4oblu',
+});
+
+var layers = map.getStyle().layers;
+// Find the index of the first symbol layer in the map style
+
+map.addLayer({
+'id': 'tiles-fills',
+'type': 'fill',
+'renderingMode': '2d',
+'source': 'resultados',
+'source-layer': 'Elecciones2016-4tfaz5',
+'paint': {
+'fill-color': '#c40068',
+'fill-opacity': ["interpolate", ["linear", 100], ["get", "right_pup"],
+        0.00, 0.05,
+        10, 0.2,
+        20, 0.4,
+        30, 0.6,
+        40, 0.8,
+        50, 1.0]
+}}, "admin");
+
+map.addLayer({
+'id': 'tiles-borders',
+'type': 'line',
+'renderingMode': '2d',
+'source': 'resultados',
+'source-layer': 'Elecciones2016-4tfaz5',
+'paint': {
+'line-color': "white",
+        "line-width":  0.1}
+    }, "admin");
+
+
+
+// Add zoom and rotation controls to the map.
+var nav = new mapboxgl.NavigationControl( {showCompass:false});
+map.addControl(nav, 'top-left');
+
+// disable map zoom when using scroll
+map.scrollZoom.disable();
+
+
+var geocoder = new MapboxGeocoder({
+countries: 'es',
+accessToken: mapboxgl.accessToken,
+mapboxgl: mapboxgl,
+types: 'place',
+placeholder: 'Busca tu municipio',
+zoom: 7,
+});
+
+map.addControl(geocoder, 'top-right');
+
+var popup = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false,
+}); 
+
+   map.on('mousemove', 'tiles-fills', function(e) {
+
+    if (e.features.length > 0) {
+          if (hoveredStateId) {          
+            map.setFeatureState({ source: 'resultados', 
+                                  sourceLayer: 'Elecciones2016-4tfaz5',
+                                  id: hoveredStateId}, { hover: false});
+          }
+          hoveredStateId = e.features[0].id;
+          map.setFeatureState({ source: 'resultados', 
+                              sourceLayer: 'Elecciones2016-4tfaz5',
+                              id: hoveredStateId}, { hover: true});
+        }
+
+        map.getCanvas().style.cursor = 'pointer';
+        //var coordinates = e.features[0].geometry.coordinates.slice();
+        var ppsoe = e.features[0].properties.right_ppsoe.toLocaleString();
+        var ppp = e.features[0].properties.right_ppp.toLocaleString();
+        var villa = e.features[0].properties.right_nombre_de_municipio.toLocaleString();
+        var pcs = e.features[0].properties.right_pc_s.toLocaleString();
+        var pup = e.features[0].properties.right_pup.toLocaleString();
+        var pvox = e.features[0].properties.right_pvox.toLocaleString();
+        var perc = e.features[0].properties.right_perc_catsi.toLocaleString();
+        var ppnv = e.features[0].properties.right_peaj_pnv.toLocaleString();
+        var potros = e.features[0].properties.right_potros.toLocaleString();
+
+         popup.setLngLat(e.lngLat)
+            .setHTML("<div style='color:black;font-size:15px;font-family: OpenSans-bold, Open Sans;'><b>" + villa + "</b></div><table style='border-collapse: collapse; font-family: OpenSans-Semibold, Open Sans;'><tbody><tr><th></th><th style='text-align:right'>Porcentaje</th></tr><tr style='border-bottom: 1px solid #ddd;'><td style='padding-bottom:2px;padding-top:2px'><span style='display: inline-block;width: 10px; height: 10px; background-color: #74d5d9; margin-right: 4px;margin-bottom:-1px'></span>PP</td><td style='text-align:right;padding-bottom:2px;padding-top:2px'>" + ppp + "</td></tr><tr style='border-bottom: 1px solid #ddd;'><td style='padding-bottom:2px;padding-top:2px'><span style='display: inline-block;width: 10px; height: 10px; background-color: #c10021; margin-right: 4px;margin-bottom:-1px'></span>PSOE</td><td style='text-align:right;padding-bottom:3px;padding-top:2px'>" + ppsoe + "</td></tr><tr style='border-bottom: 1px solid #ddd;'><td style='padding-bottom:2px;padding-top:2px'><span style='display: inline-block;width: 10px; height: 10px; background-color: #ba0063; margin-right: 4px;margin-bottom:-1px'></span>Podemos</td><td style='text-align:right;padding-bottom:3px;padding-top:2px'>" + pup + "</td></tr><tr style='border-bottom: 1px solid #ddd;'><td style='padding-bottom:2px;padding-top:2px'><span style='display: inline-block;width: 10px; height: 10px; background-color: #ff7345; margin-right: 4px;margin-bottom:-1px'></span>CS</td><td style='text-align:right;padding-bottom:3px;padding-top:2px'>" + pcs + "</td></tr><tr style='border-bottom: 1px solid #ddd;'><td style='padding-bottom:2px;padding-top:2px'><span style='display: inline-block;width: 10px; height: 10px; background-color: #b5d800; margin-right: 4px;margin-bottom:-1px'></span>Vox</td><td style='text-align:right;padding-bottom:3px;padding-top:2px'>" + pvox + "</td></tr><tr style='border-bottom: 1px solid #ddd;'><td style='padding-bottom:2px;padding-top:2px'><span style='display: inline-block;width: 10px; height: 10px; background-color: #ffcd05; margin-right: 4px;margin-bottom:-1px'></span>ERC</td><td style='text-align:right;padding-bottom:3px;padding-top:2px'>" + perc + "</td></tr><tr style='border-bottom: 1px solid #ddd;'><td style='padding-bottom:2px;padding-top:2px'><span style='display: inline-block;width: 10px; height: 10px; background-color: #265626; margin-right: 4px;margin-bottom:-1px'></span>PNV</td><td style='text-align:right;padding-bottom:3px;padding-top:2px'>" + ppnv + "</td></tr><tr style='border-bottom: 1px solid #ddd;'><td style='padding-bottom:2px;padding-top:2px'><span style='display: inline-block;width: 10px; height: 10px; background-color: #d6d6d6; margin-right: 4px;margin-bottom:-1px'></span>Otros</td><td style='text-align:right;padding-bottom:3px;padding-top:2px'>" + potros   )
+            .addTo(map);
+  });   
+
+        // Change the cursor style as a UI indicator.
+
+        
+        // Display a popup with the name of the county
+
+
+  map.on('mouseleave', 'tiles-fills', function() {
+      map.getCanvas().style.cursor = '';
+        popup.remove();
+        if (hoveredStateId) {          
+          map.setFeatureState({ source: 'resultados', 
+                                sourceLayer: 'Elecciones2016-4tfaz5',
+                                id: hoveredStateId}, { hover: false});
+        }
+        hoveredStateId = null;
+      });
+});   
+
+
+
+
+</script>
+ 
+
+   
+	</body>
+</html>
