@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.2" baseProfile="tiny" id="g-sintit2-Mesa_de_trabajo_2-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<svg version="1.2" baseProfile="tiny" id="g-sintit3-Mesa_de_trabajo_2-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 320 1559.557" xml:space="preserve">
 <g>
 	<g>
@@ -65,11 +65,17 @@
 		<g>
 			
 				<text transform="matrix(1 0 0 1 3.9567 532.6185)" display="none" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">200</text>
-		
+		</g>
+		<g>
+			<text transform="matrix(0.9923 0 0 1 3.774 1067.3666)" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">0</text>
+		</g>
+		<g>
 			
 				<text transform="matrix(0.9923 0 0 1 3.9567 966.0638)" display="none" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">20</text>
 		</g>
-		
+		<g>
+			<text transform="matrix(1 0 0 1 3.9567 858.5306)" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">40</text>
+		</g>
 		<g>
 			
 				<text transform="matrix(1 0 0 1 3.9567 793.7435)" display="none" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">60</text>
@@ -794,7 +800,7 @@
 	</g>
 </g>
 <style type="text/css">
-#g-sintit2-Mesa_de_trabajo_2-img rect, #g-sintit2-Mesa_de_trabajo_2-img circle, #g-sintit2-Mesa_de_trabajo_2-img path, #g-sintit2-Mesa_de_trabajo_2-img line, #g-sintit2-Mesa_de_trabajo_2-img polyline { vector-effect: non-scaling-stroke; }
+#g-sintit3-Mesa_de_trabajo_2-img rect, #g-sintit3-Mesa_de_trabajo_2-img circle, #g-sintit3-Mesa_de_trabajo_2-img path, #g-sintit3-Mesa_de_trabajo_2-img line, #g-sintit3-Mesa_de_trabajo_2-img polyline { vector-effect: non-scaling-stroke; }
 </style>
 </svg>
 

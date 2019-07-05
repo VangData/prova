@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.2" baseProfile="tiny" id="g-sintit2-Mesa_de_trabajo_2-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<svg version="1.2" baseProfile="tiny" id="g-Sin-t_tulo-1-Mesa_de_trabajo_2-img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 320 1559.557" xml:space="preserve">
 <g>
 	<g>
@@ -65,11 +65,17 @@
 		<g>
 			
 				<text transform="matrix(1 0 0 1 3.9567 532.6185)" display="none" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">200</text>
-		
+		</g>
+		<g>
+			<text transform="matrix(0.9923 0 0 1 3.774 1067.3666)" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">0</text>
+		</g>
+		<g>
 			
 				<text transform="matrix(0.9923 0 0 1 3.9567 966.0638)" display="none" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">20</text>
 		</g>
-		
+		<g>
+			<text transform="matrix(1 0 0 1 3.9567 858.5306)" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">40</text>
+		</g>
 		<g>
 			
 				<text transform="matrix(1 0 0 1 3.9567 793.7435)" display="none" fill="#B1B0B1" font-family="'OpenSans-Regular'" font-size="7.2412px">60</text>
@@ -740,9 +746,9 @@
 		</g>
 	</g>
 	
-		<line fill="none" stroke="#87868A" stroke-width="0.7" stroke-miterlimit="3.8636" stroke-dasharray="4,4" x1="-1.557" y1="539.113" x2="320" y2="539.113"/>
+		<line fill="none" stroke="#87868A" stroke-width="0.7" stroke-miterlimit="3.8636" stroke-dasharray="4,4" x1="-1.557" y1="561.685" x2="320" y2="561.685"/>
 	
-		<line fill="none" stroke="#87868A" stroke-width="0.7" stroke-miterlimit="3.8636" stroke-dasharray="4,4" x1="-1.557" y1="559.965" x2="320" y2="559.965"/>
+		<line fill="none" stroke="#87868A" stroke-width="0.7" stroke-miterlimit="3.8636" stroke-dasharray="4,4" x1="-1.557" y1="582.536" x2="320" y2="582.536"/>
 	<g>
 		<path fill="none" stroke="#323232" stroke-miterlimit="10" d="M271.916,789.095c4.177,9.789-2.051,38.939-20.52,49.616"/>
 		<g>
@@ -769,12 +775,6 @@
 		</g>
 	</g>
 	<g>
-		<path fill="none" stroke="#323232" stroke-miterlimit="10" d="M171.606,1085.937c23.808-3.281,36.191-15.403,31.212-25.675"/>
-		<g>
-			<polygon fill="#323232" points="199.158,1055.595 206.88,1060.273 202.956,1060.715 201.395,1064.341 			"/>
-		</g>
-	</g>
-	<g>
 		<path fill="none" stroke="#323232" stroke-miterlimit="10" d="M73.37,1170.535c0.74-0.875-3.662,10.994-0.211,20.744"/>
 		<g>
 			<polygon fill="#323232" points="76.036,1196.469 69.124,1190.661 73.07,1190.828 75.169,1187.483 			"/>
@@ -786,15 +786,9 @@
 			<polygon fill="#323232" points="207.445,1399.054 198.731,1401.414 201.12,1398.269 199.572,1394.637 			"/>
 		</g>
 	</g>
-	<g>
-		<path fill="none" stroke="#323232" stroke-miterlimit="10" d="M231.116,1086.473c-13.789-9.504-6.883-25.083,8.984-24.995"/>
-		<g>
-			<polygon fill="#323232" points="245.991,1062.181 237.325,1064.712 239.651,1061.521 238.032,1057.92 			"/>
-		</g>
-	</g>
 </g>
 <style type="text/css">
-#g-sintit2-Mesa_de_trabajo_2-img rect, #g-sintit2-Mesa_de_trabajo_2-img circle, #g-sintit2-Mesa_de_trabajo_2-img path, #g-sintit2-Mesa_de_trabajo_2-img line, #g-sintit2-Mesa_de_trabajo_2-img polyline { vector-effect: non-scaling-stroke; }
+#g-Sin-t_tulo-1-Mesa_de_trabajo_2-img rect, #g-Sin-t_tulo-1-Mesa_de_trabajo_2-img circle, #g-Sin-t_tulo-1-Mesa_de_trabajo_2-img path, #g-Sin-t_tulo-1-Mesa_de_trabajo_2-img line, #g-Sin-t_tulo-1-Mesa_de_trabajo_2-img polyline { vector-effect: non-scaling-stroke; }
 </style>
 </svg>
 
