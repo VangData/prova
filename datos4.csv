@@ -33,14 +33,6 @@ date,value,lugar,date2
 2016,6,A Coruña,2016
 2017,8,A Coruña,2017
 2018,8,A Coruña,2018
-2000,,A Pobra De Trives,2000
-2001,19,A Pobra De Trives,2001
-2013,21,A Pobra De Trives,2013
-2014,4,A Pobra De Trives,2014
-2015,19,A Pobra De Trives,2015
-2016,34,A Pobra De Trives,2016
-2017,24,A Pobra De Trives,2017
-2018,18,A Pobra De Trives,2018
 2001,64,Abla,2001
 2003,74,Abla,2003
 2004,55,Abla,2004
@@ -52,9 +44,6 @@ date,value,lugar,date2
 2016,67,Abla,2016
 2017,81,Abla,2017
 2018,70,Abla,2018
-2009,37,Adra,2009
-2015,46,Adra,2015
-2016,28,Adra,2016
 2009,47,Águilas,2009
 2010,31,Águilas,2010
 2011,31,Águilas,2011
@@ -64,12 +53,6 @@ date,value,lugar,date2
 2016,46,Águilas,2016
 2017,51,Águilas,2017
 2018,52,Águilas,2018
-2013,89,Alajar,2013
-2014,63,Alajar,2014
-2015,86,Alajar,2015
-2016,95,Alajar,2016
-2017,95,Alajar,2017
-2018,83,Alajar,2018
 1985,88,Albacete,1985
 1986,77,Albacete,1986
 1987,95,Albacete,1987
@@ -285,14 +268,6 @@ date,value,lugar,date2
 2016,66,Almería Aeropuerto,2016
 2017,67,Almería Aeropuerto,2017
 2018,54,Almería Aeropuerto,2018
-2015,103,Andújar,2015
-2016,114,Andújar,2016
-2017,112,Andújar,2017
-2007,11,Aragüés Del Puerto,2007
-2010,10,Aragüés Del Puerto,2010
-2015,33,Aragüés Del Puerto,2015
-2017,38,Aragüés Del Puerto,2017
-2018,18,Aragüés Del Puerto,2018
 2004,21,Aranda De Duero,2004
 2008,42,Aranda De Duero,2008
 2011,47,Aranda De Duero,2011
@@ -302,15 +277,6 @@ date,value,lugar,date2
 2016,64,Aranda De Duero,2016
 2017,63,Aranda De Duero,2017
 2018,56,Aranda De Duero,2018
-2012,39,Aranguren - Ilundain  ,2012
-2014,13,Aranguren - Ilundain  ,2014
-2015,34,Aranguren - Ilundain  ,2015
-1997,70,Aranjuez,1997
-2001,97,Aranjuez,2001
-2013,89,Aranjuez,2013
-2014,80,Aranjuez,2014
-2016,96,Aranjuez,2016
-2017,94,Aranjuez,2017
 1985,2,Arenys De Mar,1985
 2003,22,Arenys De Mar,2003
 2004,2,Arenys De Mar,2004
@@ -320,12 +286,6 @@ date,value,lugar,date2
 2015,43,Arenys De Mar,2015
 2016,39,Arenys De Mar,2016
 2017,46,Arenys De Mar,2017
-2004,105,Arroyo Del Ojanco,2004
-2006,90,Arroyo Del Ojanco,2006
-2012,105,Arroyo Del Ojanco,2012
-2014,82,Arroyo Del Ojanco,2014
-2015,87,Arroyo Del Ojanco,2015
-2018,90,Arroyo Del Ojanco,2018
 1985,2,Asturias Aeropuerto,1985
 1986,0,Asturias Aeropuerto,1986
 1987,2,Asturias Aeropuerto,1987
@@ -542,13 +502,6 @@ date,value,lugar,date2
 2016,15,Barcelona Aeropuerto,2016
 2017,24,Barcelona Aeropuerto,2017
 2018,34,Barcelona Aeropuerto,2018
-2000,57,Bardenas Reales - Base Aérea ,2000
-2013,51,Bardenas Reales - Base Aérea ,2013
-2014,53,Bardenas Reales - Base Aérea ,2014
-2016,66,Bardenas Reales - Base Aérea ,2016
-2017,68,Bardenas Reales - Base Aérea ,2017
-2018,72,Bardenas Reales - Base Aérea ,2018
-2018,21,Baztan - Irurita ,2018
 1992,20,Belorado,1992
 1994,31,Belorado,1994
 1997,4,Belorado,1997
@@ -582,11 +535,6 @@ date,value,lugar,date2
 2016,64,Benavente,2016
 2017,59,Benavente,2017
 2018,59,Benavente,2018
-2006,40,Bielsa,2006
-2013,8,Bielsa,2013
-2016,60,Bielsa,2016
-2017,50,Bielsa,2017
-2018,16,Bielsa,2018
 1985,27,Bilbao Aeropuerto,1985
 1986,17,Bilbao Aeropuerto,1986
 1987,16,Bilbao Aeropuerto,1987
@@ -660,13 +608,6 @@ date,value,lugar,date2
 2007,0,Cabo Peñas,2007
 2008,0,Cabo Peñas,2008
 2009,0,Cabo Peñas,2009
-1998,0,Cabo Vilan,1998
-1999,0,Cabo Vilan,1999
-2006,1,Cabo Vilan,2006
-2012,0,Cabo Vilan,2012
-2014,0,Cabo Vilan,2014
-2017,1,Cabo Vilan,2017
-2018,0,Cabo Vilan,2018
 1985,91,Cáceres,1985
 1986,78,Cáceres,1986
 1987,85,Cáceres,1987
@@ -758,8 +699,6 @@ date,value,lugar,date2
 2016,71,Calatayud,2016
 2017,64,Calatayud,2017
 2018,67,Calatayud,2018
-2017,76,Cañizares,2017
-2018,79,Cañizares,2018
 1995,15,Capdepera,1995
 1997,16,Capdepera,1997
 1998,27,Capdepera,1998
@@ -772,13 +711,6 @@ date,value,lugar,date2
 2010,15,Capdepera,2010
 2011,14,Capdepera,2011
 2017,24,Capdepera,2017
-2009,87,Caravaca De La Cruz,2009
-2010,70,Caravaca De La Cruz,2010
-2012,96,Caravaca De La Cruz,2012
-2013,67,Caravaca De La Cruz,2013
-2014,100,Caravaca De La Cruz,2014
-2016,87,Caravaca De La Cruz,2016
-2017,86,Caravaca De La Cruz,2017
 1996,35,Carballiño - O,1996
 2000,30,Carballiño - O,2000
 2001,31,Carballiño - O,2001
@@ -795,11 +727,6 @@ date,value,lugar,date2
 2016,53,Carballiño - O,2016
 2017,42,Carballiño - O,2017
 2018,56,Carballiño - O,2018
-2001,28,Carboneras,2001
-2002,15,Carboneras,2002
-2004,27,Carboneras,2004
-2012,53,Carboneras,2012
-2016,44,Carboneras,2016
 1989,37,Carrión De Los Condes,1989
 1991,44,Carrión De Los Condes,1991
 1993,33,Carrión De Los Condes,1993
@@ -836,13 +763,6 @@ date,value,lugar,date2
 2015,57,Cartagena,2015
 2016,43,Cartagena,2016
 2018,40,Cartagena,2018
-2014,4,Castro Urdiales,2014
-2015,4,Castro Urdiales,2015
-2016,3,Castro Urdiales,2016
-2018,1,Castro Urdiales,2018
-2015,2,Castropol,2015
-2017,2,Castropol,2017
-2018,0,Castropol,2018
 1999,77,Cazalla De La Sierra,1999
 2000,89,Cazalla De La Sierra,2000
 2001,86,Cazalla De La Sierra,2001
@@ -856,9 +776,6 @@ date,value,lugar,date2
 2016,91,Cazalla De La Sierra,2016
 2017,90,Cazalla De La Sierra,2017
 2018,68,Cazalla De La Sierra,2018
-2009,102,Cazorla,2009
-2011,86,Cazorla,2011
-2012,96,Cazorla,2012
 1986,10,Cervera De Pisuerga,1986
 1987,22,Cervera De Pisuerga,1987
 1988,4,Cervera De Pisuerga,1988
@@ -883,8 +800,6 @@ date,value,lugar,date2
 2016,28,Ceuta,2016
 2017,20,Ceuta,2017
 2018,22,Ceuta,2018
-2017,63,Chinchilla,2017
-2018,64,Chinchilla,2018
 1997,78,Cieza,1997
 1998,100,Cieza,1998
 2001,100,Cieza,2001
@@ -1164,11 +1079,6 @@ date,value,lugar,date2
 2015,0,Estaca De Bares,2015
 2017,0,Estaca De Bares,2017
 2018,0,Estaca De Bares,2018
-2014,0,Fisterra,2014
-2015,4,Fisterra,2015
-2016,2,Fisterra,2016
-2017,4,Fisterra,2017
-2018,9,Fisterra,2018
 1985,22,Foronda-Txokiza,1985
 1986,16,Foronda-Txokiza,1986
 1987,28,Foronda-Txokiza,1987
@@ -1403,11 +1313,6 @@ date,value,lugar,date2
 2016,19,Güeñes,2016
 2017,12,Güeñes,2017
 2018,6,Güeñes,2018
-2014,3,Güímar,2014
-2015,13,Güímar,2015
-2016,11,Güímar,2016
-2017,15,Güímar,2017
-2018,8,Güímar,2018
 1990,102,Hellín,1990
 1991,102,Hellín,1991
 1998,97,Hellín,1998
@@ -1417,10 +1322,6 @@ date,value,lugar,date2
 2016,82,Hellín,2016
 2017,81,Hellín,2017
 2018,81,Hellín,2018
-2009,91,Herrera Del Duque,2009
-2010,86,Herrera Del Duque,2010
-2012,91,Herrera Del Duque,2012
-2015,100,Herrera Del Duque,2015
 1985,3,Hierro Aeropuerto,1985
 1986,1,Hierro Aeropuerto,1986
 1987,8,Hierro Aeropuerto,1987
@@ -1454,11 +1355,6 @@ date,value,lugar,date2
 2016,0,Hierro Aeropuerto,2016
 2017,1,Hierro Aeropuerto,2017
 2018,0,Hierro Aeropuerto,2018
-2002,77,Hinojosa Del Duque,2002
-2014,72,Hinojosa Del Duque,2014
-2015,88,Hinojosa Del Duque,2015
-2016,100,Hinojosa Del Duque,2016
-2018,87,Hinojosa Del Duque,2018
 1985,9,Hondarribia - Malkarroa,1985
 1986,6,Hondarribia - Malkarroa,1986
 1987,10,Hondarribia - Malkarroa,1987
@@ -1632,13 +1528,6 @@ date,value,lugar,date2
 2016,0,Izaña,2016
 2017,0,Izaña,2017
 2018,0,Izaña,2018
-1997,11,Jaca,1997
-2006,24,Jaca,2006
-2009,33,Jaca,2009
-2015,37,Jaca,2015
-2016,48,Jaca,2016
-2017,53,Jaca,2017
-2018,43,Jaca,2018
 1985,102,Jaén,1985
 1989,78,Jaén,1989
 1990,87,Jaén,1990
@@ -1710,22 +1599,6 @@ date,value,lugar,date2
 2016,109,Jerez De La Frontera Aeropuerto,2016
 2017,100,Jerez De La Frontera Aeropuerto,2017
 2018,86,Jerez De La Frontera Aeropuerto,2018
-2009,85,Jerez De Los Caballeros,2009
-2012,93,Jerez De Los Caballeros,2012
-2013,93,Jerez De Los Caballeros,2013
-2015,94,Jerez De Los Caballeros,2015
-2018,99,Jerez De Los Caballeros,2018
-2000,1,La Aldea De San Nicolás,2000
-2001,2,La Aldea De San Nicolás,2001
-2002,0,La Aldea De San Nicolás,2002
-2004,8,La Aldea De San Nicolás,2004
-2008,1,La Aldea De San Nicolás,2008
-2015,7,La Aldea De San Nicolás,2015
-2002,0,La Covatilla - Estación De Esquí,2002
-2013,0,La Covatilla - Estación De Esquí,2013
-2015,0,La Covatilla - Estación De Esquí,2015
-2016,0,La Covatilla - Estación De Esquí,2016
-2017,0,La Covatilla - Estación De Esquí,2017
 1985,0,La Molina,1985
 1986,0,La Molina,1986
 1987,2,La Molina,1987
@@ -1792,12 +1665,6 @@ date,value,lugar,date2
 2016,0,La Pinilla - Estación De Esquí,2016
 2017,0,La Pinilla - Estación De Esquí,2017
 2018,0,La Pinilla - Estación De Esquí,2018
-2013,85,La Roda De Andalucía,2013
-2014,87,La Roda De Andalucía,2014
-2015,99,La Roda De Andalucía,2015
-2016,108,La Roda De Andalucía,2016
-2017,103,La Roda De Andalucía,2017
-2018,97,La Roda De Andalucía,2018
 1985,74,La Seu D'Urgell,1985
 1986,64,La Seu D'Urgell,1986
 1987,56,La Seu D'Urgell,1987
@@ -1861,13 +1728,6 @@ date,value,lugar,date2
 2016,45,Lanzarote Aeropuerto,2016
 2017,42,Lanzarote Aeropuerto,2017
 2018,19,Lanzarote Aeropuerto,2018
-2015,4,Las Palmas De Gran Canaria - Pl. De La Feria,2015
-2018,0,Las Palmas De Gran Canaria - Pl. De La Feria,2018
-2004,13,Las Palmas De Gran Canaria - San Cristobal,2004
-2010,5,Las Palmas De Gran Canaria - San Cristobal,2010
-2015,5,Las Palmas De Gran Canaria - San Cristobal,2015
-2017,3,Las Palmas De Gran Canaria - San Cristobal,2017
-2018,2,Las Palmas De Gran Canaria - San Cristobal,2018
 1998,3,Lekeitio,1998
 1999,0,Lekeitio,1999
 2000,3,Lekeitio,2000
@@ -1917,9 +1777,6 @@ date,value,lugar,date2
 2016,36,León - Virgen Del Camino,2016
 2017,33,León - Virgen Del Camino,2017
 2018,19,León - Virgen Del Camino,2018
-2014,17,León Aeropuerto,2014
-2015,40,León Aeropuerto,2015
-2016,47,León Aeropuerto,2016
 1997,0,Llanes,1997
 1998,0,Llanes,1998
 2000,0,Llanes,2000
@@ -2072,7 +1929,6 @@ date,value,lugar,date2
 2016,21,Lugo Aeropuerto,2016
 2017,11,Lugo Aeropuerto,2017
 2018,15,Lugo Aeropuerto,2018
-2018,0,Machichaco,2018
 1997,55,Madrid - Ciudad Universitaria,1997
 1999,80,Madrid - Ciudad Universitaria,1999
 2001,85,Madrid - Ciudad Universitaria,2001
@@ -2196,11 +2052,6 @@ date,value,lugar,date2
 2016,68,Málaga - Centro Meteorológico,2016
 2017,74,Málaga - Centro Meteorológico,2017
 2018,80,Málaga - Centro Meteorológico,2018
-2001,52,Málaga - Puerto,2001
-2002,27,Málaga - Puerto,2002
-2004,23,Málaga - Puerto,2004
-2007,24,Málaga - Puerto,2007
-2008,29,Málaga - Puerto,2008
 1990,52,Málaga Aeropuerto,1990
 1991,55,Málaga Aeropuerto,1991
 1992,34,Málaga Aeropuerto,1992
@@ -2230,11 +2081,6 @@ date,value,lugar,date2
 2016,48,Málaga Aeropuerto,2016
 2017,58,Málaga Aeropuerto,2017
 2018,66,Málaga Aeropuerto,2018
-2005,54,Manresa,2005
-2006,60,Manresa,2006
-2013,57,Manresa,2013
-2014,50,Manresa,2014
-2015,68,Manresa,2015
 1998,1,Maspalomas,1998
 1999,5,Maspalomas,1999
 2000,0,Maspalomas,2000
@@ -2444,13 +2290,6 @@ date,value,lugar,date2
 2016,113,Murcia,2016
 2017,109,Murcia,2017
 2018,107,Murcia,2018
-2007,6,Naut Aran - Arties ,2007
-2008,4,Naut Aran - Arties ,2008
-2013,4,Naut Aran - Arties ,2013
-2014,2,Naut Aran - Arties ,2014
-2016,41,Naut Aran - Arties ,2016
-2017,35,Naut Aran - Arties ,2017
-2018,23,Naut Aran - Arties ,2018
 2002,90,Navalmoral De La Mata,2002
 2003,104,Navalmoral De La Mata,2003
 2004,101,Navalmoral De La Mata,2004
@@ -2585,21 +2424,6 @@ date,value,lugar,date2
 2014,14,Padrón,2014
 2016,40,Padrón,2016
 2017,26,Padrón,2017
-2006,19,Pájara,2006
-2016,11,Pájara,2016
-2017,45,Pájara,2017
-1998,0,Pajares-Valgrande,1998
-2000,0,Pajares-Valgrande,2000
-2001,0,Pajares-Valgrande,2001
-2002,0,Pajares-Valgrande,2002
-2005,0,Pajares-Valgrande,2005
-2017,0,Pajares-Valgrande,2017
-2009,40,Palacios De La Sierra,2009
-2012,35,Palacios De La Sierra,2012
-2013,35,Palacios De La Sierra,2013
-2015,41,Palacios De La Sierra,2015
-2016,49,Palacios De La Sierra,2016
-2018,32,Palacios De La Sierra,2018
 1985,56,Palma - Aeropuerto,1985
 1986,57,Palma - Aeropuerto,1986
 1987,77,Palma - Aeropuerto,1987
@@ -2744,12 +2568,6 @@ date,value,lugar,date2
 2016,67,Pinoso ,2016
 2017,60,Pinoso ,2017
 2018,35,Pinoso ,2018
-2000,84,Plasencia,2000
-2002,81,Plasencia,2002
-2008,63,Plasencia,2008
-2010,83,Plasencia,2010
-2016,98,Plasencia,2016
-2018,100,Plasencia,2018
 1996,30,Polinyà De Xúquer,1996
 1998,42,Polinyà De Xúquer,1998
 1999,56,Polinyà De Xúquer,1999
@@ -2837,9 +2655,6 @@ date,value,lugar,date2
 2010,0,Puerto De La Cruz,2010
 2015,3,Puerto De La Cruz,2015
 2017,0,Puerto De La Cruz,2017
-1999,0,Puerto De Leitariegos,1999
-2015,0,Puerto De Leitariegos,2015
-2018,0,Puerto De Leitariegos,2018
 1995,0,Puerto De San Isidro,1995
 1999,0,Puerto De San Isidro,1999
 2002,0,Puerto De San Isidro,2002
@@ -2860,9 +2675,6 @@ date,value,lugar,date2
 2015,7,Punta Galea,2015
 2016,8,Punta Galea,2016
 2017,7,Punta Galea,2017
-2012,13,Reinosa,2012
-2013,4,Reinosa,2013
-2016,19,Reinosa,2016
 1985,11,Reus Aeropuerto,1985
 1986,21,Reus Aeropuerto,1986
 1987,34,Reus Aeropuerto,1987
@@ -2911,14 +2723,6 @@ date,value,lugar,date2
 2016,52,Ripoll,2016
 2017,57,Ripoll,2017
 2018,28,Ripoll,2018
-2001,49,Ronda,2001
-2002,69,Ronda,2002
-2003,79,Ronda,2003
-2009,84,Ronda,2009
-2013,5,Roquetas De Mar,2013
-2014,7,Roquetas De Mar,2014
-2015,40,Roquetas De Mar,2015
-2016,20,Roquetas De Mar,2016
 1989,54,Rota - Base Naval,1989
 1990,45,Rota - Base Naval,1990
 1991,57,Rota - Base Naval,1991
@@ -2949,10 +2753,6 @@ date,value,lugar,date2
 2016,76,Rota - Base Naval,2016
 2017,72,Rota - Base Naval,2017
 2018,48,Rota - Base Naval,2018
-2011,75,Sa Pobla,2011
-2014,94,Sa Pobla,2014
-2015,80,Sa Pobla,2015
-2017,79,Sa Pobla,2017
 1985,71,Sabadell Aeropuerto,1985
 1986,58,Sabadell Aeropuerto,1986
 1987,50,Sabadell Aeropuerto,1987
@@ -3039,7 +2839,6 @@ date,value,lugar,date2
 2016,66,Salamanca Aeropuerto,2016
 2017,61,Salamanca Aeropuerto,2017
 2018,69,Salamanca Aeropuerto,2018
-2012,90,San Clemente,2012
 1997,22,San Fernando,1997
 1998,32,San Fernando,1998
 1999,20,San Fernando,1999
@@ -3097,18 +2896,6 @@ date,value,lugar,date2
 2017,56,San Javier Aeropuerto,2017
 2018,38,San Javier Aeropuerto,2018
 2018,66,San Javier Aeropuerto,2018
-2008,52,San Pablo De Los Montes,2008
-2014,45,San Pablo De Los Montes,2014
-2016,81,San Pablo De Los Montes,2016
-2017,74,San Pablo De Los Montes,2017
-2018,70,San Pablo De Los Montes,2018
-2012,13,San Sebastián Aeropuerto,2012
-2013,4,San Sebastián Aeropuerto,2013
-2014,9,San Sebastián Aeropuerto,2014
-2015,12,San Sebastián Aeropuerto,2015
-2016,16,San Sebastián Aeropuerto,2016
-2017,12,San Sebastián Aeropuerto,2017
-2018,11,San Sebastián Aeropuerto,2018
 1998,7,San Sebastián De La Gomera,1998
 2006,12,San Sebastián De La Gomera,2006
 2012,27,San Sebastián De La Gomera,2012
@@ -3136,18 +2923,6 @@ date,value,lugar,date2
 2016,0,San Vicente De La Barquera,2016
 2017,0,San Vicente De La Barquera,2017
 2018,0,San Vicente De La Barquera,2018
-2017,10,Sant Jaume D'Enveja,2017
-2002,79,Santa Elena,2002
-2009,97,Santa Elena,2009
-2010,84,Santa Elena,2010
-2011,99,Santa Elena,2011
-2014,89,Santa Elena,2014
-2015,86,Santa Elena,2015
-2018,91,Santa Elena,2018
-2013,15,Santa Susanna,2013
-2015,14,Santa Susanna,2015
-2017,21,Santa Susanna,2017
-2018,25,Santa Susanna,2018
 1985,3,Santander - Ciudad,1985
 1986,1,Santander - Ciudad,1986
 1987,3,Santander - Ciudad,1987
@@ -3417,9 +3192,6 @@ date,value,lugar,date2
 2018,44,Soria,2018
 2018,43,Soria,2018
 2018,28,Soria,2018
-2003,66,Sos Del Rey Católico,2003
-2015,56,Sos Del Rey Católico,2015
-2017,63,Sos Del Rey Católico,2017
 1985,108,Sotillo De La Adrada,1985
 1986,94,Sotillo De La Adrada,1986
 1987,92,Sotillo De La Adrada,1987
@@ -3466,11 +3238,6 @@ date,value,lugar,date2
 2016,36,Sta.Cruz De Tenerife,2016
 2017,32,Sta.Cruz De Tenerife,2017
 2018,15,Sta.Cruz De Tenerife,2018
-2014,27,Talarn,2014
-2015,54,Talarn,2015
-2016,65,Talarn,2016
-2017,63,Talarn,2017
-2018,51,Talarn,2018
 1985,112,Talavera De La Reina,1985
 1986,89,Talavera De La Reina,1986
 1987,94,Talavera De La Reina,1987
@@ -3487,12 +3254,6 @@ date,value,lugar,date2
 2010,86,Talavera De La Reina,2010
 2014,78,Talavera De La Reina,2014
 2016,99,Talavera De La Reina,2016
-2013,79,Tarancón,2013
-2014,75,Tarancón,2014
-2015,80,Tarancón,2015
-2016,94,Tarancón,2016
-2017,88,Tarancón,2017
-2018,91,Tarancón,2018
 1987,0,Tarifa,1987
 1988,0,Tarifa,1988
 1989,5,Tarifa,1989
@@ -3515,11 +3276,6 @@ date,value,lugar,date2
 2016,7,Tarifa,2016
 2017,8,Tarifa,2017
 2018,1,Tarifa,2018
-2006,56,Tàrrega,2006
-2008,47,Tàrrega,2008
-2009,64,Tàrrega,2009
-2017,59,Tàrrega,2017
-2018,74,Tàrrega,2018
 2008,3,Tazacorte,2008
 2009,12,Tazacorte,2009
 2010,11,Tazacorte,2010
@@ -3671,12 +3427,6 @@ date,value,lugar,date2
 2016,102,Toledo,2016
 2017,96,Toledo,2017
 2018,99,Toledo,2018
-2012,98,Tomelloso,2012
-2014,93,Tomelloso,2014
-2015,88,Tomelloso,2015
-2016,101,Tomelloso,2016
-2018,96,Tomelloso,2018
-2014,3,Torla,2014
 2001,3,Torrox,2001
 2002,0,Torrox,2002
 2003,6,Torrox,2003
@@ -3722,9 +3472,6 @@ date,value,lugar,date2
 2016,98,Tortosa,2016
 2017,92,Tortosa,2017
 2018,103,Tortosa,2018
-2004,89,Trujillo,2004
-2010,82,Trujillo,2010
-2011,72,Trujillo,2011
 1994,82,Utiel,1994
 2000,72,Utiel,2000
 2001,77,Utiel,2001
@@ -3734,11 +3481,6 @@ date,value,lugar,date2
 2014,81,Utiel,2014
 2017,79,Utiel,2017
 2018,77,Utiel,2018
-2010,83,Valdepeñas,2010
-2014,74,Valdepeñas,2014
-2016,94,Valdepeñas,2016
-2017,88,Valdepeñas,2017
-2018,87,Valdepeñas,2018
 1985,18,València,1985
 1986,25,València,1986
 1987,31,València,1987
@@ -3985,8 +3727,6 @@ date,value,lugar,date2
 2016,55,Villardeciervos,2016
 2017,51,Villardeciervos,2017
 2018,40,Villardeciervos,2018
-2014,71,Villarrodrigo,2014
-2017,92,Villarrodrigo,2017
 1994,47,Vitigudino,1994
 1997,37,Vitigudino,1997
 1999,48,Vitigudino,1999
@@ -4002,13 +3742,6 @@ date,value,lugar,date2
 2016,71,Vitigudino,2016
 2017,74,Vitigudino,2017
 2018,74,Vitigudino,2018
-2012,43,Vitoria Gasteiz Aeropuerto,2012
-2013,33,Vitoria Gasteiz Aeropuerto,2013
-2014,30,Vitoria Gasteiz Aeropuerto,2014
-2015,39,Vitoria Gasteiz Aeropuerto,2015
-2016,36,Vitoria Gasteiz Aeropuerto,2016
-2017,29,Vitoria Gasteiz Aeropuerto,2017
-2018,22,Vitoria Gasteiz Aeropuerto,2018
 1991,113,Xàtiva,1991
 1998,100,Xàtiva,1998
 2001,108,Xàtiva,2001
@@ -4024,10 +3757,6 @@ date,value,lugar,date2
 2016,100,Xàtiva,2016
 2017,103,Xàtiva,2017
 2018,99,Xàtiva,2018
-2009,36,Xinzo De Limia,2009
-2014,15,Xinzo De Limia,2014
-2016,40,Xinzo De Limia,2016
-2018,38,Xinzo De Limia,2018
 2009,82,Yecla,2009
 2010,76,Yecla,2010
 2011,81,Yecla,2011
@@ -4070,9 +3799,6 @@ date,value,lugar,date2
 2016,69,Zamora,2016
 2017,68,Zamora,2017
 2018,81,Zamora,2018
-2015,73,Zaragoza - Valdespartera,2015
-2017,78,Zaragoza - Valdespartera,2017
-2018,79,Zaragoza - Valdespartera,2018
 1985,70,Zaragoza Aeropuerto,1985
 1986,62,Zaragoza Aeropuerto,1986
 1987,71,Zaragoza Aeropuerto,1987
