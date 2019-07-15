@@ -145,12 +145,12 @@ date,value,lugar,indicativo2
 2015,33,Aragüés Del Puerto,2015
 2007,11,Aragüés Del Puerto,2007
 2010,10,Aragüés Del Puerto,2010
-2018,72,Bardenas Reales, Base Aérea ,2018
-2014,53,Bardenas Reales, Base Aérea ,2014
-2016,66,Bardenas Reales, Base Aérea ,2016
-2000,57,Bardenas Reales, Base Aérea ,2000
-2013,51,Bardenas Reales, Base Aérea ,2013
-2017,68,Bardenas Reales, Base Aérea ,2017
+2018,72,Bardenas Reales - Base Aérea ,2018
+2014,53,Bardenas Reales - Base Aérea ,2014
+2016,66,Bardenas Reales - Base Aérea ,2016
+2000,57,Bardenas Reales - Base Aérea ,2000
+2013,51,Bardenas Reales - Base Aérea ,2013
+2017,68,Bardenas Reales - Base Aérea ,2017
 1986,48,Almería Aeropuerto,1986
 1987,55,Almería Aeropuerto,1987
 1988,67,Almería Aeropuerto,1988
@@ -245,9 +245,9 @@ date,value,lugar,indicativo2
 2014,2,Zumaia,2014
 2013,1,Zumaia,2013
 2002,1,Zumaia,2002
-2018,79,Zaragoza, Valdespartera,2018
-2017,78,Zaragoza, Valdespartera,2017
-2015,73,Zaragoza, Valdespartera,2015
+2018,79,Zaragoza - Valdespartera,2018
+2017,78,Zaragoza - Valdespartera,2017
+2015,73,Zaragoza - Valdespartera,2015
 2011,79,Zaragoza Aeropuerto,2011
 2014,76,Zaragoza Aeropuerto,2014
 1987,71,Zaragoza Aeropuerto,1987
