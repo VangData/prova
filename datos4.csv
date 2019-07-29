@@ -206,7 +206,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,106,Alcantarilla,2016,a, , , , , , ,  
 2017,105,Alcantarilla,2017,a, , , , , , ,  
 2018,110,Alcantarilla,2018,a, , , , , , ,  
-1967,27,Alicante,1967,a, La estación de Elche,(Alicante), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 29, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 59
+1967,27,Alicante,1967,a, , , , , , ,  
 1968,31,Alicante,1968,a, , , , , , ,  
 1969,30,Alicante,1969,a, , , , , , ,  
 1970,29,Alicante,1970,a, , , , , , ,  
@@ -257,8 +257,8 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,84,Alicante,2015,a, , , , , , ,  
 2016,66,Alicante,2016,a, , , , , , ,  
 2017,61,Alicante,2017,a, , , , , , ,  
-2018,75,Alicante,2018,a, , , , , , ,  
-1968,0,Santiago del Monte,1968,a,Santiago del Monte,(Asturias), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 0, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de,1
+2018,75,Alicante,2018,a,La estación de Elche,(Alicante), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 29, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 59
+1968,0,Santiago del Monte,1968,a,La estación de Santiago del Monte, (Asturias), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 0, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 1
 1969,1,Santiago del Monte,1969,a, , , , , , ,  
 1970,0,Santiago del Monte,1970,a, , , , , , ,  
 1971,0,Santiago del Monte,1971,a, , , , , , ,  
@@ -309,7 +309,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,1,Santiago del Monte,2016,a, , , , , , ,  
 2017,1,Santiago del Monte,2017,a, , , , , , ,  
 2018,0,Santiago del Monte,2018,a, , , , , , ,  
-1955,95,Badajoz,1955,a,Badajoz,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de , 80, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de, 99
+1955,95,Badajoz,1955,a,Badajoz,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de , 80, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 99
 1956,70,Badajoz,1956,a, , , , , , ,  
 1957,84,Badajoz,1957,a, , , , , , ,  
 1958,80,Badajoz,1958,a, , , , , , ,  
@@ -373,7 +373,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,107,Badajoz,2016,a, , , , , , ,  
 2017,110,Badajoz,2017,a, , , , , , ,  
 2018,101,Badajoz,2018,a, , , , , , ,  
-1950,22,Barcelona,1950,a,La estación de Barcelona, -situada en el Observatori Fabra-, ,registró en la década de los 70' un promedio de, 11, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de, 31
+1950,22,Barcelona,1950,a,La estación de Barcelona, -situada en el Observatori Fabra-, ,registró en la década de los 70' un promedio de, 11, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 31
 1951,3,Barcelona,1951,a, , , , , , ,  
 1952,22,Barcelona,1952,a, , , , , , ,  
 1953,2,Barcelona,1953,a, , , , , , ,  
@@ -442,7 +442,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,39,Barcelona,2016,a, , , , , , ,  
 2017,31,Barcelona,2017,a, , , , , , ,  
 2018,35,Barcelona,2018,a, , , , , , ,  
-1950,18,Bilbao,1950,a,La estación de Bilbao,(Vizcaya), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 9, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de, 15
+1950,18,Bilbao,1950,a,La estación de Bilbao, (Vizcaya), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 9, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 15
 1951,10,Bilbao,1951,a, , , , , , ,  
 1952,9,Bilbao,1952,a, , , , , , ,  
 1953,9,Bilbao,1953,a, , , , , , ,  
@@ -511,7 +511,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,20,Bilbao,2016,a, , , , , , ,  
 2017,15,Bilbao,2017,a, , , , , , ,  
 2018,11,Bilbao,2018,a, , , , , , ,  
-1950,21,Burgos,1950,a,La estación de Burgos,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 14, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de, 28
+1950,21,Burgos,1950,a,La estación de Burgos,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 14, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 28
 1951,12,Burgos,1951,a, , , , , , ,  
 1952,8,Burgos,1952,a, , , , , , ,  
 1953,23,Burgos,1953,a, , , , , , ,  
@@ -580,7 +580,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,41,Burgos,2016,a, , , , , , ,  
 2017,42,Burgos,2017,a, , , , , , ,  
 2018,28,Burgos,2018,a, , , , , , ,  
-1961,43,Cuenca,1961,a,Cuenca,(cerca del parque Europa),Cuenca,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1961,43,Cuenca,1961,a,La estación Cuenca, -situada cerca del parque Europa-,,registró en la década de los 70' un promedio de, 41, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 71
 1962,69,Cuenca,1962,a, , , , , , ,  
 1963,29,Cuenca,1963,a, , , , , , ,  
 1964,61,Cuenca,1964,a, , , , , , ,  
@@ -638,7 +638,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,83,Cuenca,2016,a, , , , , , ,  
 2017,76,Cuenca,2017,a, , , , , , ,  
 2018,76,Cuenca,2018,a, , , , , , ,  
-1950,55,Daroca,1950,a,Daroca,(cerca de la Puerta Alta),Zaragoza,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1950,55,Daroca,1950,a,La estación de Daroca, (Zaragoza), -situada cerca de la Puerta Alta-, registró en la década de los 70' un promedio de , 32, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 62
 1951,31,Daroca,1951,a, , , , , , ,  
 1952,21,Daroca,1952,a, , , , , , ,  
 1953,31,Daroca,1953,a, , , , , , ,  
