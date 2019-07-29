@@ -67,8 +67,8 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,1,A Coruña,2015,a, , , , , , ,  
 2016,6,A Coruña,2016,a, , , , , , ,  
 2017,8,A Coruña,2017,a, , , , , , ,  
-2018,8,A Coruña,2018,a,La estación de A Coruña, -situada cerca del Estadio Municipal de Riazor-,, registró en la década de los 70', un promedio de 3 ,días de más de 30ª en verano mientras que en los últimos 10 años ha sido de ,6
-1950,85,Albacete,1950,a,La estación de Albacete,-situada en la base áerea de la ciudad-,, registró en la década de los 70' un promedio de, 59, de días de más de 30ª en mientras que en los últimos 10 años ha sido de ,82
+2018,8,A Coruña,2018,a,La estación de A Coruña, -situada cerca del Estadio Municipal de Riazor-,, registró en la década de los 70', un promedio de 3 ,días de más de 30º en verano mientras que en los últimos 10 años ha sido de ,6
+1950,85,Albacete,1950,a,La estación de Albacete, -situada en la base áerea de la ciudad-,, registró en la década de los 70' un promedio de, 59, de días de más de 30º en verano mientras que en los últimos 10 años ha sido de ,82
 1951,68,Albacete,1951,a, , , , , , ,  
 1952,67,Albacete,1952,a, , , , , , ,  
 1953,71,Albacete,1953,a, , , , , , ,  
@@ -137,7 +137,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,90,Albacete,2016,a, , , , , , ,  
 2017,84,Albacete,2017,a, , , , , , ,  
 2018,84,Albacete,2018,a, , , , , , ,  
-1950,104,Alcantarilla,1950,a,La estación de Alcantarilla ,(Murcia), -situada en la base área de la ciudad-, registró en la década de los 70' un promedio de, 78, días de más de 30ª en verano mientras en los últimos 10 años ha sido de, 101
+1950,104,Alcantarilla,1950,a,La estación de Alcantarilla ,(Murcia), -situada en la base área de la ciudad- , registró en la década de los 70' un promedio de, 78, días de más de 30º en verano mientras en los últimos 10 años ha sido de, 101
 1951,78,Alcantarilla,1951,a, , , , , , ,  
 1952,88,Alcantarilla,1952,a, , , , , , ,  
 1953,97,Alcantarilla,1953,a, , , , , , ,  
@@ -206,7 +206,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,106,Alcantarilla,2016,a, , , , , , ,  
 2017,105,Alcantarilla,2017,a, , , , , , ,  
 2018,110,Alcantarilla,2018,a, , , , , , ,  
-1967,27,Alicante,1967,a, La estación de Elche,(Alicante), -situdada en el Aeropuerto- , registró en la década de los 70' un promedio de, 29, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de, 59
+1967,27,Alicante,1967,a, La estación de Elche,(Alicante), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 29, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 59
 1968,31,Alicante,1968,a, , , , , , ,  
 1969,30,Alicante,1969,a, , , , , , ,  
 1970,29,Alicante,1970,a, , , , , , ,  
