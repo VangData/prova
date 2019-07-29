@@ -707,7 +707,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,63,Daroca,2016,a, , , , , , ,  
 2017,59,Daroca,2017,a, , , , , , ,  
 2018,57,Daroca,2018,a, , , , , , ,  
-1950,5,San Sebastián,1950,a,San Sebastián,(Monte Igueldo),Guipúzcoa,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1950,5,San Sebastián,1950,a,La estación de San Sebastián, (Guipúzcoa), -situada en el Monte Igueldo-, registró en la década de los 70' un promedio de, 3, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 6
 1951,2,San Sebastián,1951,a, , , , , , ,  
 1952,3,San Sebastián,1952,a, , , , , , ,  
 1953,3,San Sebastián,1953,a, , , , , , ,  
@@ -776,7 +776,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,9,San Sebastián,2016,a, , , , , , ,  
 2017,9,San Sebastián,2017,a, , , , , , ,  
 2018,2,San Sebastián,2018,a, , , , , , ,  
-1970,18,Fuerteventura,1970,a,Puerto del Rosario,(Aeropuerto),Tenerife - Las Palmas,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1970,18,Fuerteventura,1970,a,La estación de Puerto del Rosario, (Tenerife), -situada en el aeropuerto, registró en la década de los 70' un promedio de, 9, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 17
 1971,3,Fuerteventura,1971,a, , , , , , ,  
 1972,3,Fuerteventura,1972,a, , , , , , ,  
 1973,4,Fuerteventura,1973,a, , , , , , ,  
@@ -825,7 +825,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,20,Fuerteventura,2016,a, , , , , , ,  
 2017,18,Fuerteventura,2017,a, , , , , , ,  
 2018,3,Fuerteventura,2018,a, , , , , , ,  
-1951,59,Getafe,1951,a,Getafe,(Base Áerea),Madrid,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1951,59,Getafe,1951,a,La estación de Getafe,(Madrid), -situada en la base áerea de la ciudad-, registró en la década de los 70' un promedio de 62, días de más de 30º en verano mientras que en los últimos 10 años ha sido de, 82
 1952,46,Getafe,1952,a, , , , , , ,  
 1953,70,Getafe,1953,a, , , , , , ,  
 1954,61,Getafe,1954,a, , , , , , ,  
