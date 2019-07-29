@@ -68,7 +68,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,6,A Coruña,2016,a, , , , , , ,  
 2017,8,A Coruña,2017,a, , , , , , ,  
 2018,8,A Coruña,2018,a,La estación de A Coruña, -situada cerca del Estadio Municipal de Riazor-,, registró en la década de los 70', un promedio de 3 ,días de más de 30ª en verano mientras que en los últimos 10 años ha sido de ,6
-1950,85,Albacete,1950,a,La estación de Albacete,-situada en la base áerea de la ciudad-,, registró en la década de los 70' un promedio de, 78, de días de más de 30ª en mientras que en los últimos 10 años ha sido de ,101
+1950,85,Albacete,1950,a,La estación de Albacete,-situada en la base áerea de la ciudad-,, registró en la década de los 70' un promedio de, 59, de días de más de 30ª en mientras que en los últimos 10 años ha sido de ,82
 1951,68,Albacete,1951,a, , , , , , ,  
 1952,67,Albacete,1952,a, , , , , , ,  
 1953,71,Albacete,1953,a, , , , , , ,  
@@ -206,7 +206,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,106,Alcantarilla,2016,a, , , , , , ,  
 2017,105,Alcantarilla,2017,a, , , , , , ,  
 2018,110,Alcantarilla,2018,a, , , , , , ,  
-1967,27,Alicante,1967,a,Elche,(Aeropuerto),Alicante,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1967,27,Alicante,1967,a, La estación de Elche,(Alicante), -situdada en el Aeropuerto- , registró en la década de los 70' un promedio de, 29, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de, 59
 1968,31,Alicante,1968,a, , , , , , ,  
 1969,30,Alicante,1969,a, , , , , , ,  
 1970,29,Alicante,1970,a, , , , , , ,  
@@ -258,7 +258,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,66,Alicante,2016,a, , , , , , ,  
 2017,61,Alicante,2017,a, , , , , , ,  
 2018,75,Alicante,2018,a, , , , , , ,  
-1968,0,Santiago del Monte,1968,a,Santiago del Monte,(Aeropuerto),Asturias,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1968,0,Santiago del Monte,1968,a,Santiago del Monte,(Asturias), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 0, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de,1
 1969,1,Santiago del Monte,1969,a, , , , , , ,  
 1970,0,Santiago del Monte,1970,a, , , , , , ,  
 1971,0,Santiago del Monte,1971,a, , , , , , ,  
@@ -309,7 +309,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,1,Santiago del Monte,2016,a, , , , , , ,  
 2017,1,Santiago del Monte,2017,a, , , , , , ,  
 2018,0,Santiago del Monte,2018,a, , , , , , ,  
-1955,95,Badajoz,1955,a,Badajoz,(Aeropuerto),Badajoz,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1955,95,Badajoz,1955,a,Badajoz,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de , 80, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de, 99
 1956,70,Badajoz,1956,a, , , , , , ,  
 1957,84,Badajoz,1957,a, , , , , , ,  
 1958,80,Badajoz,1958,a, , , , , , ,  
@@ -373,7 +373,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,107,Badajoz,2016,a, , , , , , ,  
 2017,110,Badajoz,2017,a, , , , , , ,  
 2018,101,Badajoz,2018,a, , , , , , ,  
-1950,22,Barcelona,1950,a,Barcelona,(Observatori Fabra),Barcelona,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1950,22,Barcelona,1950,a,Barcelona, -situada en el Observatori Fabra-, ,registró en la década de los 70' un promedio de 11 días de más de 30ª en verano mientras que en los últimos 10 años ha sido de, 31
 1951,3,Barcelona,1951,a, , , , , , ,  
 1952,22,Barcelona,1952,a, , , , , , ,  
 1953,2,Barcelona,1953,a, , , , , , ,  
@@ -442,7 +442,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,39,Barcelona,2016,a, , , , , , ,  
 2017,31,Barcelona,2017,a, , , , , , ,  
 2018,35,Barcelona,2018,a, , , , , , ,  
-1950,18,Bilbao,1950,a,Bilbao,(Aeropuerto),Vizcaya,En la década de los 70 el número de días de más de 30ª en verano fue de,x,y en los úlitmos 10 ñaos ha sido de,x+2
+1950,18,Bilbao,1950,a,La estación de Bilbao,(Vizcaya), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 9, días de más de 30ª en verano mientras que en los últimos 10 años ha sido de, 15
 1951,10,Bilbao,1951,a, , , , , , ,  
 1952,9,Bilbao,1952,a, , , , , , ,  
 1953,9,Bilbao,1953,a, , , , , , ,  
