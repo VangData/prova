@@ -67,8 +67,8 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,1,A Coruña,2015,a, , , , , , ,  
 2016,6,A Coruña,2016,a, , , , , , ,  
 2017,8,A Coruña,2017,a, , , , , , ,  
-2018,8,A Coruña,2018,a,La estación de A Coruña, -situada cerca del Estadio Municipal de Riazor-,, registró en la década de los 70', un promedio de 3 ,días de más de 30º en verano. En cambio en los últimos 10 años ha sido de ,6 días.
-1950,85,Albacete,1950,a,La estación de Albacete, -situada en la base áerea de la ciudad-,, registró en la década de los 70' un promedio de, 59, de días de más de 30º en verano. En cambio en los últimos 10 años ha sido de ,82 días.
+2018,8,A Coruña,2018,a,La estación de A Coruña, -situada cerca del Estadio Municipal de Riazor-,, registró en la década de los 70', un promedio de 3 ,días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de ,6 días.
+1950,85,Albacete,1950,a,La estación de Albacete, -situada en la base áerea de la ciudad-,, registró en la década de los 70' un promedio de, 59, de días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de ,82 días.
 1951,68,Albacete,1951,a, , , , , , ,  
 1952,67,Albacete,1952,a, , , , , , ,  
 1953,71,Albacete,1953,a, , , , , , ,  
@@ -257,8 +257,8 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,84,Alicante,2015,a, , , , , , ,  
 2016,66,Alicante,2016,a, , , , , , ,  
 2017,61,Alicante,2017,a, , , , , , ,  
-2018,75,Alicante,2018,a,La estación de Elche, (Alicante), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 29, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 59 días.
-1968,0,Santiago del Monte,1968,a,La estación de Santiago del Monte, (Asturias), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 0, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 1 día.
+2018,75,Alicante,2018,a,La estación de Elche, (Alicante), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 29, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 59 días.
+1968,0,Santiago del Monte,1968,a,La estación de Santiago del Monte, (Asturias), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 0, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 1 día.
 1969,1,Santiago del Monte,1969,a, , , , , , ,  
 1970,0,Santiago del Monte,1970,a, , , , , , ,  
 1971,0,Santiago del Monte,1971,a, , , , , , ,  
@@ -309,7 +309,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,1,Santiago del Monte,2016,a, , , , , , ,  
 2017,1,Santiago del Monte,2017,a, , , , , , ,  
 2018,0,Santiago del Monte,2018,a, , , , , , ,  
-1955,95,Badajoz,1955,a,La estación de Badajoz,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de , 80, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 99 días.
+1955,95,Badajoz,1955,a,La estación de Badajoz,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de , 80, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 99 días.
 1956,70,Badajoz,1956,a, , , , , , ,  
 1957,84,Badajoz,1957,a, , , , , , ,  
 1958,80,Badajoz,1958,a, , , , , , ,  
@@ -373,7 +373,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,107,Badajoz,2016,a, , , , , , ,  
 2017,110,Badajoz,2017,a, , , , , , ,  
 2018,101,Badajoz,2018,a, , , , , , ,  
-1950,22,Barcelona,1950,a,La estación de Barcelona, -situada en el Observatori Fabra-, ,registró en la década de los 70' un promedio de, 11, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 31 días.
+1950,22,Barcelona,1950,a,La estación de Barcelona, -situada en el Observatori Fabra-, ,registró en la década de los 70' un promedio de, 11, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 31 días.
 1951,3,Barcelona,1951,a, , , , , , ,  
 1952,22,Barcelona,1952,a, , , , , , ,  
 1953,2,Barcelona,1953,a, , , , , , ,  
@@ -442,7 +442,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,39,Barcelona,2016,a, , , , , , ,  
 2017,31,Barcelona,2017,a, , , , , , ,  
 2018,35,Barcelona,2018,a, , , , , , ,  
-1950,18,Bilbao,1950,a,La estación de Bilbao, (Vizcaya), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 9, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 15 días.
+1950,18,Bilbao,1950,a,La estación de Bilbao, (Vizcaya), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 9, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 15 días.
 1951,10,Bilbao,1951,a, , , , , , ,  
 1952,9,Bilbao,1952,a, , , , , , ,  
 1953,9,Bilbao,1953,a, , , , , , ,  
@@ -511,7 +511,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,20,Bilbao,2016,a, , , , , , ,  
 2017,15,Bilbao,2017,a, , , , , , ,  
 2018,11,Bilbao,2018,a, , , , , , ,  
-1950,21,Burgos,1950,a,La estación de Burgos,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 14, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 28 días.
+1950,21,Burgos,1950,a,La estación de Burgos,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 14, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 28 días.
 1951,12,Burgos,1951,a, , , , , , ,  
 1952,8,Burgos,1952,a, , , , , , ,  
 1953,23,Burgos,1953,a, , , , , , ,  
@@ -580,7 +580,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,41,Burgos,2016,a, , , , , , ,  
 2017,42,Burgos,2017,a, , , , , , ,  
 2018,28,Burgos,2018,a, , , , , , ,  
-1961,43,Cuenca,1961,a,La estación Cuenca, -situada cerca del parque Europa-,, registró en la década de los 70' un promedio de, 41, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 71 días.
+1961,43,Cuenca,1961,a,La estación Cuenca, -situada cerca del parque Europa-,, registró en la década de los 70' un promedio de, 41, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 71 días.
 1962,69,Cuenca,1962,a, , , , , , ,  
 1963,29,Cuenca,1963,a, , , , , , ,  
 1964,61,Cuenca,1964,a, , , , , , ,  
@@ -638,7 +638,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,83,Cuenca,2016,a, , , , , , ,  
 2017,76,Cuenca,2017,a, , , , , , ,  
 2018,76,Cuenca,2018,a, , , , , , ,  
-1950,55,Daroca,1950,a,La estación de Daroca, (Zaragoza), -situada cerca de la Puerta Alta-, registró en la década de los 70' un promedio de , 32, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 62 días.
+1950,55,Daroca,1950,a,La estación de Daroca, (Zaragoza), -situada cerca de la Puerta Alta-, registró en la década de los 70' un promedio de , 32, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 62 días.
 1951,31,Daroca,1951,a, , , , , , ,  
 1952,21,Daroca,1952,a, , , , , , ,  
 1953,31,Daroca,1953,a, , , , , , ,  
@@ -707,7 +707,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,63,Daroca,2016,a, , , , , , ,  
 2017,59,Daroca,2017,a, , , , , , ,  
 2018,57,Daroca,2018,a, , , , , , ,  
-1950,5,San Sebastián,1950,a,La estación de San Sebastián, (Guipúzcoa), -situada en el Monte Igueldo-, registró en la década de los 70' un promedio de, 3, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 6 días.
+1950,5,San Sebastián,1950,a,La estación de San Sebastián, (Guipúzcoa), -situada en el Monte Igueldo-, registró en la década de los 70' un promedio de, 3, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 6 días.
 1951,2,San Sebastián,1951,a, , , , , , ,  
 1952,3,San Sebastián,1952,a, , , , , , ,  
 1953,3,San Sebastián,1953,a, , , , , , ,  
@@ -776,7 +776,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,9,San Sebastián,2016,a, , , , , , ,  
 2017,9,San Sebastián,2017,a, , , , , , ,  
 2018,2,San Sebastián,2018,a, , , , , , ,  
-1970,18,Fuerteventura,1970,a,La estación de Puerto del Rosario, (Fuerteventura), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 9, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 17 días.
+1970,18,Fuerteventura,1970,a,La estación de Puerto del Rosario, (Fuerteventura), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 9, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 17 días.
 1971,3,Fuerteventura,1971,a, , , , , , ,  
 1972,3,Fuerteventura,1972,a, , , , , , ,  
 1973,4,Fuerteventura,1973,a, , , , , , ,  
@@ -825,7 +825,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,20,Fuerteventura,2016,a, , , , , , ,  
 2017,18,Fuerteventura,2017,a, , , , , , ,  
 2018,3,Fuerteventura,2018,a, , , , , , ,  
-1951,59,Getafe,1951,a,La estación de Getafe, (Madrid), -situada en la base áerea de la ciudad-, registró en la década de los 70' un promedio de, 62, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 82 días.
+1951,59,Getafe,1951,a,La estación de Getafe, (Madrid), -situada en la base áerea de la ciudad-, registró en la década de los 70' un promedio de, 62, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 82 días.
 1952,46,Getafe,1952,a, , , , , , ,  
 1953,70,Getafe,1953,a, , , , , , ,  
 1954,61,Getafe,1954,a, , , , , , ,  
@@ -959,7 +959,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,21,Los Moriscos,2016,a, , , , , , ,  
 2017,9,Los Moriscos,2017,a, , , , , , ,  
 2018,6,Los Moriscos,2018,a, , , , , , ,  
-1955,0,Hondarribia,1955,a,La estación de Hondarribia, (Guipúzcoa), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 5, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 9 días.
+1955,0,Hondarribia,1955,a,La estación de Hondarribia, (Guipúzcoa), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 5, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 9 días.
 1956,4,Hondarribia,1956,a, , , , , , ,  
 1957,7,Hondarribia,1957,a, , , , , , ,  
 1958,12,Hondarribia,1958,a, , , , , , ,  
@@ -1091,7 +1091,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,0,Izaña,2016,a, , , , , , ,  
 2017,0,Izaña,2017,a, , , , , , ,  
 2018,0,Izaña,2018,a, , , , , , ,  
-1952,34,Jerez de la Frontera,1952,a,La estación de Jerez de la Frontera, (Cádiz), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 68, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 90 días.
+1952,34,Jerez de la Frontera,1952,a,La estación de Jerez de la Frontera, (Cádiz), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 68, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 90 días.
 1953,86,Jerez de la Frontera,1953,a, , , , , , ,  
 1954,90,Jerez de la Frontera,1954,a, , , , , , ,  
 1955,87,Jerez de la Frontera,1955,a, , , , , , ,  
@@ -1158,7 +1158,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,109,Jerez de la Frontera,2016,a, , , , , , ,  
 2017,100,Jerez de la Frontera,2017,a, , , , , , ,  
 2018,86,Jerez de la Frontera,2018,a, , , , , , ,  
-1970,0,La Palma,1970,a,La estación de La Palma, (Santa Cruz de Tenerife), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 1, día de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 2 días.
+1970,0,La Palma,1970,a,La estación de La Palma, (Santa Cruz de Tenerife), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 1, día de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 2 días.
 1971,0,La Palma,1971,a, , , , , , ,  
 1972,0,La Palma,1972,a, , , , , , ,  
 1973,0,La Palma,1973,a, , , , , , ,  
@@ -1207,7 +1207,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,4,La Palma,2016,a, , , , , , ,  
 2017,1,La Palma,2017,a, , , , , , ,  
 2018,0,La Palma,2018,a, , , , , , ,  
-1968,72,La Seu D'Urgell,1968,a,La estación de La Seu d'Urgell, (Lleida), -situada cerca del ayuntamiento-, registró en la década de los 70' un promedio de, 75, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 45 días   
+1968,72,La Seu D'Urgell,1968,a,La estación de La Seu d'Urgell, (Lleida), -situada cerca del ayuntamiento-, registró en la década de los 70' un promedio de, 75, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 45 días   
 1969,70,La Seu D'Urgell,1969,a, , , , , , ,  
 1970,89,La Seu D'Urgell,1970,a, , , , , , ,  
 1971,95,La Seu D'Urgell,1971,a, , , , , , ,  
@@ -1251,7 +1251,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,23,La Seu D'Urgell,2016,a, , , , , , ,  
 2017,37,La Seu D'Urgell,2017,a, , , , , , ,  
 2018,37,La Seu D'Urgell,2018,a, , , , , , ,  
-1950,35,Valverde de la Virgen,1950,a,Valverde de la Virgen, (León), -situado en el aeropuerto- ,registró en la década de los 70' un promedio de, 18 ,días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 22 días.
+1950,35,Valverde de la Virgen,1950,a,Valverde de la Virgen, (León), -situado en el aeropuerto- ,registró en la década de los 70' un promedio de, 18 ,días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 22 días.
 1951,15,Valverde de la Virgen,1951,a, , , , , , ,  
 1952,9,Valverde de la Virgen,1952,a, , , , , , ,  
 1953,32,Valverde de la Virgen,1953,a, , , , , , ,  
@@ -1320,7 +1320,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,36,Valverde de la Virgen,2016,a, , , , , , ,  
 2017,33,Valverde de la Virgen,2017,a, , , , , , ,  
 2018,19,Valverde de la Virgen,2018,a, , , , , , ,  
-1950,64,Logroño,1950,a,La estación Logroño, (La Rioja), -situado en el aeropuerto-, registró en la década de los 70' un promedio de, 34, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 55 días.
+1950,64,Logroño,1950,a,La estación Logroño, (La Rioja), -situado en el aeropuerto-, registró en la década de los 70' un promedio de, 34, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 55 días.
 1951,31,Logroño,1951,a, , , , , , ,  
 1952,37,Logroño,1952,a, , , , , , ,  
 1953,38,Logroño,1953,a, , , , , , ,  
@@ -1389,7 +1389,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,61,Logroño,2016,a, , , , , , ,  
 2017,56,Logroño,2017,a, , , , , , ,  
 2018,58,Logroño,2018,a, , , , , , ,  
-1955,88,Lorca,1955,a,La estación de Lorca, (Murcia), -situada en las afueras-, registró en la década de los 70' un promedio de, 66 ,días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 87 días.
+1955,88,Lorca,1955,a,La estación de Lorca, (Murcia), -situada en las afueras-, registró en la década de los 70' un promedio de, 66 ,días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 87 días.
 1956,77,Lorca,1956,a, , , , , , ,  
 1957,79,Lorca,1957,a, , , , , , ,  
 1958,77,Lorca,1958,a, , , , , , ,  
@@ -1452,7 +1452,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,97,Lorca,2016,a, , , , , , ,  
 2017,95,Lorca,2017,a, , , , , , ,  
 2018,93,Lorca,2018,a, , , , , , ,  
-1950,90,Madrid,1950,a,La estación de Madrid, -situada en Cuatro Vientos-,, registró en la década de los 70' un promedio de, 58, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 81 días.
+1950,90,Madrid,1950,a,La estación de Madrid, -situada en Cuatro Vientos-,, registró en la década de los 70' un promedio de, 58, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 81 días.
 1951,62,Madrid,1951,a, , , , , , ,  
 1952,58,Madrid,1952,a, , , , , , ,  
 1953,81,Madrid,1953,a, , , , , , ,  
@@ -1521,7 +1521,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,92,Madrid,2016,a, , , , , , ,  
 2017,81,Madrid,2017,a, , , , , , ,  
 2018,90,Madrid,2018,a, , , , , , ,  
-1958,64,Madridejos,1958,a,La estación de Madridejos, (Toledo), -situada en las afueras-, registró en la década de los 70' un promedio de, 74, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 68 días.
+1958,64,Madridejos,1958,a,La estación de Madridejos, (Toledo), -situada en las afueras-, registró en la década de los 70' un promedio de, 74, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 68 días.
 1959,78,Madridejos,1959,a, , , , , , ,  
 1966,64,Madridejos,1966,a, , , , , , ,  
 1967,86,Madridejos,1967,a, , , , , , ,  
@@ -1566,7 +1566,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,72,Madridejos,2016,a, , , , , , ,  
 2017,60,Madridejos,2017,a, , , , , , ,  
 2018,72,Madridejos,2018,a, , , , , , ,  
-1950,56,Málaga,1950,a,La estación de Málaga,, -situada en el aeropuerto- ,registró en la década de los 70' un promedio de, 33, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 59 días.
+1950,56,Málaga,1950,a,La estación de Málaga,, -situada en el aeropuerto- ,registró en la década de los 70' un promedio de, 33, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 59 días.
 1951,30,Málaga,1951,a, , , , , , ,  
 1952,54,Málaga,1952,a, , , , , , ,  
 1953,31,Málaga,1953,a, , , , , , ,  
@@ -1629,7 +1629,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,48,Málaga,2016,a, , , , , , ,  
 2017,58,Málaga,2017,a, , , , , , ,  
 2018,66,Málaga,2018,a, , , , , , ,  
-1970,1,Melilla,1970,a,La estación de Melilla, -situada en el aeropuerto-,, registró en la década de los 70' un promedio de, 11, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 28 días.
+1970,1,Melilla,1970,a,La estación de Melilla, -situada en el aeropuerto-,, registró en la década de los 70' un promedio de, 11, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 28 días.
 1971,16,Melilla,1971,a, , , , , , ,  
 1972,5,Melilla,1972,a, , , , , , ,  
 1973,13,Melilla,1973,a, , , , , , ,  
@@ -1678,7 +1678,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,26,Melilla,2016,a, , , , , , ,  
 2017,32,Melilla,2017,a, , , , , , ,  
 2018,23,Melilla,2018,a, , , , , , ,  
-1970,28,Molina de Aragón,1970,a,La estación de Molina de Aragón, (Guadalajara), -situada en el Monasterio San Francisco- , registró en la década de los 70' un promedio de, 18, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 44 días.
+1970,28,Molina de Aragón,1970,a,La estación de Molina de Aragón, (Guadalajara), -situada en el Monasterio San Francisco- , registró en la década de los 70' un promedio de, 18, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 44 días.
 1971,14,Molina de Aragón,1971,a, , , , , , ,  
 1972,9,Molina de Aragón,1972,a, , , , , , , 
 1973,23,Molina de Aragón,1973,a, , , , , , , 
@@ -1727,7 +1727,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,68,Molina de Aragón,2016,a, , , , , , ,  
 2017,58,Molina de Aragón,2017,a, , , , , , ,  
 2018,40,Molina de Aragón,2018,a, , , , , , ,  
-1956,90,Morón de la Frontera,1956,a,La estación Morón de la Frontera, (Sevilla), -situada en el castillo-, registró en la década de los 70' un promedio de, 82, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 100 días.
+1956,90,Morón de la Frontera,1956,a,La estación Morón de la Frontera, (Sevilla), -situada en el castillo-, registró en la década de los 70' un promedio de, 82, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 100 días.
 1957,93,Morón de la Frontera,1957,a, , , , , , ,  
 1958,91,Morón de la Frontera,1958,a, , , , , , ,  
 1959,88,Morón de la Frontera,1959,a, , , , , , ,  
@@ -1790,7 +1790,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,108,Morón de la Frontera,2016,a, , , , , , ,  
 2017,105,Morón de la Frontera,2017,a, , , , , , ,  
 2018,96,Morón de la Frontera,2018,a, , , , , , ,  
-1953,9,Pamplona,1953,a,Pamplona, (Navarra), -situada en el Baluarte del Labrit-, registró en la década de los 70' un promedio de, 21, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 35 días.
+1953,9,Pamplona,1953,a,Pamplona, (Navarra), -situada en el Baluarte del Labrit-, registró en la década de los 70' un promedio de, 21, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 35 días.
 1954,37,Pamplona,1954,a, , , , , , ,  
 1955,37,Pamplona,1955,a, , , , , , ,  
 1956,35,Pamplona,1956,a, , , , , , ,  
@@ -1856,7 +1856,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,39,Pamplona,2016,a, , , , , , ,  
 2017,41,Pamplona,2017,a, , , , , , ,  
 2018,40,Pamplona,2018,a, , , , , , ,  
-1951,30,Ponferrada,1951,a,La estación de Ponferrada, (León), -situada en el parque Compostilla- ,registró en la década de los 70' un promedio de, 31, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 50 días.
+1951,30,Ponferrada,1951,a,La estación de Ponferrada, (León), -situada en el parque Compostilla- ,registró en la década de los 70' un promedio de, 31, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 50 días.
 1952,30,Ponferrada,1952,a, , , , , , ,  
 1953,41,Ponferrada,1953,a, , , , , , ,  
 1954,32,Ponferrada,1954,a, , , , , , ,  
@@ -1924,7 +1924,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,64,Ponferrada,2016,a, , , , , , ,  
 2017,56,Ponferrada,2017,a, , , , , , ,  
 2018,60,Ponferrada,2018,a, , , , , , ,  
-1950,0,Puerto de Navacerrada,1950,a,La estación de Puerto de Navacerrada, (Madrid), -situada en el mirador-, registró en la década de los 70' un promedio de, 0, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 1 día
+1950,0,Puerto de Navacerrada,1950,a,La estación de Puerto de Navacerrada, (Madrid), -situada en el mirador-, registró en la década de los 70' un promedio de, 0, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 1 día
 1951,1,Puerto de Navacerrada,1951,a, , , , , , ,  
 1952,0,Puerto de Navacerrada,1952,a, , , , , , ,  
 1953,0,Puerto de Navacerrada,1953,a, , , , , , ,  
@@ -1993,7 +1993,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,1,Puerto de Navacerrada,2016,a, , , , , , ,  
 2017,1,Puerto de Navacerrada,2017,a, , , , , , ,  
 2018,3,Puerto de Navacerrada,2018,a, , , , , , ,  
-1953,10,Reus,1953,a,La estación de Reus, (Tarragona), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 14, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 42 días.
+1953,10,Reus,1953,a,La estación de Reus, (Tarragona), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 14, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 42 días.
 1954,9,Reus,1954,a, , , , , , ,  
 1955,24,Reus,1955,a, , , , , , ,  
 1956,12,Reus,1956,a, , , , , , ,  
@@ -2058,7 +2058,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,65,Reus,2015,a, , , , , , ,  
 2017,71,Reus,2017,a, , , , , , ,  
 2018,71,Reus,2018,a, , , , , , ,  
-1950,60,Salamanca,1950,a,La estación de Salamanca,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 27, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 58 días.
+1950,60,Salamanca,1950,a,La estación de Salamanca,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 27, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 58 días.
 1951,37,Salamanca,1951,a, , , , , , ,  
 1952,32,Salamanca,1952,a, , , , , , ,  
 1953,62,Salamanca,1953,a, , , , , , ,  
@@ -2127,7 +2127,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,66,Salamanca,2016,a, , , , , , ,  
 2017,61,Salamanca,2017,a, , , , , , ,  
 2018,69,Salamanca,2018,a, , , , , , ,  
-1950,73,San Javier,1950,a,La estación de San Javier, (Murcia), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 15, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 33 días.
+1950,73,San Javier,1950,a,La estación de San Javier, (Murcia), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 15, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 33 días.
 1951,29,San Javier,1951,a, , , , , , ,  
 1952,53,San Javier,1952,a, , , , , , ,  
 1953,37,San Javier,1953,a, , , , , , ,  
@@ -2196,7 +2196,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,36,San Javier,2016,a, , , , , , ,  
 2017,30,San Javier,2017,a, , , , , , ,  
 2018,38,San Javier,2018,a, , , , , , ,    
-1950,2,Santiago de Compostela,1950,a,La estación de Santiago de Compostela, (A Coruña), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 8, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 13 días.
+1950,2,Santiago de Compostela,1950,a,La estación de Santiago de Compostela, (A Coruña), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 8, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 13 días.
 1951,3,Santiago de Compostela,1951,a, , , , , , ,  
 1952,2,Santiago de Compostela,1952,a, , , , , , ,  
 1953,12,Santiago de Compostela,1953,a, , , , , , ,  
@@ -2265,7 +2265,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,24,Santiago de Compostela,2016,a, , , , , , ,  
 2017,12,Santiago de Compostela,2017,a, , , , , , ,  
 2018,19,Santiago de Compostela,2018,a, , , , , , ,  
-1989,42,Segovia,1989,a,La estación Segovia,, -situada en la Ermita de la Piedad-, registró en la década de los 70' un promedio de, 22, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 45 días.
+1989,42,Segovia,1989,a,La estación Segovia,, -situada en la Ermita de la Piedad-, registró en la década de los 70' un promedio de, 22, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 45 días.
 1990,40,Segovia,1990,a, , , , , , ,  
 1991,50,Segovia,1991,a, , , , , , ,  
 1992,34,Segovia,1992,a, , , , , , ,  
@@ -2329,7 +2329,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 1984,30,Segovia,1984,a, , , , , , ,  
 1985,52,Segovia,1985,a, , , , , , ,  
 1986,44,Segovia,1986,a, , , , , , ,  
-1951,96,Sevilla,1951,a,La estación de Sevilla,, -situada en el Aeropuerto-, registró en la década de los 70' un promedio de, 88, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 104 días.
+1951,96,Sevilla,1951,a,La estación de Sevilla,, -situada en el Aeropuerto-, registró en la década de los 70' un promedio de, 88, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 104 días.
 1952,79,Sevilla,1952,a, , , , , , ,  
 1953,98,Sevilla,1953,a, , , , , , ,  
 1954,106,Sevilla,1954,a, , , , , , ,  
@@ -2397,7 +2397,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,111,Sevilla,2016,a, , , , , , ,  
 2017,113,Sevilla,2017,a, , , , , , ,  
 2018,97,Sevilla,2018,a, , , , , , ,  
-1950,43,Soria,1950,a,La estación de Soria,, -situada en el observatorio-, registró en la década de los 70' un promedio de, 23, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 35 días.
+1950,43,Soria,1950,a,La estación de Soria,, -situada en el observatorio-, registró en la década de los 70' un promedio de, 23, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 35 días.
 1951,15,Soria,1951,a, , , , , , ,  
 1952,14,Soria,1952,a, , , , , , ,  
 1953,38,Soria,1953,a, , , , , , ,  
@@ -2466,7 +2466,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,49,Soria,2016,a, , , , , , ,  
 2017,46,Soria,2017,a, , , , , , ,  
 2018,44,Soria,2018,a, , , , , , ,  
-1968,49,Sotillo de la Adrada,1968,a,La estación Sotillo de la Adrada, (Ávila), -situada en la Parroquia Santísima Trinidad-, registró en la década de los 70' un promedio de, 72, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 67 días.
+1968,49,Sotillo de la Adrada,1968,a,La estación Sotillo de la Adrada, (Ávila), -situada en la Parroquia Santísima Trinidad-, registró en la década de los 70' un promedio de, 72, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 67 días.
 1969,81,Sotillo de la Adrada,1969,a, , , , , , ,  
 1970,102,Sotillo de la Adrada,1970,a, , , , , , ,  
 1971,78,Sotillo de la Adrada,1971,a, , , , , , ,  
@@ -2504,7 +2504,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,93,Sotillo de la Adrada,2015,a, , , , , , ,  
 2016,63,Sotillo de la Adrada,2016,a, , , , , , ,  
 2018,57,Sotillo de la Adrada,2018,a, , , , , , ,  
-1950,26,Sta.Cruz de Tenerife,1950,a,La estación de Santa Cruz de Tenerife, (Tenerife), -situada cerca del Estadio club deportivo-, registró en la década de los 70' un promedio de, 19, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 27 días.
+1950,26,Sta.Cruz de Tenerife,1950,a,La estación de Santa Cruz de Tenerife, (Tenerife), -situada cerca del Estadio club deportivo-, registró en la década de los 70' un promedio de, 19, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 27 días.
 1951,32,Sta.Cruz de Tenerife,1951,a, , , , , , ,  
 1952,29,Sta.Cruz de Tenerife,1952,a, , , , , , ,  
 1953,35,Sta.Cruz de Tenerife,1953,a, , , , , , ,  
@@ -2573,7 +2573,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,36,Sta.Cruz de Tenerife,2016,a, , , , , , ,  
 2017,32,Sta.Cruz de Tenerife,2017,a, , , , , , ,  
 2018,15,Sta.Cruz de Tenerife,2018,a, , , , , , ,  
-1962,105,Talavera de la Reina,1962,a,La estacion de Talavera de la Reina, (Toledo), -situada en la Iglesia del Salvador-, registró en la década de los 70' un promedio de, 86, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 72 días.
+1962,105,Talavera de la Reina,1962,a,La estacion de Talavera de la Reina, (Toledo), -situada en la Iglesia del Salvador-, registró en la década de los 70' un promedio de, 86, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 72 días.
 1963,84,Talavera de la Reina,1963,a, , , , , , ,  
 1964,104,Talavera de la Reina,1964,a, , , , , , ,  
 1965,92,Talavera de la Reina,1965,a, , , , , , ,  
@@ -2623,7 +2623,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,99,Talavera de la Reina,2016,a, , , , , , ,  
 2017,67,Talavera de la Reina,2017,a, , , , , , ,  
 2018,53,Talavera de la Reina,2018,a, , , , , , ,  
-1950,21,Tarifa,1950,a,Tarifa, (Cádiz), -situada en la entrada del municipio- ,registró en la década de los 70' un promedio de, 1, día de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 3 días.
+1950,21,Tarifa,1950,a,Tarifa, (Cádiz), -situada en la entrada del municipio- ,registró en la década de los 70' un promedio de, 1, día de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 3 días.
 1951,0,Tarifa,1951,a, , , , , , ,  
 1952,0,Tarifa,1952,a, , , , , , ,  
 1953,0,Tarifa,1953,a, , , , , , ,  
@@ -2691,7 +2691,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,7,Tarifa,2016,a, , , , , , ,  
 2017,8,Tarifa,2017,a, , , , , , ,  
 2018,1,Tarifa,2018,a, , , , , , ,
-1961,79,Torrejón de Ardoz,1961,a,La estación de Torrejón de Ardoz, (Madrid), -situada en la base área- , registró en la década de los 70' un promedio de, 60, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 85 días.
+1961,79,Torrejón de Ardoz,1961,a,La estación de Torrejón de Ardoz, (Madrid), -situada en la base área- , registró en la década de los 70' un promedio de, 60, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 85 días.
 1962,85,Torrejón de Ardoz,1962,a, , , , , , ,  
 1963,42,Torrejón de Ardoz,1963,a, , , , , , ,  
 1964,69,Torrejón de Ardoz,1964,a, , , , , , ,  
@@ -2749,7 +2749,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,91,Torrejón de Ardoz,2016,a, , , , , , ,  
 2017,85,Torrejón de Ardoz,2017,a, , , , , , ,  
 2018,95,Torrejón de Ardoz,2018,a, , , , , , , 
-1950,73,Tortosa,1950,a,La estación de Tortosa, (Tarragona), -situada en el Hospital Verge de la Cinta- , registró en la década de los 70' un promedio de, 51, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 91 días.
+1950,73,Tortosa,1950,a,La estación de Tortosa, (Tarragona), -situada en el Hospital Verge de la Cinta- , registró en la década de los 70' un promedio de, 51, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 91 días.
 1951,32,Tortosa,1951,a, , , , , , ,  
 1952,50,Tortosa,1952,a, , , , , , ,  
 1953,31,Tortosa,1953,a, , , , , , ,  
@@ -2818,7 +2818,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,98,Tortosa,2016,a, , , , , , ,  
 2017,92,Tortosa,2017,a, , , , , , ,  
 2018,103,Tortosa,2018,a, , , , , , ,  
-1950,37,Valencia,1950,a,La estación de Valencia,, -situado en los Jardines del Real-, registró en la década de los 70' un promedio de, 14, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 41 días.
+1950,37,Valencia,1950,a,La estación de Valencia,, -situado en los Jardines del Real-, registró en la década de los 70' un promedio de, 14, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 41 días.
 1951,9,Valencia,1951,a, , , , , , ,  
 1952,32,Valencia,1952,a, , , , , , ,  
 1953,18,Valencia,1953,a, , , , , , ,  
@@ -2887,7 +2887,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,30,Valencia,2016,a, , , , , , ,  
 2017,43,Valencia,2017,a, , , , , , ,  
 2018,50,Valencia,2018,a, , , , , , ,  
-1966,30,Manises,1966,a,La estación de Manises, (Valencia), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 32, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 59 días.
+1966,30,Manises,1966,a,La estación de Manises, (Valencia), -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 32, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 59 días.
 1967,27,Manises,1967,a, , , , , , ,  
 1968,30,Manises,1968,a, , , , , , ,  
 1969,27,Manises,1969,a, , , , , , ,  
@@ -2940,7 +2940,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,51,Manises,2016,a, , , , , , ,  
 2017,74,Manises,2017,a, , , , , , ,  
 2018,70,Manises,2018,a, , , , , , ,  
-1950,41,Valladolid,1950,a,La estación de Valladolid,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 23, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 36 días.
+1950,41,Valladolid,1950,a,La estación de Valladolid,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 23, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 36 días.
 1951,18,Valladolid,1951,a, , , , , , ,  
 1952,10,Valladolid,1952,a, , , , , , ,  
 1953,36,Valladolid,1953,a, , , , , , ,  
@@ -3009,7 +3009,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,49,Valladolid,2016,a, , , , , , ,  
 2017,44,Valladolid,2017,a, , , , , , ,  
 2018,27,Valladolid,2018,a, , , , , , ,  
-1968,13,Vandellòs  ,1968,a,La estación de Vandellòs, (Tarragona), -situada cerca del ayuntamiento-, registró en la década de los 70' un promedio de, 10, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 23 días.
+1968,13,Vandellòs  ,1968,a,La estación de Vandellòs, (Tarragona), -situada cerca del ayuntamiento-, registró en la década de los 70' un promedio de, 10, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 23 días.
 1969,9,Vandellòs  ,1969,a, , , , , , ,  
 1970,6,Vandellòs  ,1970,a, , , , , , ,  
 1971,14,Vandellòs  ,1971,a, , , , , , ,  
@@ -3056,7 +3056,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,43,Vandellòs  ,2015,a, , , , , , ,  
 2016,11,Vandellòs  ,2016,a, , , , , , ,  
 2018,45,Vandellòs  ,2018,a, , , , , , ,  
-1961,13,Vigo,1961,a,La estación de Vigo, (Pontevedra), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 8, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 16 días.
+1961,13,Vigo,1961,a,La estación de Vigo, (Pontevedra), -situada en el aeropuerto- , registró en la década de los 70' un promedio de, 8, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 16 días.
 1962,12,Vigo,1962,a, , , , , , ,  
 1963,9,Vigo,1963,a, , , , , , ,  
 1964,15,Vigo,1964,a, , , , , , ,  
@@ -3110,7 +3110,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,31,Vigo,2016,a, , , , , , ,  
 2017,17,Vigo,2017,a, , , , , , ,  
 2018,24,Vigo,2018,a, , , , , , ,  
-1950,41,Zamora,1950,a,La estación de Zamora, -situada cerca de la estación-,, registró en la década de los 70' un promedio de, 30, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 61 días.
+1950,41,Zamora,1950,a,La estación de Zamora, -situada cerca de la estación-,, registró en la década de los 70' un promedio de, 30, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 61 días.
 1952,19,Zamora,1952,a, , , , , , ,  
 1953,40,Zamora,1953,a, , , , , , ,  
 1954,30,Zamora,1954,a, , , , , , ,  
@@ -3178,7 +3178,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,69,Zamora,2016,a, , , , , , ,  
 2017,68,Zamora,2017,a, , , , , , ,  
 2018,81,Zamora,2018,a, , , , , , ,  
-1951,54,Zaragoza,1951,a,Zaragoza,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 10, días de más de 30º en verano. En cambio en los últimos 10 años ha sido de, 23 días.
+1951,54,Zaragoza,1951,a,Zaragoza,, -situada en el aeropuerto-, registró en la década de los 70' un promedio de, 10, días de más de 30º en verano. En cambio en los últimos 10 años el promedio ha sido de, 23 días.
 1952,48,Zaragoza,1952,a, , , , , , ,  
 1953,53,Zaragoza,1953,a, , , , , , ,  
 1954,43,Zaragoza,1954,a, , , , , , ,  
@@ -3246,5 +3246,3 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,87,Zaragoza,2016,a, , , , , , ,  
 2017,75,Zaragoza,2017,a, , , , , , ,  
 2018,79,Zaragoza,2018,a, , , , , , ,  
-
-
