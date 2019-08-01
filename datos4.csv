@@ -67,8 +67,8 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,1,A Coruña,2015,a, , , , , , ,  
 2016,6,A Coruña,2016,a, , , , , , ,  
 2017,8,A Coruña,2017,a, , , , , , ,  
-2018,8,A Coruña,2018,a,A Coruña, -estación del Estadio Municipal de Riazor-,, registró en los 70', 3 ,días con más de 30º en verano. Desde 2010 son, 7 días.
-1950,85,Albacete,1950,a,Albacete,, -estación de la base áerea-, registró en los 70', 59 ,días con más de 30º en verano. Desde 2010 son, 82 días.
+2018,8,A Coruña,2018,a,A Coruña, -estación del Estadio Municipal de Riazor-,, registró en los 70' un promedio de, 3 ,días con más de 30º en verano. Desde 2010 son, 7 días.
+1950,85,Albacete,1950,a,Albacete,, -estación de la base áerea-, registró en los 70' un promedio de, 59 ,días con más de 30º en verano. Desde 2010 son, 82 días.
 1951,68,Albacete,1951,a , , , , , , ,
 1952,67,Albacete,1952,a , , , , , , ,
 1953,71,Albacete,1953,a , , , , , , ,
@@ -188,8 +188,8 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,84,Alicante,2015,a, , , , , , ,  
 2016,66,Alicante,2016,a, , , , , , ,  
 2017,61,Alicante,2017,a, , , , , , ,  
-2018,75,Alicante,2018,a,Alicante,, -estación del aeropuerto- , registró en los 70', 29 ,días con más de 30º en verano. Desde 2010 son, 65 días.
-1969,35,Almería,1969,a,Almería,, -estación del aeropuerto-, registró en los 70', 37 ,días con más de 30º en verano. Desde 2010 son, 54 días.
+2018,75,Alicante,2018,a,Alicante,, -estación del aeropuerto- , registró en los 70' un promedio de, 29 ,días con más de 30º en verano. Desde 2010 son, 65 días.
+1969,35,Almería,1969,a,Almería,, -estación del aeropuerto-, registró en los 70' un promedio de, 37 ,días con más de 30º en verano. Desde 2010 son, 54 días.
 1970,37,Almería,1970,a, , , , , , ,  
 1971,43,Almería,1971,a, , , , , , ,  
 1972,21,Almería,1972,a, , , , , , ,  
@@ -239,7 +239,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,66,Almería,2016,a, , , , , , ,  
 2017,67,Almería,2017,a, , , , , , ,  
 2018,54,Almería,2018,a, , , , , , ,
-1968,0,Asturias,1968,a,Asturias,, -estación aeropuerto- , registró en los 70', 0 ,días con más de 30º en verano. Desde 2010 es de, 1 día.
+1968,0,Asturias,1968,a,Asturias,, -estación aeropuerto- , registró en los 70' un promedio de, 0 ,días con más de 30º en verano. Desde 2010 es de, 1 día.
 1969,1,Asturias,1969,a, , , , , , ,  
 1970,0,Asturias,1970,a, , , , , , ,  
 1971,0,Asturias,1971,a, , , , , , ,  
@@ -290,7 +290,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,1,Asturias,2016,a, , , , , , ,  
 2017,1,Asturias,2017,a, , , , , , ,  
 2018,0,Asturias,2018,a, , , , , , ,  
-1955,95,Badajoz,1955,a,Badajoz,, -estación del aeropuerto-, registró en los 70', 80 ,días con más de 30º en verano. Desde 2010 son, 100 días.
+1955,95,Badajoz,1955,a,Badajoz,, -estación del aeropuerto-, registró en los 70' un promedio de, 80 ,días con más de 30º en verano. Desde 2010 son, 100 días.
 1956,70,Badajoz,1956,a, , , , , , ,  
 1957,84,Badajoz,1957,a, , , , , , ,  
 1958,80,Badajoz,1958,a, , , , , , ,  
@@ -354,7 +354,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,107,Badajoz,2016,a, , , , , , ,  
 2017,110,Badajoz,2017,a, , , , , , ,  
 2018,101,Badajoz,2018,a, , , , , , ,  
-1950,22,Barcelona,1950,a,Barcelona, -estación del Observatori Fabra-, ,registró en los 70', 11 ,días con más de 30º en verano. Desde 2010 son, 29 días.
+1950,22,Barcelona,1950,a,Barcelona, -estación del Observatori Fabra-, ,registró en los 70' un promedio de, 11 ,días con más de 30º en verano. Desde 2010 son, 29 días.
 1951,3,Barcelona,1951,a, , , , , , ,  
 1952,22,Barcelona,1952,a, , , , , , ,  
 1953,2,Barcelona,1953,a, , , , , , ,  
@@ -423,7 +423,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,39,Barcelona,2016,a, , , , , , ,  
 2017,31,Barcelona,2017,a, , , , , , ,  
 2018,35,Barcelona,2018,a, , , , , , ,  
-1950,18,Bilbao,1950,a,Bilbao, (Vizcaya), -estación del aeropuerto-, registró en los 70', 9 ,días con más de 30º en verano. Desde 2010 son, 17 días.
+1950,18,Bilbao,1950,a,Bilbao, (Vizcaya), -estación del aeropuerto-, registró en los 70' un promedio de, 9 ,días con más de 30º en verano. Desde 2010 son, 17 días.
 1951,10,Bilbao,1951,a, , , , , , ,  
 1952,9,Bilbao,1952,a, , , , , , ,  
 1953,9,Bilbao,1953,a, , , , , , ,  
@@ -492,7 +492,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,20,Bilbao,2016,a, , , , , , ,  
 2017,15,Bilbao,2017,a, , , , , , ,  
 2018,11,Bilbao,2018,a, , , , , , ,  
-1950,21,Burgos,1950,a,Burgos,, -estación del aeropuerto-, registró en los 70', 14 ,días con más de 30º en verano. Desde 2010 son, 30 días.
+1950,21,Burgos,1950,a,Burgos,, -estación del aeropuerto-, registró en los 70' un promedio de, 14 ,días con más de 30º en verano. Desde 2010 son, 30 días.
 1951,12,Burgos,1951,a, , , , , , ,  
 1952,8,Burgos,1952,a, , , , , , ,  
 1953,23,Burgos,1953,a, , , , , , ,  
@@ -561,7 +561,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,41,Burgos,2016,a, , , , , , ,  
 2017,42,Burgos,2017,a, , , , , , ,  
 2018,28,Burgos,2018,a, , , , , , ,  
-1955,25,Cádiz,1955,a,Cádiz,, -estación del Puerto Elcano-, registró en los 70', 24 ,días con más de 30º en verano. Desde 2010 son, 25 días.
+1955,25,Cádiz,1955,a,Cádiz,, -estación del Puerto Elcano-, registró en los 70' un promedio de, 24 ,días con más de 30º en verano. Desde 2010 son, 25 días.
 1956,11,Cádiz,1956,a, , , , , , ,  
 1957,30,Cádiz,1957,a, , , , , , ,  
 1958,30,Cádiz,1958,a, , , , , , ,  
@@ -615,7 +615,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,31,Cádiz,2016,a, , , , , , ,  
 2017,38,Cádiz,2017,a, , , , , , ,  
 2018,29,Cádiz,2018,a, , , , , , ,  
-1971,64,Ciudad Real,1971,a,Ciudad Real,, -estación del aeropuerto-, registró en los 70', 68 ,días con más de 30º en verano. Desde 2010 son, 90 días.
+1971,64,Ciudad Real,1971,a,Ciudad Real,, -estación del aeropuerto-, registró en los 70' un promedio de, 68 ,días con más de 30º en verano. Desde 2010 son, 90 días.
 1972,58,Ciudad Real,1972,a , , , , , , , 
 1973,77,Ciudad Real,1973,a , , , , , , , 
 1974,76,Ciudad Real,1974,a , , , , , , , 
@@ -663,7 +663,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,98,Ciudad Real,2016,a , , , , , , , 
 2017,95,Ciudad Real,2017,a , , , , , , , 
 2018,94,Ciudad Real,2018,a , , , , , , ,
-1959,105,Córdoba,1959,a,Córdoba,, -estación del aeropuerto-, registró en los 70', 96 ,días con más de 30º en verano. Desde 2010 son, 106 días.
+1959,105,Córdoba,1959,a,Córdoba,, -estación del aeropuerto-, registró en los 70' un promedio de, 96 ,días con más de 30º en verano. Desde 2010 son, 106 días.
 1960,104,Córdoba,1960,a, , , , , , , 
 1961,107,Córdoba,1961,a, , , , , , , 
 1962,108,Córdoba,1962,a, , , , , , , 
@@ -715,7 +715,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,106,Córdoba,2015,a, , , , , , , 
 2017,116,Córdoba,2017,a, , , , , , , 
 2018,108,Córdoba,2018,a , , , , , , , 
-1961,43,Cuenca,1961,a,Cuenca, -estación del parque Europa-,, registró en los 70', 41 ,días con más de 30º en verano. Desde 2010 son, 71 días.
+1961,43,Cuenca,1961,a,Cuenca, -estación del parque Europa-,, registró en los 70' un promedio de, 41 ,días con más de 30º en verano. Desde 2010 son, 71 días.
 1962,69,Cuenca,1962,a, , , , , , ,  
 1963,29,Cuenca,1963,a, , , , , , ,  
 1964,61,Cuenca,1964,a, , , , , , ,  
@@ -773,7 +773,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,83,Cuenca,2016,a, , , , , , ,  
 2017,76,Cuenca,2017,a, , , , , , ,  
 2018,76,Cuenca,2018,a, , , , , , ,  
-1950,55,Daroca,1950,a,La estación de Daroca, (Zaragoza), -estación de la Puerta Alta-, registró en los 70', 32 ,días con más de 30º en verano. Desde 2010 son, 61 días.
+1950,55,Daroca,1950,a,La estación de Daroca, (Zaragoza), -estación de la Puerta Alta-, registró en los 70' un promedio de, 32 ,días con más de 30º en verano. Desde 2010 son, 61 días.
 1951,31,Daroca,1951,a, , , , , , ,  
 1952,21,Daroca,1952,a, , , , , , ,  
 1953,31,Daroca,1953,a, , , , , , ,  
@@ -842,7 +842,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,63,Daroca,2016,a, , , , , , ,  
 2017,59,Daroca,2017,a, , , , , , ,  
 2018,57,Daroca,2018,a, , , , , , ,   
-1970,18,Fuerteventura,1970,a,Fuerteventura,, -estación del aeropuerto-, registró en los 70', 9 ,días con más de 30º en verano. Desde 2010 son, 16 días.
+1970,18,Fuerteventura,1970,a,Fuerteventura,, -estación del aeropuerto-, registró en los 70' un promedio de, 9 ,días con más de 30º en verano. Desde 2010 son, 16 días.
 1971,3,Fuerteventura,1971,a, , , , , , ,  
 1972,3,Fuerteventura,1972,a, , , , , , ,  
 1973,4,Fuerteventura,1973,a, , , , , , ,  
@@ -891,7 +891,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,20,Fuerteventura,2016,a, , , , , , ,  
 2017,18,Fuerteventura,2017,a, , , , , , ,  
 2018,3,Fuerteventura,2018,a, , , , , , ,  
-1951,59,Getafe,1951,a,Getafe, (Madrid), -estación de la base áerea, registró en los 70', 62 ,días con más de 30º en verano. Desde 2010 son, 84 días.
+1951,59,Getafe,1951,a,Getafe, (Madrid), -estación de la base áerea, registró en los 70' un promedio de, 62 ,días con más de 30º en verano. Desde 2010 son, 84 días.
 1952,46,Getafe,1952,a, , , , , , ,  
 1953,70,Getafe,1953,a, , , , , , ,  
 1954,61,Getafe,1954,a, , , , , , ,  
@@ -959,7 +959,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,92,Getafe,2016,a, , , , , , ,  
 2017,80,Getafe,2017,a, , , , , , ,  
 2018,94,Getafe,2018,a, , , , , , , 
-1951,87,Granada,1951,a,Granada,, -estación de la base áerea-, registró en los 70', 83 ,días con más de 30º en verano. Desde 2010 son, 92 días.
+1951,87,Granada,1951,a,Granada,, -estación de la base áerea-, registró en los 70' un promedio de, 83 ,días con más de 30º en verano. Desde 2010 son, 92 días.
 1952,80,Granada,1952,a, , , , , , ,  
 1953,95,Granada,1953,a, , , , , , ,  
 1954,94,Granada,1954,a, , , , , , ,  
@@ -1027,7 +1027,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,97,Granada,2016,a, , , , , , ,  
 2017,97,Granada,2017,a, , , , , , ,  
 2018,92,Granada,2018,a, , , , , , ,  
-1951,3,Gran Canaria,1951,a,Gran Canaria, (Gran Canaria), -estación del aeropuerto- ,registró en los 70', 5 ,días con más de 30º en verano. Desde 2010 son, 11 días.
+1951,3,Gran Canaria,1951,a,Gran Canaria, (Gran Canaria), -estación del aeropuerto- ,registró en los 70' un promedio de, 5 ,días con más de 30º en verano. Desde 2010 son, 11 días.
 1952,6,Gran Canaria,1952,a, , , , , , ,  
 1953,11,Gran Canaria,1953,a, , , , , , ,  
 1954,9,Gran Canaria,1954,a, , , , , , ,  
@@ -1093,7 +1093,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,21,Gran Canaria,2016,a, , , , , , ,  
 2017,9,Gran Canaria,2017,a, , , , , , ,  
 2018,6,Gran Canaria,2018,a, , , , , , , 
-1955,0,Hondarribia,1955,a,La estación de Hondarribia, (Guipúzcoa), -estación del aeropuerto-, registró en los 70', 5 ,días con más de 30º en verano. Desde 2010 son, 10 días.
+1955,0,Hondarribia,1955,a,La estación de Hondarribia, (Guipúzcoa), -estación del aeropuerto-, registró en los 70' un promedio de, 5 ,días con más de 30º en verano. Desde 2010 son, 10 días.
 1956,4,Hondarribia,1956,a, , , , , , ,  
 1957,7,Hondarribia,1957,a, , , , , , ,  
 1958,12,Hondarribia,1958,a, , , , , , ,  
@@ -1157,7 +1157,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,13,Hondarribia,2016,a, , , , , , ,  
 2017,11,Hondarribia,2017,a, , , , , , ,  
 2018,9,Hondarribia,2018,a, , , , , , ,  
-1950,56,Huesca,1950,a,Huesca,, -estación del aeropuerto-, registró en los 70', 40 ,días con más de 30º en verano. Desde 2010 son, 69 días.
+1950,56,Huesca,1950,a,Huesca,, -estación del aeropuerto-, registró en los 70' un promedio de, 40 ,días con más de 30º en verano. Desde 2010 son, 69 días.
 1951,32,Huesca,1951,a, , , , , , ,  
 1952,40,Huesca,1952,a, , , , , , ,  
 1953,48,Huesca,1953,a, , , , , , ,  
@@ -1222,7 +1222,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,77,Huesca,2016,a, , , , , , ,  
 2017,61,Huesca,2017,a, , , , , , ,  
 2018,68,Huesca,2018,a, , , , , , ,   
-1950,0,Izaña,1950,a,Izaña, (Santa Cruz de Tenerife), -estación del Centro Investigación Atmosférica-, registró en los 70', 0 ,días con más de 30º en verano. Desde 2010 se mantiene en los, 0 días.
+1950,0,Izaña,1950,a,Izaña, (Santa Cruz de Tenerife), -estación del Centro Investigación Atmosférica-, registró en los 70' un promedio de, 0 ,días con más de 30º en verano. Desde 2010 se mantiene en los, 0 días.
 1951,0,Izaña,1951,a, , , , , , ,  
 1952,0,Izaña,1952,a, , , , , , ,  
 1954,0,Izaña,1954,a, , , , , , ,  
@@ -1290,7 +1290,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,0,Izaña,2016,a, , , , , , ,  
 2017,0,Izaña,2017,a, , , , , , ,  
 2018,0,Izaña,2018,a, , , , , , ,  
-1952,34,Jerez de la Frontera,1952,a,Jerez de la Frontera, (Cádiz), -estación del aeropuerto-, registró en los 70', 68 ,días con más de 30º en verano. Desde 2010 son, 92 días.
+1952,34,Jerez de la Frontera,1952,a,Jerez de la Frontera, (Cádiz), -estación del aeropuerto-, registró en los 70' un promedio de, 68 ,días con más de 30º en verano. Desde 2010 son, 92 días.
 1953,86,Jerez de la Frontera,1953,a, , , , , , ,  
 1954,90,Jerez de la Frontera,1954,a, , , , , , ,  
 1955,87,Jerez de la Frontera,1955,a, , , , , , ,  
@@ -1357,7 +1357,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,109,Jerez de la Frontera,2016,a, , , , , , ,  
 2017,100,Jerez de la Frontera,2017,a, , , , , , ,  
 2018,86,Jerez de la Frontera,2018,a, , , , , , ,  
-1970,0,La Palma,1970,a,La Palma, (Santa Cruz de Tenerife), -estación del aeropuerto-, registró en los 70', 1 ,días con más de 30º en verano. Desde 2010 son, 2 días.
+1970,0,La Palma,1970,a,La Palma, (Santa Cruz de Tenerife), -estación del aeropuerto-, registró en los 70' un promedio de, 1 ,días con más de 30º en verano. Desde 2010 son, 2 días.
 1971,0,La Palma,1971,a, , , , , , ,  
 1972,0,La Palma,1972,a, , , , , , ,  
 1973,0,La Palma,1973,a, , , , , , ,  
@@ -1406,7 +1406,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,4,La Palma,2016,a, , , , , , ,  
 2017,1,La Palma,2017,a, , , , , , ,  
 2018,0,La Palma,2018,a, , , , , , ,  
-1969,70,La Seu D'Urgell,1968,a,La Seu d'Urgell, (Lleida), -estación del ayuntamiento-, registró en los 70', 73 ,días con más de 30º en verano. Desde 2010 son, 40 días.
+1969,70,La Seu D'Urgell,1968,a,La Seu d'Urgell, (Lleida), -estación del ayuntamiento-, registró en los 70' un promedio de, 73 ,días con más de 30º en verano. Desde 2010 son, 40 días.
 1971,95,La Seu D'Urgell,1971,a, , , , , , ,  
 1972,86,La Seu D'Urgell,1972,a, , , , , , ,  
 1976,75,La Seu D'Urgell,1976,a, , , , , , ,  
@@ -1434,7 +1434,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,47,La Seu D'Urgell,2015,a, , , , , , ,  
 2017,37,La Seu D'Urgell,2017,a, , , , , , ,  
 2018,37,La Seu D'Urgell,2018,a, , , , , , ,  
-1950,35,León,1950,a,León,, -estación del aeropuerto- ,registró en los 70', 18 ,días con más de 30º en verano. Desde 2010 son, 23 días.
+1950,35,León,1950,a,León,, -estación del aeropuerto- ,registró en los 70' un promedio de, 18 ,días con más de 30º en verano. Desde 2010 son, 23 días.
 1951,15,León,1951,a, , , , , , ,  
 1952,9,León,1952,a, , , , , , ,  
 1953,32,León,1953,a, , , , , , ,  
@@ -1503,7 +1503,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,36,León,2016,a, , , , , , ,  
 2017,33,León,2017,a, , , , , , ,  
 2018,19,León,2018,a, , , , , , ,  
-1950,64,Logroño,1950,a,Logroño, , -estación del aeropuerto-, registró en los 70', 34 ,días con más de 30º en verano. Desde 2010 son, 56 días.
+1950,64,Logroño,1950,a,Logroño, , -estación del aeropuerto-, registró en los 70' un promedio de, 34 ,días con más de 30º en verano. Desde 2010 son, 56 días.
 1951,31,Logroño,1951,a, , , , , , ,  
 1952,37,Logroño,1952,a, , , , , , ,  
 1953,38,Logroño,1953,a, , , , , , ,  
@@ -1572,7 +1572,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,61,Logroño,2016,a, , , , , , ,  
 2017,56,Logroño,2017,a, , , , , , ,  
 2018,58,Logroño,2018,a, , , , , , ,  
-1955,88,Lorca,1955,a,Lorca, (Murcia), -estación de las afueras-, registró en los 70', 66 ,días con más de 30º en verano. Desde 2010 son, 92 días.
+1955,88,Lorca,1955,a,Lorca, (Murcia), -estación de las afueras-, registró en los 70' un promedio de, 66 ,días con más de 30º en verano. Desde 2010 son, 92 días.
 1956,77,Lorca,1956,a, , , , , , ,  
 1957,79,Lorca,1957,a, , , , , , ,  
 1958,77,Lorca,1958,a, , , , , , ,  
@@ -1635,7 +1635,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,97,Lorca,2016,a, , , , , , ,  
 2017,95,Lorca,2017,a, , , , , , ,  
 2018,93,Lorca,2018,a, , , , , , ,  
-1950,90,Madrid,1950,a,Madrid, -estación de Cuatro Vientos-,, registró en los 70', 58 ,días con más de 30º en verano. Desde 2010 son, 82 días.
+1950,90,Madrid,1950,a,Madrid, -estación de Cuatro Vientos-,, registró en los 70' un promedio de, 58 ,días con más de 30º en verano. Desde 2010 son, 82 días.
 1951,62,Madrid,1951,a, , , , , , ,  
 1952,58,Madrid,1952,a, , , , , , ,  
 1953,81,Madrid,1953,a, , , , , , ,  
@@ -1704,7 +1704,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,92,Madrid,2016,a, , , , , , ,  
 2017,81,Madrid,2017,a, , , , , , ,  
 2018,90,Madrid,2018,a, , , , , , ,  
-1950,56,Málaga,1950,a,Málaga,, -estación del aeropuerto- ,registró en los 70', 33 ,días con más de 30º en verano. Desde 2010 son, 61 días.
+1950,56,Málaga,1950,a,Málaga,, -estación del aeropuerto- ,registró en los 70' un promedio de, 33 ,días con más de 30º en verano. Desde 2010 son, 61 días.
 1951,30,Málaga,1951,a, , , , , , ,  
 1952,54,Málaga,1952,a, , , , , , ,  
 1953,31,Málaga,1953,a, , , , , , ,  
@@ -1767,7 +1767,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,48,Málaga,2016,a, , , , , , ,  
 2017,58,Málaga,2017,a, , , , , , ,  
 2018,66,Málaga,2018,a, , , , , , , 
-1966,30,Manises,1966,a,Manises, (Valencia), -estación del aeropuerto-, registró en los 70', 32 ,días con más de 30º en verano. Desde 2010 son, 61 días.
+1966,30,Manises,1966,a,Manises, (Valencia), -estación del aeropuerto-, registró en los 70' un promedio de, 32 ,días con más de 30º en verano. Desde 2010 son, 61 días.
 1967,27,Manises,1967,a, , , , , , ,  
 1968,30,Manises,1968,a, , , , , , ,  
 1969,27,Manises,1969,a, , , , , , ,  
@@ -1820,7 +1820,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,51,Manises,2016,a, , , , , , ,  
 2017,74,Manises,2017,a, , , , , , ,  
 2018,70,Manises,2018,a, , , , , , ,  
-1970,1,Melilla,1970,a,Melilla, -estación del aeropuerto-,, registró en los 70', 11 ,días con más de 30º en verano. Desde 2010 son, 27 días.
+1970,1,Melilla,1970,a,Melilla, -estación del aeropuerto-,, registró en los 70' un promedio de, 11 ,días con más de 30º en verano. Desde 2010 son, 27 días.
 1971,16,Melilla,1971,a, , , , , , ,  
 1972,5,Melilla,1972,a, , , , , , ,  
 1973,13,Melilla,1973,a, , , , , , ,  
@@ -1869,7 +1869,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,26,Melilla,2016,a, , , , , , ,  
 2017,32,Melilla,2017,a, , , , , , ,  
 2018,23,Melilla,2018,a, , , , , , ,  
-1970,28,Molina de Aragón,1970,a,Molina de Aragón, (Guadalajara), -estación del Monasterio San Francisco- , registró en los 70', 18 ,días con más de 30º en verano. Desde 2010 son, 46 días.
+1970,28,Molina de Aragón,1970,a,Molina de Aragón, (Guadalajara), -estación del Monasterio San Francisco- , registró en los 70' un promedio de, 18 ,días con más de 30º en verano. Desde 2010 son, 46 días.
 1971,14,Molina de Aragón,1971,a, , , , , , ,  
 1972,9,Molina de Aragón,1972,a, , , , , , , 
 1973,23,Molina de Aragón,1973,a, , , , , , , 
@@ -1918,7 +1918,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,68,Molina de Aragón,2016,a, , , , , , ,  
 2017,58,Molina de Aragón,2017,a, , , , , , ,  
 2018,40,Molina de Aragón,2018,a, , , , , , ,  
-1956,90,Morón de la Frontera,1956,a,Morón de la Frontera, (Sevilla), -estación del castillo-, registró en los 70', 88 ,días con más de 30º en verano. Desde 2010 son, 104 días.
+1956,90,Morón de la Frontera,1956,a,Morón de la Frontera, (Sevilla), -estación del castillo-, registró en los 70' un promedio de, 88 ,días con más de 30º en verano. Desde 2010 son, 104 días.
 1957,93,Morón de la Frontera,1957,a, , , , , , ,  
 1958,91,Morón de la Frontera,1958,a, , , , , , ,  
 1959,88,Morón de la Frontera,1959,a, , , , , , ,  
@@ -1981,7 +1981,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,108,Morón de la Frontera,2016,a, , , , , , ,  
 2017,105,Morón de la Frontera,2017,a, , , , , , ,  
 2018,96,Morón de la Frontera,2018,a, , , , , , , 
-1950,104,Murcia,1950,a,Murcia ,, -estación de Alcantarilla-, registró en los 70', 78 ,días con más de 30º en verano. Desde 2010 son, 103 días.
+1950,104,Murcia,1950,a,Murcia ,, -estación de Alcantarilla-, registró en los 70' un promedio de, 78 ,días con más de 30º en verano. Desde 2010 son, 103 días.
 1951,78,Murcia,1951,a, , , , , , ,  
 1952,88,Murcia,1952,a, , , , , , ,  
 1953,97,Murcia,1953,a, , , , , , ,  
@@ -2051,7 +2051,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2017,105,Murcia,2017,a, , , , , , ,  
 2018,110,Murcia,2018,a, , , , , , ,  
 
-1951,0,Palma,1951,a,Palma, (Mallorca), -estación del aeropuerto-, registró en los 70', 37 ,días con más de 30º en verano. Desde 2010 son, 70 días.
+1951,0,Palma,1951,a,Palma, (Mallorca), -estación del aeropuerto-, registró en los 70' un promedio de, 37 ,días con más de 30º en verano. Desde 2010 son, 70 días.
 1952,0,Palma,1952,a, , , , , , ,  
 1953,0,Palma,1953,a, , , , , , ,  
 1954,0,Palma,1954,a, , , , , , ,  
@@ -2112,7 +2112,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,74,Palma,2016,a, , , , , , ,  
 2017,76,Palma,2017,a, , , , , , ,  
 2018,83,Palma,2018,a, , , , , , ,  
-1953,9,Pamplona,1953,a,Pamplona, (Navarra), -situada en el Baluarte del Labrit-, registró en los 70', 20 ,días con más de 30º en verano. Desde 2010 son, 37 días.
+1953,9,Pamplona,1953,a,Pamplona, (Navarra), -situada en el Baluarte del Labrit-, registró en los 70' un promedio de, 20 ,días con más de 30º en verano. Desde 2010 son, 37 días.
 1954,37,Pamplona,1954,a, , , , , , ,  
 1955,37,Pamplona,1955,a, , , , , , ,  
 1956,35,Pamplona,1956,a, , , , , , ,  
@@ -2178,7 +2178,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,39,Pamplona,2016,a, , , , , , ,  
 2017,41,Pamplona,2017,a, , , , , , ,  
 2018,40,Pamplona,2018,a, , , , , , ,  
-1951,30,Ponferrada,1951,a,La estación de Ponferrada, (León), -situada en el parque Compostilla- ,registró en los 70', 31 ,días con más de 30º en verano. Desde 2010 son, 51 días.
+1951,30,Ponferrada,1951,a,La estación de Ponferrada, (León), -situada en el parque Compostilla- ,registró en los 70' un promedio de, 31 ,días con más de 30º en verano. Desde 2010 son, 51 días.
 1952,30,Ponferrada,1952,a, , , , , , ,  
 1953,41,Ponferrada,1953,a, , , , , , ,  
 1954,32,Ponferrada,1954,a, , , , , , ,  
@@ -2246,7 +2246,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,64,Ponferrada,2016,a, , , , , , ,  
 2017,56,Ponferrada,2017,a, , , , , , ,  
 2018,60,Ponferrada,2018,a, , , , , , ,  
-1950,0,Puerto de Navacerrada,1950,a,Puerto de Navacerrada, (Madrid), -estación del mirador-, registró en los 70', 0 ,días con más de 30º en verano. Desde 2010 es de, 1 día.
+1950,0,Puerto de Navacerrada,1950,a,Puerto de Navacerrada, (Madrid), -estación del mirador-, registró en los 70' un promedio de, 0 ,días con más de 30º en verano. Desde 2010 es de, 1 día.
 1951,1,Puerto de Navacerrada,1951,a, , , , , , ,  
 1952,0,Puerto de Navacerrada,1952,a, , , , , , ,  
 1953,0,Puerto de Navacerrada,1953,a, , , , , , ,  
@@ -2315,7 +2315,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,1,Puerto de Navacerrada,2016,a, , , , , , ,  
 2017,1,Puerto de Navacerrada,2017,a, , , , , , ,  
 2018,3,Puerto de Navacerrada,2018,a, , , , , , ,  
-1953,10,Reus,1953,a,Reus, (Tarragona), -estación del aeropuerto-, registró en los 70', 14 ,días con más de 30º en verano. Desde 2010 son, 52 días.
+1953,10,Reus,1953,a,Reus, (Tarragona), -estación del aeropuerto-, registró en los 70' un promedio de, 14 ,días con más de 30º en verano. Desde 2010 son, 52 días.
 1954,9,Reus,1954,a, , , , , , ,  
 1955,24,Reus,1955,a, , , , , , ,  
 1956,12,Reus,1956,a, , , , , , ,  
@@ -2449,7 +2449,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,66,Salamanca,2016,a, , , , , , ,  
 2017,61,Salamanca,2017,a, , , , , , ,  
 2018,69,Salamanca,2018,a, , , , , , ,  
-1950,73,San Javier,1950,a,San Javier, (Murcia), -estación del aeropuerto-, registró en los 70', 15 ,días con más de 30º en verano. Desde 2010 son, 35 días.
+1950,73,San Javier,1950,a,San Javier, (Murcia), -estación del aeropuerto-, registró en los 70' un promedio de, 15 ,días con más de 30º en verano. Desde 2010 son, 35 días.
 1951,29,San Javier,1951,a, , , , , , ,  
 1952,53,San Javier,1952,a, , , , , , ,  
 1953,37,San Javier,1953,a, , , , , , ,  
@@ -2518,7 +2518,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,36,San Javier,2016,a, , , , , , ,  
 2017,30,San Javier,2017,a, , , , , , ,  
 2018,38,San Javier,2018,a, , , , , , , 
-1950,5,San Sebastián,1950,a,San Sebastián, (Guipúzcoa), -estación del Monte Igueldo-, registró en los 70', 3 ,días con más de 30º en verano. Desde 2010 son, 6 días.
+1950,5,San Sebastián,1950,a,San Sebastián, (Guipúzcoa), -estación del Monte Igueldo-, registró en los 70' un promedio de, 3 ,días con más de 30º en verano. Desde 2010 son, 6 días.
 1951,2,San Sebastián,1951,a, , , , , , ,  
 1952,3,San Sebastián,1952,a, , , , , , ,  
 1953,3,San Sebastián,1953,a, , , , , , ,  
@@ -2587,7 +2587,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,9,San Sebastián,2016,a, , , , , , ,  
 2017,9,San Sebastián,2017,a, , , , , , ,  
 2018,2,San Sebastián,2018,a, , , , , , ,  
-1953,0,Santander,1953,a,Santander, (Cantabria), -estación del aeropuerto-, registró en los 70', 1 ,días con más de 30º en verano. Desde 2010 son, 4 días.
+1953,0,Santander,1953,a,Santander, (Cantabria), -estación del aeropuerto-, registró en los 70' un promedio de, 1 ,días con más de 30º en verano. Desde 2010 son, 4 días.
 1954,0,Santander,1954,a, , , , , , ,
 1955,0,Santander,1955,a, , , , , , ,
 1956,0,Santander,1956,a, , , , , , ,
@@ -2652,7 +2652,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,6,Santander,2016,a, , , , , , ,  
 2017,3,Santander,2017,a, , , , , , ,  
 2018,2,Santander,2018,a, , , , , , ,   
-1950,2,Santiago de Compostela,1950,a,Santiago de Compostela, (A Coruña), -estación del aeropuerto-, registró en los 70', 8 ,días con más de 30º en verano. Desde 2010 son, 16 días.
+1950,2,Santiago de Compostela,1950,a,Santiago de Compostela, (A Coruña), -estación del aeropuerto-, registró en los 70' un promedio de, 8 ,días con más de 30º en verano. Desde 2010 son, 16 días.
 1951,3,Santiago de Compostela,1951,a, , , , , , ,  
 1952,2,Santiago de Compostela,1952,a, , , , , , ,  
 1953,12,Santiago de Compostela,1953,a, , , , , , ,  
@@ -2721,7 +2721,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,24,Santiago de Compostela,2016,a, , , , , , ,  
 2017,12,Santiago de Compostela,2017,a, , , , , , ,  
 2018,19,Santiago de Compostela,2018,a, , , , , , , 
-1989,42,Segovia,1989,a,Segovia,, -estación de la Ermita de la Piedad-, registró en los 70', 22 ,días con más de 30º en verano. Desde 2010 son, 45 días.
+1989,42,Segovia,1989,a,Segovia,, -estación de la Ermita de la Piedad-, registró en los 70' un promedio de, 22 ,días con más de 30º en verano. Desde 2010 son, 45 días.
 1990,40,Segovia,1990,a, , , , , , ,  
 1991,50,Segovia,1991,a, , , , , , ,  
 1992,34,Segovia,1992,a, , , , , , ,  
@@ -2785,7 +2785,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 1984,30,Segovia,1984,a, , , , , , ,  
 1985,52,Segovia,1985,a, , , , , , ,  
 1986,44,Segovia,1986,a, , , , , , ,  
-1951,96,Sevilla,1951,a,Sevilla,, -estación del aeropuerto-, registró en los 70', 88 ,días con más de 30º en verano. Desde 2010 son, 104 días.
+1951,96,Sevilla,1951,a,Sevilla,, -estación del aeropuerto-, registró en los 70' un promedio de, 88 ,días con más de 30º en verano. Desde 2010 son, 104 días.
 1952,79,Sevilla,1952,a, , , , , , ,  
 1953,98,Sevilla,1953,a, , , , , , ,  
 1954,106,Sevilla,1954,a, , , , , , ,  
@@ -2853,7 +2853,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,111,Sevilla,2016,a, , , , , , ,  
 2017,113,Sevilla,2017,a, , , , , , ,  
 2018,97,Sevilla,2018,a, , , , , , ,  
-1950,43,Soria,1950,a,Soria,, -estación del observatorio-, registró en los 70', 23 ,días con más de 30º en verano. Desde 2010 son, 35 días.
+1950,43,Soria,1950,a,Soria,, -estación del observatorio-, registró en los 70' un promedio de, 23 ,días con más de 30º en verano. Desde 2010 son, 35 días.
 1951,15,Soria,1951,a, , , , , , ,  
 1952,14,Soria,1952,a, , , , , , ,  
 1953,38,Soria,1953,a, , , , , , ,  
@@ -2922,7 +2922,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,49,Soria,2016,a, , , , , , ,  
 2017,46,Soria,2017,a, , , , , , ,  
 2018,44,Soria,2018,a, , , , , , ,  
-1968,49,Sotillo de la Adrada,1968,a,Sotillo de la Adrada, (Ávila), -estación de la Parroquia Santísima Trinidad-, registró en los 70', 72 ,días con más de 30º en verano. Desde 2010 son, 81 días.
+1968,49,Sotillo de la Adrada,1968,a,Sotillo de la Adrada, (Ávila), -estación de la Parroquia Santísima Trinidad-, registró en los 70' un promedio de, 72 ,días con más de 30º en verano. Desde 2010 son, 81 días.
 1969,81,Sotillo de la Adrada,1969,a, , , , , , ,  
 1970,102,Sotillo de la Adrada,1970,a, , , , , , ,  
 1971,78,Sotillo de la Adrada,1971,a, , , , , , ,  
@@ -2960,7 +2960,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,93,Sotillo de la Adrada,2015,a, , , , , , ,  
 2016,63,Sotillo de la Adrada,2016,a, , , , , , ,  
 2018,57,Sotillo de la Adrada,2018,a, , , , , , ,  
-1950,26,Sta.Cruz de Tenerife,1950,a,Santa Cruz de Tenerife,, -estación del Estadio club deportivo-, registró en los 70', 19 ,días con más de 30º en verano. Desde 2010 son, 28 días.
+1950,26,Sta.Cruz de Tenerife,1950,a,Santa Cruz de Tenerife,, -estación del Estadio club deportivo-, registró en los 70' un promedio de, 19 ,días con más de 30º en verano. Desde 2010 son, 28 días.
 1951,32,Sta.Cruz de Tenerife,1951,a, , , , , , ,  
 1952,29,Sta.Cruz de Tenerife,1952,a, , , , , , ,  
 1953,35,Sta.Cruz de Tenerife,1953,a, , , , , , ,  
@@ -3029,7 +3029,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,36,Sta.Cruz de Tenerife,2016,a, , , , , , ,  
 2017,32,Sta.Cruz de Tenerife,2017,a, , , , , , ,  
 2018,15,Sta.Cruz de Tenerife,2018,a, , , , , , ,  
-1962,105,Talavera de la Reina,1962,a,Talavera de la Reina, (Toledo), -estación de la Iglesia del Salvador-, registró en los 70', 86 ,días con más de 30º en verano. Desde 2010 son, 88 días.
+1962,105,Talavera de la Reina,1962,a,Talavera de la Reina, (Toledo), -estación de la Iglesia del Salvador-, registró en los 70' un promedio de, 86 ,días con más de 30º en verano. Desde 2010 son, 88 días.
 1963,84,Talavera de la Reina,1963,a, , , , , , ,  
 1964,104,Talavera de la Reina,1964,a, , , , , , ,  
 1965,92,Talavera de la Reina,1965,a, , , , , , ,  
@@ -3070,7 +3070,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2010,86,Talavera de la Reina,2010,a, , , , , , ,   
 2014,78,Talavera de la Reina,2014,a, , , , , , ,   
 2016,99,Talavera de la Reina,2016,a, , , , , , ,    
-1950,21,Tarifa,1950,a,Tarifa, (Cádiz), -estación del municipio- ,registró en los 70', 1 ,días con más de 30º en verano. Desde 2010 son, 4 días.
+1950,21,Tarifa,1950,a,Tarifa, (Cádiz), -estación del municipio- ,registró en los 70' un promedio de, 1 ,días con más de 30º en verano. Desde 2010 son, 4 días.
 1951,0,Tarifa,1951,a, , , , , , ,  
 1952,0,Tarifa,1952,a, , , , , , ,  
 1953,0,Tarifa,1953,a, , , , , , ,  
@@ -3138,7 +3138,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,7,Tarifa,2016,a, , , , , , ,  
 2017,8,Tarifa,2017,a, , , , , , ,  
 2018,1,Tarifa,2018,a, , , , , , ,
-1961,79,Torrejón de Ardoz,1961,a,Torrejón de Ardoz, (Madrid), -estación de la base área- , registró en los 70', 60 ,días con más de 30º en verano. Desde 2010 son, 86 días.
+1961,79,Torrejón de Ardoz,1961,a,Torrejón de Ardoz, (Madrid), -estación de la base área- , registró en los 70' un promedio de, 60 ,días con más de 30º en verano. Desde 2010 son, 86 días.
 1962,85,Torrejón de Ardoz,1962,a, , , , , , ,  
 1963,42,Torrejón de Ardoz,1963,a, , , , , , ,  
 1964,69,Torrejón de Ardoz,1964,a, , , , , , ,  
@@ -3196,7 +3196,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,91,Torrejón de Ardoz,2016,a, , , , , , ,  
 2017,85,Torrejón de Ardoz,2017,a, , , , , , ,  
 2018,95,Torrejón de Ardoz,2018,a, , , , , , , 
-1950,73,Tortosa,1950,a,Tortosa, (Tarragona), -estación del Hospital Verge de la Cinta- , registró en los 70', 51 ,días con más de 30º en verano. Desde 2010 son, 93 días.
+1950,73,Tortosa,1950,a,Tortosa, (Tarragona), -estación del Hospital Verge de la Cinta- , registró en los 70' un promedio de, 51 ,días con más de 30º en verano. Desde 2010 son, 93 días.
 1951,32,Tortosa,1951,a, , , , , , ,  
 1952,50,Tortosa,1952,a, , , , , , ,  
 1953,31,Tortosa,1953,a, , , , , , ,  
@@ -3265,7 +3265,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,98,Tortosa,2016,a, , , , , , ,  
 2017,92,Tortosa,2017,a, , , , , , ,  
 2018,103,Tortosa,2018,a, , , , , , ,  
-1950,37,Valencia,1950,a,Valencia,, -estación de los Jardines del Real-, registró en los 70', 14 ,días con más de 30º en verano. Desde 2010 son, 40 días.
+1950,37,Valencia,1950,a,Valencia,, -estación de los Jardines del Real-, registró en los 70' un promedio de, 14 ,días con más de 30º en verano. Desde 2010 son, 40 días.
 1951,9,Valencia,1951,a, , , , , , ,  
 1952,32,Valencia,1952,a, , , , , , ,  
 1953,18,Valencia,1953,a, , , , , , ,  
@@ -3334,7 +3334,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,30,Valencia,2016,a, , , , , , ,  
 2017,43,Valencia,2017,a, , , , , , ,  
 2018,50,Valencia,2018,a, , , , , , ,   
-1950,41,Valladolid,1950,a,Valladolid,, -estación del aeropuerto-, registró en los 70', 23 ,días con más de 30º en verano. Desde 2010 son, 37 días.
+1950,41,Valladolid,1950,a,Valladolid,, -estación del aeropuerto-, registró en los 70' un promedio de, 23 ,días con más de 30º en verano. Desde 2010 son, 37 días.
 1951,18,Valladolid,1951,a, , , , , , ,  
 1952,10,Valladolid,1952,a, , , , , , ,  
 1953,36,Valladolid,1953,a, , , , , , ,  
@@ -3403,7 +3403,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,49,Valladolid,2016,a, , , , , , ,  
 2017,44,Valladolid,2017,a, , , , , , ,  
 2018,27,Valladolid,2018,a, , , , , , ,  
-1968,13,Vandellós  ,1968,a,Vandellós, (Tarragona), -estación del ayuntamiento-, registró en los 70', 11 ,días con más de 30º en verano. Desde 2010 son, 30 días.
+1968,13,Vandellós  ,1968,a,Vandellós, (Tarragona), -estación del ayuntamiento-, registró en los 70' un promedio de, 11 ,días con más de 30º en verano. Desde 2010 son, 30 días.
 1969,9,Vandellós  ,1969,a, , , , , , ,  
 1970,6,Vandellós  ,1970,a, , , , , , ,  
 1971,14,Vandellós  ,1971,a, , , , , , ,  
@@ -3450,7 +3450,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2015,43,Vandellós  ,2015,a, , , , , , ,  
 2016,11,Vandellós  ,2016,a, , , , , , ,  
 2018,45,Vandellós  ,2018,a, , , , , , ,  
-1961,13,Vigo,1961,a,Vigo, (Pontevedra), -estación del aeropuerto- , registró en los 70', 8 ,días con más de 30º en verano. Desde 2010 son, 19 días.
+1961,13,Vigo,1961,a,Vigo, (Pontevedra), -estación del aeropuerto- , registró en los 70' un promedio de, 8 ,días con más de 30º en verano. Desde 2010 son, 19 días.
 1962,12,Vigo,1962,a, , , , , , ,  
 1963,9,Vigo,1963,a, , , , , , ,  
 1964,15,Vigo,1964,a, , , , , , ,  
@@ -3504,7 +3504,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,31,Vigo,2016,a, , , , , , ,  
 2017,17,Vigo,2017,a, , , , , , ,  
 2018,24,Vigo,2018,a, , , , , , ,  
-1950,41,Zamora,1950,a,Zamora, -estación de la estación-,, registró en los 70', 42 ,días con más de 30º en verano. Desde 2010 son, 62 días.
+1950,41,Zamora,1950,a,Zamora, -estación de la estación-,, registró en los 70' un promedio de, 42 ,días con más de 30º en verano. Desde 2010 son, 62 días.
 1952,19,Zamora,1952,a, , , , , , ,  
 1953,40,Zamora,1953,a, , , , , , ,  
 1954,30,Zamora,1954,a, , , , , , ,  
@@ -3572,7 +3572,7 @@ date,value,lugar,date2,ppint,lugar2,calle,provincia,frase1,dato1,frase2,dato2
 2016,69,Zamora,2016,a, , , , , , ,  
 2017,68,Zamora,2017,a, , , , , , ,  
 2018,81,Zamora,2018,a, , , , , , ,  
-1951,54,Zaragoza,1951,a,Zaragoza,, -estación del aeropuerto-, registró en los 70', 45 ,días con más de 30º en verano. Desde 2010 son, 78 días.
+1951,54,Zaragoza,1951,a,Zaragoza,, -estación del aeropuerto-, registró en los 70' un promedio de, 45 ,días con más de 30º en verano. Desde 2010 son, 78 días.
 1952,48,Zaragoza,1952,a, , , , , , ,  
 1953,53,Zaragoza,1953,a, , , , , , ,  
 1954,43,Zaragoza,1954,a, , , , , , ,  
