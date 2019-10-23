@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Voto Ciudadanos 2016</title>
+<style>
+     @import url('https://fonts.googleapis.com/css?family=Open+Sans:200,400,600,700,800');
+    *{margin: 0; padding: 0;}
+#map {
+    width: 100%;
+    height: 655px;
+
+}
+
+
+
+.legend {
+  background-color: #ffffff;
+    border-radius: 3px;
+    bottom: 10px;
+    padding: 7px;
+    position: absolute;
+    right: 10px;
+    z-index: 1;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
+}
+
+.legend clearfix {
+    background-color: #ffffff;
+    border-radius: 3px;
+    bottom: 10px;
+    padding: 7px 10px 8px 5px;
+    position: absolute;
+    right: 0px;
+    z-index: 1;
+    width: 200px;
+    text-align: left;
+    box-shadow: 0 0 10px 2px rgba(0,0,0,.1);
+}
+.legend h1 {
+    font-size: 10px;
+    font-family: OpenSans-Semibold, Open Sans;
+    font-weight: 600;
+    fill: #aeaeaf;
+    margin: 0px 0 -11px 0;
+    text-transform: uppercase;
+    text-align: left;
+}
+.legend span {
+    float: left;
+    height: 10px;
+    width: 15.9%;
+    font-size: 9px;
+    color: #aeaeaf;
+    margin-bottom: 5px;
+}
+
+.legend label {
+    font-size: 10px;
+    font-family: OpenSans-Semibold, Open Sans;
+    fill: #aeaeaf;
+    padding: 0 5px;
+    text-align: left;
+
+
+}
+</style>
+
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.0.0/mapbox-gl-geocoder.min.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.0.0/mapbox-gl-geocoder.css' type='text/css' />
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
+<body>
+
+<div id='map'>
+<div id='legend'>
+
+  <nav class='legend clearfix'>
+<h1>Porcentaje de voto a PSOE</h1></br>
+   <span style='background:#cc001e;opacity:0.05;'></span>
+    <span style='background:#cc001e;opacity:0.2;'></span>
+    <span style='background:#cc001e;opacity:0.4;'></span>
+    <span style='background:#cc001e;opacity:0.6;'></span>
+    <span style='background:#cc001e;opacity:0.8;'></span>
+    <span style='background:#cc001e;opacity:1;'></span>
+    <label>0</label>
+    <label>10%</label>
+    <label>20%</label>
+    <label>30%</label>
+    <label>40%</label>
+    <label>50%+</label>
+</nav></div></div><div id='geocoder' class='geocoder'></div>
+
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibGF1cjA1IiwiYSI6ImNpbmtmM2FjazAwODF2eG0yNjhteTcxdHIifQ.l7uzjVe2b1L8dHh_Z9JjoQ';
+var map = new mapboxgl.Map({
+container: 'map', // container id
+style: 'mapbox://styles/laur05/cjuvi3xkc8dik1fmtpwe3xjhh', 
+center:  [-4.0222, 39.5], // starting position [lng, lat]
+zoom: 5,// starting zoom
+minZoom: 2,
+maxZoom: 10,
+attributionControl: false,
+//maxBounds: [[-12.5,33],[4.5,45] ]
+});
+
+var hoveredStateId =  null;
+var searched_lngLat = null;
+map.on('load', function () {
+// Add a layer showing the state polygons.
+
+
+map.addSource("resultados", {
+    type: 'vector',
+    url: 'mapbox://laur05.75llz8kn',
+});
+
+var layers = map.getStyle().layers;
+// Find the index of the first symbol layer in the map style
+
+map.addLayer({
+'id': 'tiles-fills',
+'type': 'fill',
+'renderingMode': '2d',
+'source': 'resultados',
+'source-layer': 'part2015i-5i03lk',
+'paint': {
+'fill-color':{ property: 'pPart', // this will be your density property form you geojson
+              stops: [
+                [-10, '#b2182b'],
+                [-5, '#ff8b60'],
+                [-0.01, '#ffdcc7'],
+                [0, '#cae6f1'],
+                [5, '#30aad2'],
+                [10, '#0066b0'],
+
+              ]
+              },
+"fill-opacity": ["case",
+["boolean", ["feature-state", "hover"], false],
+0.5,
+1
+]
+}}, "admin");
+
+
+map.addLayer({
+'id': 'tiles-borders',
+'type': 'line',
+'renderingMode': '2d',
+'source': 'resultados',
+'source-layer': 'part2015i-5i03lk',
+'paint': { 
+'line-color': ["case", ["boolean", ["feature-state", "hover"], false], "black", "white"],
+'line-width': ["case", ["boolean", ["feature-state", "hover"], false], 2, 0]}
+
+    });
+
+
+
+// Add zoom and rotation controls to the map.
+var nav = new mapboxgl.NavigationControl( {showCompass:false});
+map.addControl(nav, 'top-left');
+
+// disable map zoom when using scroll
+map.scrollZoom.disable();
+// geocoder
+var geocoder = new MapboxGeocoder({
+    accessToken: mapboxgl.accessToken,
+    countries: 'es',
+    //types: 'address', 
+    placeholder: 'Busca tu calle',
+    /*bbox: [ -28, 25, 22, 52],*/
+    zoom: 14, 
+});
+map.addControl(geocoder, 'top-right');
+
+
+var popup = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false,
+    anchor: "top",
+    offset: 30
+}); 
+
+   map.on('mousemove', 'tiles-fills', function(e) { 
+    if (e.features.length > 0) {
+          if (hoveredStateId) {          
+            map.setFeatureState({ 
+                source: 'resultados',
+                sourceLayer: 'part2015i-5i03lk',
+                id: hoveredStateId
+            }, { 
+                hover: false});
+          }
+          hoveredStateId = e.features[0].id;
+          map.setFeatureState({ 
+            source: 'resultados', 
+            sourceLayer: 'part2015i-5i03lk',
+            id: hoveredStateId
+        }, { 
+            hover: true
+        }); 
+      }
+      
+       map.getCanvas().style.cursor = 'pointer';
+
+        popup.setLngLat(e.lngLat)
+            .setHTML("<div style='color:black;font-size:12px;font-family: OpenSans-bold, Open Sans;padding-bottom:3px'><b>" + e.features[0].properties.pMuni + "</b></div><hr><div style='padding-top: 4px; font-size: 12px;font-family: Open Sans;text-align: center;'>" + e.features[0].properties.pPart + " %</div>").addTo(map);
+
+            select_municipio(e.features[0])      
+      
+
+        
+ 
+
+    geocoder.on('result', function(ev) {
+      searched_lngLat = mapboxgl.LngLat.convert(ev.result.center)      
+    });
+        
+  map.on('moveend', 'tiles-fills', function() {
+        map.getCanvas().style.cursor = '';
+        popup.remove();
+        if (hoveredStateId) {
+                    map.setFeatureState({
+                        source: 'resultados',
+                        sourceLayer: 'part2015i-5i03lk',
+                        id: hoveredStateId
+                    }, {
+                        hover: false
+                    });
+                }
+                hoveredStateId = null;
+            });
+
+
+function select_municipio(feature) {
+}
+
+});   
+
+            
+  });   
+
+        // Change the cursor style as a UI indicator.
+
+        
+        // Display a popup with the name of the county
+
+
+
+
+
+
+</script> 
+</body>
+</html>
